@@ -1,5 +1,7 @@
 name: Legends
 markdown: redcarpet
+redcarpet:
+    extensions: ["autolink", "tables", "with_toc_data"]
 pygments: true
 highlighter: pygments
 repository: https://github.com/victusfate/Legends
