@@ -1,6 +1,4 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**
 
 - [Legends](#legends)
 - [Introduction](#introduction)
@@ -68,13 +66,13 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-#  Legends
+# Legends
 
 A game of fame, fortune, and high adventure.
 
 Copyright 2001 Mark Essel, Aakin N. Patel, Eli Sacks
 
-#  Introduction
+# Introduction
 
 Your day began with a proud and joyous realization, you turned 17 today. You
 woke up early, to go out on a simple hunting mission. It is customary for
@@ -111,7 +109,7 @@ houses in the village. Your quest is beginning, as you travel out with your
 bow to wreak havoc on all those who stand against you, and to find your
 family’s murderers. There’s a blood debt to be paid.
 
-##  About Legends
+## About Legends
 
 Welcome to the world of Legends: A Victus Role-Playing Game.
 
@@ -147,17 +145,17 @@ would your character react to different situations, has their response been
 colored by a tragic or compassion filled history? Is your character a hopeless
 romantic, a born comedian, or perhaps an ascetic monk?
 
-###  The World of Legends
+### The World of Legends
 
 Pecks have overrun the surface of the many worlds. Vile, insidious, dark
 skinned halfings with only one thing on their mind, torturing all other
 creatures with their foul and ridiculous nesting habits.
 
-#  Character Generation
+# Character Generation
 
-##  Quick Character Creation
+## Quick Character Creation
 
-###  Attributes
+### Attributes
 
 Every character has 6 main attributes:
 
@@ -176,9 +174,7 @@ Attribute values are determined by one of two methods:
 Attributes can be advanced during the course of the game, using XP points.
 (See Experience Points section at the end of this chapter).
 
-###
-
-###  Choosing Initial Powers and Abilities
+### Choosing Initial Powers and Abilities
 
 Legends have 3 Legendary power points to spend at the beginning of the game,
 unless the game master has chosen otherwise (1 for a lower powered legends
@@ -192,7 +188,7 @@ on top of the normal stat) and may go far beyond the normal maximum. Certain
 rare tomes or places of powers (pools, shrines) can grant either specific sub-
 powers or one sub-power of the player's choice.
 
-####  List of Powers
+#### List of Powers
 
   * Ability Enhancement
   * Action Man
@@ -203,7 +199,7 @@ powers or one sub-power of the player's choice.
   * Inventor
   * Legendary
 
-####  List of Subpowers
+#### List of Subpowers
 
   * Aquatic Affinity
   * Armored Caster
@@ -242,9 +238,7 @@ powers or one sub-power of the player's choice.
 
 * = Mutually exclusive sub-powers only one of these sub-powers may be obtained by any character
 
-###
-
-###  Skills
+### Skills
 
 Characters have their THT times two in skill points to spend. They get 1 free
 level in Literacy and Pilot Land.
@@ -289,9 +283,7 @@ Skills are listed in bold font, with their masteries following in parenthesis:
   * Siege Weapon Systems (Quick Shot, Point Defense)
   * Wood Working (Carver)
 
-###
-
-###  Attributes Details
+### Attributes Details
 
 Characters have 6 basic attributes in the Victus game system: Strength,
 Agility, Durability, Thought, Will, and Presence. An average human has a score
@@ -300,7 +292,7 @@ is 10. Realistically, 99% of the population never reaches above a 8. Legends
 can exceed these values, although they are limited by the bonus their powers
 give above 10.
 
-####  Basic Attributes
+#### Basic Attributes
 
 Strength (STR):
 
@@ -311,340 +303,76 @@ lifting over their head) is 2(Strength/2)*20. Standing jumps can be up to a
 characters strength/2 in feet. Horizontal distance may be up to the characters
 strength in feet. A running jump doubles these heights and distances.
 
-^ Strength ^ Maximum Lifting (Dead Lift) (lbs) ^
-
-1
-
-28
-
-2
-
-40
-
-3
-
-57
-
-4
-
-80
-
-5
-
-113
-
-6
-
-160
-
-7
-
-226
-
-8
-
-320
-
-9
-
-453
-
-10
-
-640
-
-11
-
-905
-
-12
-
-1280
-
-13
-
-1810
-
-14
-
-2560
-
-15
-
-3620
-
-16
-
-5120
-
-17
-
-7241
-
-18
-
-10240
-
-19
-
-14482
-
-20
-
-20480
-
-21
-
-28963
-
-22
-
-40960
-
-23
-
-57926
-
-24
-
-81920
-
-25
-
-115852
-
-26
-
-163840
-
-27
-
-231705
-
-28
-
-327680
-
-29
-
-463410
-
-30
-
-655360
-
-31
-
-926819
-
-32
-
-1310720
-
-33
-
-1853638
-
-34
-
-2621440
-
-35
-
-3707276
-
-36
-
-5242880
-
-37
-
-7414552
-
-38
-
-10485760
-
-39
-
-14829104
-
-40
-
-20971520
+| Strength | Maximum Lifting (Dead Lift) (lbs) |
+|----------|-----------------------------------|
+| 1        | 28                                |
+| 2        | 40                                |
+| 3        | 57                                |
+| 4        | 80                                |
+| 5        | 113                               |
+| 6        | 160                               |
+| 7        | 226                               |
+| 8        | 320                               |
+| 9        | 453                               |
+| 10       | 640                               |
+| 11       | 905                               |
+| 12       | 1280                              |
+| 13       | 1810                              |
+| 14       | 2560                              |
+| 15       | 3620                              |
+| 16       | 5120                              |
+| 17       | 7241                              |
+| 18       | 10240                             |
+| 19       | 14482                             |
+| 20       | 20480                             |
+| 21       | 28963                             |
+| 22       | 40960                             |
+| 23       | 57926                             |
+| 24       | 81920                             |
+| 25       | 115852                            |
+| 26       | 163840                            |
+| 27       | 231705                            |
+| 28       | 327680                            |
+| 29       | 463410                            |
+| 30       | 655360                            |
+| 31       | 926819                            |
+| 32       | 1310720                           |
+| 33       | 1853638                           |
+| 34       | 2621440                           |
+| 35       | 3707276                           |
+| 36       | 5242880                           |
+| 37       | 7414552                           |
+| 38       | 10485760                          |
+| 39       | 14829104                          |
+| 40       | 20971520                          |
 
 Agility (AGI): Represents manual dexterity and maneuverability, as well as the
 ability to avoid something. The number of actions you may take per round is
 your character agility divided by 4 rounding down with a minimum of one action
 per round.
 
-Agility
-
-Walking Speed
-
-Jogging Speed
-
-Sprinting Speed
-
-1
-
-.5 yrd/sec
-
-1 yrds/sec
-
-1.5yrds/sec
-
-2
-
-1 yrds/sec
-
-2 yrds/sec
-
-3 yrds/sec
-
-3
-
-1.5 yrds/sec
-
-3 yrds/sec
-
-4.5yrds/sec
-
-4
-
-2 yrds/sec
-
-4 yrds/sec
-
-6 yrds/sec
-
-5
-
-2.5 yrds/sec
-
-5 yrds/sec
-
-7.5yrds/sec
-
-6
-
-3 yrds/sec
-
-6 yrds/sec
-
-9 yrds/sec
-
-7
-
-3.5 yrds/sec
-
-7 yrds/sec
-
-10.5yrds/sec
-
-8
-
-4 yrds/sec
-
-8 yrds/sec
-
-12yrds/sec
-
-9
-
-4.5 yrds/sec
-
-9 yrds/sec
-
-13.5yrds/sec
-
-10
-
-5 yrds/sec
-
-10 yrds/sec
-
-15yrds/sec
-
-11
-
-5.5 yrds/sec
-
-11 yrds/sec
-
-16.5yrds/sec
-
-12
-
-6 yrds/sec
-
-12 yrds/sec
-
-18yrds/sec
-
-13
-
-6.5 yrds/sec
-
-13 yrds/sec
-
-19.5yrds/sec
-
-14
-
-7 yrds/sec
-
-14 yrds/sec
-
-21yrds/sec
-
-15
-
-7.5 yrds/sec
-
-15 yrds/sec
-
-22.5yrds/sec
-
-16
-
-8 yrds/sec
-
-16 yrds/sec
-
-24yrds/sec
-
-17
-
-8.5 yrds/sec
-
-17 yrds/sec
-
-25.5yrds/sec
-
-18
-
-9 yrds/sec
-
-18 yrds/sec
-
-27yrds/sec
-
-19
-
-9.5 yrds/sec
-
-19 yrds/sec
-
-28.5yrds/sec
-
-20
-
-10 yrds/sec
-
-20 yrds/sec
-
-30yrds/sec
+| Agility | Walking Speed | Jogging Speed | Sprinting Speed |
+|---------|---------------|---------------|-----------------|
+| 1       | .5 yrd/sec    | 1 yrds/sec    | 1.5yrds/sec     |
+| 2       | 1 yrds/sec    | 2 yrds/sec    | 3 yrds/sec      |
+| 3       | 1.5 yrds/sec  | 3 yrds/sec    | 4.5yrds/sec     |
+| 4       | 2 yrds/sec    | 4 yrds/sec    | 6 yrds/sec      |
+| 5       | 2.5 yrds/sec  | 5 yrds/sec    | 7.5yrds/sec     |
+| 6       | 3 yrds/sec    | 6 yrds/sec    | 9 yrds/sec      |
+| 7       | 3.5 yrds/sec  | 7 yrds/sec    | 10.5yrds/sec    |
+| 8       | 4 yrds/sec    | 8 yrds/sec    | 12yrds/sec      |
+| 9       | 4.5 yrds/sec  | 9 yrds/sec    | 13.5yrds/sec    |
+| 10      | 5 yrds/sec    | 10 yrds/sec   | 15yrds/sec      |
+| 11      | 5.5 yrds/sec  | 11 yrds/sec   | 16.5yrds/sec    |
+| 12      | 6 yrds/sec    | 12 yrds/sec   | 18yrds/sec      |
+| 13      | 6.5 yrds/sec  | 13 yrds/sec   | 19.5yrds/sec    |
+| 14      | 7 yrds/sec    | 14 yrds/sec   | 21yrds/sec      |
+| 15      | 7.5 yrds/sec  | 15 yrds/sec   | 22.5yrds/sec    |
+| 16      | 8 yrds/sec    | 16 yrds/sec   | 24yrds/sec      |
+| 17      | 8.5 yrds/sec  | 17 yrds/sec   | 25.5yrds/sec    |
+| 18      | 9 yrds/sec    | 18 yrds/sec   | 27yrds/sec      |
+| 19      | 9.5 yrds/sec  | 19 yrds/sec   | 28.5yrds/sec    |
+| 20      | 10 yrds/sec   | 20 yrds/sec   | 30yrds/sec      |
 
 This score is used in conjunction with skills to strike at an opponent or to
 dodge out of the way of their blows. Agility is also the base jogging movement
@@ -690,7 +418,7 @@ attribute is inapplicable (when arguing with your mother, or in most action
 sequences for instance, although intimidation or a demand to surrender may be
 possible when used in unison with an impressive act).
 
-##  Legendary Power Details
+## Legendary Power Details
 
 A power point can purchase access and the first Power Level for one Legendary
 Ability. Temporary Will Points may be gained for certain Legendary Powers.
@@ -699,7 +427,7 @@ with a Will of 6 and both Attribute: Strength 4 and Divine Power:6 you could
 Push your strength 3 times (2 temporary will points each) and use Eternal
 Light 6 times.
 
-###  Ability Enhancement
+### Ability Enhancement
 
 This is the bread and butter Legendary Power which enables them to far surpass
 most normal creatures in a specific attribute. One of the character’s
@@ -720,7 +448,7 @@ same skill twice.
   * Level 9: Gain +2 to the chosen attribute
   * Level 10: Avatar, you have become the living representation of the ultimate ability of this attribute. You may now use this attribute to perform feats that bewilder the logical mind → limited only by what the player can imagine. To succeed at extreme strength feats, make a STR check (d20 + STR). Examples for Strength include squeezing coal into a large diamond (Difficulty 30), or throwing an opponent into orbit as feats of Strength (Difficulty 34). An agility example could be to dodge acid molecules as you swim deep beneath the surface in an acid pool (Difficulty 34). The difficulty ranges from Tough (22) to Crack Trip (34) depending on what the avatar wishes to use this attribute for. The cost is 2 temporary will points.
 
-###  Action Man
+### Action Man
 
 The character gains the action man skill.
 
@@ -735,7 +463,7 @@ The character gains the action man skill.
   * Level 9: Even the character's ghost trail is insanely fast. This ability grants them a +2 more bonus to Deflection (Parry/Evade).
   * Level 10: +1 additional action. Bizzaro Speed: you can do feats of speed that boggle the imagination and can cause odd black mucous to hemorrhage forth from onlookers skulls. At the cost of 2 temporary will points and a Crack Trip difficulty check of Action Man Power Level + Will, you can do almost anything you can imagine as you long as you explain it through a use of bizarre speed.
 
-###  The Attuned
+### The Attuned
 
 You are one with the world. You know the flows of its forces and the path of
 destiny. You have seen beyond the mundane attachments of worldly pleasure and
@@ -752,7 +480,7 @@ pain, you have become enlightened.
   * Level 9: Force of the Mind, now you can use your Attuned Power level + Will as form of ranged telekinetic strength. The reach of your mind power is up to 100yards + 20yards per Attuned Level. Weapons can be wielded, objects manipulated, etc. In addition the Attuned may concentrate a focused blast at will to strike opponents for effective strength in damage possibly knocking back a target.
   * Level 10: Wrath of the Forest: You gain an oaken staff from the great Beyond! Also referred in legend as the Long Arm of the Yg. The staff acts as a Magical Weapon +5 (to hit and base damage bonus), in addition it is always strikes as if the Lightning Blade Spell cast at 10th level which adds an additional 7 damage to melee attacks (+5 to hit, Str + 12(magic) + 2(staff) base damage total). Finally using the staff you may focus beam like blasts of electricity at will as a missile attack (adding +5 for the Magical to hit bonus) with a base damage of 2d6 + 10 + 2/level. If the staff is ever removed or destroyed you are so attuned to it you may summon it back and fix it at will. Any creatures struck by this staff or blast instantly sprouts a small annoying flower from their forehead for each time hit. The flower may be removed normally.
 
-###  Dark Pact
+### Dark Pact
 
 The character has made a bargain (or multiple bargains) with some greater
 force of evil (Hell Lords, Dread Mages, Dark Gods) and has been infused with
@@ -772,7 +500,7 @@ of the higher power to pay for their crimes. The power may not be revoked.
   * Level 9: Greater Hell Form, Permanently gain an additional +2 Str, +3 Durability. In addition they can transform 1/day into an even more sinister looking demonic form (detailed by the character) which allows Sustained, Swim & Winged Flight at double your normal movement rates (walking/jogging/sprinting). The duration of Greater Hell Form is 1 hour per Dark Pact level.
   * Level 10: Demigodhood. Now your character sprouts up focused worshippers all through the lands and has garnered true power over creation and destruction. Through a force of will you can mold reality (modifying and conjuring inanimate objects but not wishing folks dead). Minor and superficial changes require a Tough (22) Will + Dark Pact check. More incredible changes like summoning an entire castle from the earth require a Crack Trip (34) Will + Dark Pact Check. One attempt per 2 temporary will points per day may be made to modify reality. Permanent constructs cost 400 AP worth of materials. The maximum magic item bonus for constructed items is +3.
 
-###  Divine Power
+### Divine Power
 
 The character has made a bargain ( or multiple bargains) with some greater
 force of good { Angels, Light Gods, ArchMages } and has been infused with
@@ -792,7 +520,7 @@ Power and many of the abilities are cumulative.
   * Level 9: Arch Ascension, Permanently gain +2 Str, +3 Durability. In addition they can transform 1/day into a Arch Angelic form (detailed by the character) which allows Swimming and Winged Flight at double their normal movement rates (walking/jogging/sprinting). The duration of this form is a maximum of one hour per Divine Power level.
   * Level 10: Demigodhood. Now your character sprouts up focused worshippers all through the lands and has garnered true power over creation and destruction. Through a force of will you can mold reality (modifying and conjuring inanimate objects but not wishing folks dead). Minor and superficial changes require a Tough (22) Will + Divine Power check. More incredible changes like summoning an entire castle from the earth require a Crack Trip (34) Will + Divine Power Check. One attempt per 2 temporary will points per day may be made to modify reality. Permanent constructs cost 400 AP worth of materials. The maximum magic item bonus for constructed items is +3.
 
-###  Regeneration/Shapeshift
+### Regeneration/Shapeshift
 
 The character gains the Regeneration/Shapeshift Legendary Power. As the
 characters knowledge of their self healing increases they gain new abilities.
@@ -814,7 +542,7 @@ amount equal to their base, per action spent concentrating on healing.
   * Level 9: regenerate 12 hit points per round.
   * Level 10: Gains +2 DR from skin and rearranged organs (that's +10 skin DR to physical attacks from this power). Exalted Shapechange, your form can fluidly shift into almost anything desired. Much like Shapechange except now you may choose any lvl 1-5 monster. Finally you cannot be destroyed unless after being damaged pass negative the point of normal death, your body is beheaded, burned, and then the ashes are spread. Anything less and your character will begin reforming from the ashes.
 
-###  Inventor
+### Inventor
 
 The hero gains the Inventor skill. He is a genius scientist capable of
 engineering feats that would amaze the greatest of simpletons. All
@@ -833,6 +561,8 @@ reconstruction back in a lab/workshop environment. Golems are deactivated at
 -1 HP and destroyed when damage exceeds negative Durability.
 
 Inventors gain the contingency man subpower for free at level 1
+
+Golem Stats
 
 Golem Stats
 
@@ -873,9 +603,7 @@ Immune to mental attacks
 
 **Personal Artillery**: You can now create one of the following personal weapons: blunderbuss, pistol, automatic crossbow, spring action harpoon, heli-blade, or high bounce shoes (the most dangerous “Personal” artillery) useable only by the inventor, and/or his golem. Base Construction time: 4 weeks. Failed attempts require an additional base time of 2 weeks and half the starting price. Roll thought + engineering + d20 check vs Difficulty: 16+Inventor Level. Cost: 10 AP. The item has a base damage of Engineering Skill Level + 4(at time of creation). Base range is 300 yards. The weapons may be used in melee as well using melee skill if so desired ( Sword Gun, Pistol ). In addition you have modified your Golem(s) so that it is capable of having a swivel mounted turret to fire or attack with your Personal Artillery. Personal Artillery can be fired by either the Inventor or the Golem, so it behooves the inventor to create at least 2 personal artillery. Ammunition is unlimited.
 
-  * Level 4: 
-
-+2 Engineering skill
+  * Level 4:  +2 Engineering skill
 
 Air Ship: you can construct an air ship. It's size and speed is dependent on
 your level. The Air Ship's vehicle agility limits the maximum evade and
@@ -894,63 +622,43 @@ difficulty of constructing the ship is 20 + level of the inventor. Base
 Construction time: 8 weeks. A failed check requires an additional 4 weeks and
 10 AP per inventor level to try again.
 
-Airship Stats
+# Airship Stats
 
-Maximum Length
-
-Inventors Skill*10 feet long
-
-Maximum Height & Width
-
-Inventors Skill*5 feet long (masts can reach max length)
-
-Max Vehicle Agility
-
-Engineering Skill Level
-
-Base Speed
-
-Thought + Engineering Skill Level yards/sec, max speed is 3 times this
-
-Effective Strength
-
-Engineering Skill Level + 7 (carrying capacity determined by max lift)
-
-DR
-
-Engineering Skill Level + 4
-
-HP
-
-10 * Engineering Skill Level
+| Attribute | Value |
+| --- | --- |
+| Maximum Length | Inventor's Skill * 10 feet |
+| Maximum Height & Width | Inventor's Skill * 5 feet (masts can reach max length) |
+| Max Vehicle Agility | Engineering Skill Level |
+| Base Speed | Thought + Engineering Skill Level yards/sec (max speed is 3 times this) |
+| Effective Strength | Engineering Skill Level + 7 (carrying capacity determined by max lift) |
+| Damage Resistance (DR) | Engineering Skill Level + 4 |
+| Hit Points (HP) | 10 * Engineering Skill Level |  
 
   * Level 5: 
+  You've developed the intricate plans to the handy dandy Grapeller Launcher and
+  the Mysterio Shrink Ray that the inventor or his golem may wield. The
+  Grapeller Launcher is a small hand held or forearm guard device is a versatile
+  design. It is used to fire a grappling arrow/hook up to 300 feet and reel the
+  holder of the item or the target struck in at 20yards/sec. It can also be used
+  for swinging. The Strength of the grappler gun is 2*Inventor Level, and the
+  base construction time is 1 week, difficulty 14+Inventor Level, cost is 10AP.
+  Although the Grapeller Launcher isn't designed for direct attacks, if it hits
+  a target (use missile skill) it's base damage is its strength. You can fashion
+  a pair to be attached to your Golem as well.
 
-You've developed the intricate plans to the handy dandy Grapeller Launcher and
-the Mysterio Shrink Ray that the inventor or his golem may wield. The
-Grapeller Launcher is a small hand held or forearm guard device is a versatile
-design. It is used to fire a grappling arrow/hook up to 300 feet and reel the
-holder of the item or the target struck in at 20yards/sec. It can also be used
-for swinging. The Strength of the grappler gun is 2*Inventor Level, and the
-base construction time is 1 week, difficulty 14+Inventor Level, cost is 10AP.
-Although the Grapeller Launcher isn't designed for direct attacks, if it hits
-a target (use missile skill) it's base damage is its strength. You can fashion
-a pair to be attached to your Golem as well.
-
-The Mysterio Shrink Ray can shrink a target down to 25% of it's normal size.
-This reduces Strength of the target by 4. To affect an unwilling target a
-missile roll to hit must succeed. It doesn't stack (can't repeatedly shrink
-the same target). The shrink ray duration is 1 hr/level on willing target
-which takes 1 minute apply, and if used in combat its single action activated
-duration is 1 round + 1 round / success.
-
+  The Mysterio Shrink Ray can shrink a target down to 25% of it's normal size.
+  This reduces Strength of the target by 4. To affect an unwilling target a
+  missile roll to hit must succeed. It doesn't stack (can't repeatedly shrink
+  the same target). The shrink ray duration is 1 hr/level on willing target
+  which takes 1 minute apply, and if used in combat its single action activated
+  duration is 1 round + 1 round / success.
   * Level 6: +2 to the inventor's agility and missile skill as they further hone their expertise, +2 Engineering skill
   * Level 7: Their resistance to lab explosions has toughened both the Inventor's hide and will. They gain +3 Durability, +2 skin DR, and +3 Will.
   * Level 8: Improved Personal Artillery: much like Personal Artillery this ability is an upgrade to the existing weapon that increases its damage to Engineering Skill Level + Inventor Level. The new range is 400 yards. In addition you've developed rocket boots for your Golem which enable it to fly at a base speed of Engineering Skill Level in yards/sec (triple this speed max). This rockets are fueled by the Golem's internal power source and the total duration for travelling base speed is one hour. This time is the equivalent of 10 minutes of X3 (sprinting) speed. The rocket boots may only be used for one hour total in any 24 hour period.
   * Level 9: Engineering Judgement→ the inventor can do truly ridiculous things with his knowledge of engineering. At the cost of 2 temporary will points a bonus of up to the inventor level can be given to any roll the inventor is making or defending against (i.e. to hit rolls, skill checks, evade, ability checks, you name it). The bonuses apply for one combat round worth of actions and are declared on the inventor's initiative.
   * Level 10: A.C.E. up your sleeve, this genius ability is the ultimate contingency plan based on an extraordinarily advanced gadget. When all else seems to be failing you can always rely on the A.C.E. It stands for Advanced Contingency Engineering. The Inventor is allowed to spend a single action devising a plan using an A.C.E. gadget that can have amazing in game effects. The success of the A.C.E. gagdet is dependent on the skill check made when employing the device, d20 + Engineering + THT. Examples of what an A.C.E. is capable of include inflating out to an incredibly durable cage = Difficulty 14; to instantaneously manifesting as an advanced construction plant that forms a town or large castle = Difficulty 34. Bonuses yielded by an A.C.E. for any permanent effects are +3, and temporary bonuses should be no higher than your Inventor level. Perhaps you've always wanted to be a proud owner of a pair of Masterwork Elite Engineering Goggles, +3 to Will. Generally if an A.C.E. creates an item that has a permanent modifier the difficulty is Crack Trip and bonuses are not self cumulative (can't keep stacking A.C.E. effects) nor are they cumulative with magical bonuses (can't have +3 to a stat from an A.C.E. and another +5 from magic items). The only real limit of an A.C.E. is the creative ability of the inventor. The difficulty to construct an A.C.E. is 34, and it's cost is 10 AP, but to create permanent or other crack trip difficulty effects (during deployment) requires an additional 400 AP. The base construction time is 1 day. 
 
-###  Legendary
+### Legendary
 
 You are slated to be the one of the greatest of the Legends. Wherever you go,
 people know and recognize you. You do great things; people retell them even
@@ -965,9 +673,9 @@ greater. Your mark on the world is assured.
   * Level 7: Legendary Endurance: Each Legend Point you spend is more potent and greater than that of even other Legends. Any bonuses normally gained are gained for twice as long.
   * Level 8: Every time the GM gives out Legend points you get 3 Legend points instead of one, or bonus of 2 Legend points.
   * Level 9: Legendary Might: Each Legend Point you spend is further improved and now gains +50% of the bonuses listed normally (round up). In addition you become more hardy and resilient overall, gain +3 WIL and DUR.
-  * Level 10 You have become the living embodiment of Legend! Once per game session on a successful Crack Trip difficulty check of Legend Power + Will + d20, you may take over the roll of GM and allegorically describe how an encounter turns out, judged by your peers and GM this is without doubt the most potent of all the powers in the Victus Roleplaying Games. Used wisely it can turn an entire party defeat into glorious escape, survival and retribution. Judicious usage of this power is required by both experienced players and GMs.
+  * Level 10 You have become the living embodiment of Legend! Once per game session on a successful Crack Trip difficulty check of Legend Power + Will + d20, you may take over the roll of GM and describe how an encounter turns out, judged by your peers and GM this is without doubt the most potent of all the powers in the Victus Roleplaying Games. Used wisely it can turn an entire party defeat into glorious escape, survival and retribution. Judicious usage of this power is required by both experienced players and GMs.
 
-##  SubPower Details
+## SubPower Details
 
 Starting Legends may purchase sub-powers in addition to their primary power.
 Temporary Will Points may be gained for certain Sub-Powers, each sub-power has
@@ -1012,7 +720,7 @@ times.
   * Warlord: You are a master of combat and strategy. Warlords get +2 bonus skill levels to the Melee, Missile and Tactics skill. This bonus rides on top of the normal skill level. This means that a warlord is NEVER unskilled at physical combat, even if he doesnt buy the appropriate skill.
   * Wealth: Simple stated, you are filthy rich. Start off with 1d6 * 1,000AP fortune.
 
-##  Spells
+## Spells
 
 *Unless otherwise noted, all spells can be dispelled at will. Spells are not cumulative with themselves normally (can't cast the same spell twice and get double the bonus). But in many cases you may cast two similar spells that add to an attribute or stat and reap the reward of combining the bonuses. Spells may not be case while wearing any type of mundane armor as the heavy protective materials interfere with the mystic aura that shrouds the caster during magical energy manipulation. Those with the Armored Caster sub-power have developed an internalized form of the magic spell casting process, allowing them to wear the heavist of armors without penalty.
 
@@ -1048,7 +756,7 @@ pools although they are unable to summon any other beings. These powerful
 creatures can act as magic force multipliers and effectively provide
 additional mana for spellcasters mighty enough to summon them.
 
-###  Spell Mastery:
+### Spell Mastery:
 
 Mages can, if they so choose, opt to become masters at certain skills. It is
 possible to become far better at a certain spell than the regular caster,
@@ -1058,7 +766,7 @@ that spell. So, a mage choosing to specialize in Wrath Of God must pay 6XP; a
 mage choosing to master in StoneSkin must pay 9XP and in either case would
 cast those spells at their normal skill level + 5.
 
-###  Fire Spells
+### Fire Spells
 
 Level 1
 
@@ -1112,7 +820,7 @@ Level 10
 
   * Fire Storm – A powerful firestorm floods a huge area purging all those in the area for 2d6 + 4 + 1dam/lvl. The area of this spell is 500 ft radius/lvl. Range 600ft/lvl. No roll to hit big bad boom. “The city was consumed in flame as if hell had opened up on it!”, the single survivor of Gamora the flying turtle backed city. Casting time for this spell is one minute and it may only be cast once per day.
 
-###  Water Spells
+### Water Spells
 
 1st Level
 
@@ -1510,69 +1218,31 @@ Skill List
   * Pinnacle of Structural Design: Any time you construct a vehicle or other gadget it gains a DR of 4 higher than normal and an additional 50% hit points (round down) applied after all other hit point modifiers have been taken into account (material type, etc.).
   * Juggernaut: You have gained the ability to construct a marvelous machine of destruction. Though the power sources vary (steam, wood/coal, oil, even magic) each juggernaut is a massive land vehicle with a carrying capacity of at least 30 tons (U.S. so 60,000pounds with an effective strength of 23). Juggernauts are often covered in various weapons that passengers can fire (ballistas, catapults, burning pitch, Alchemical bombs, etc.) the swivel mounts allow the passengers to fire the weapons with full skill. The maximum evade and ramming ability of the Juggernaut may limit the skill and agility of the pilot. It is dependent on the vehicle agility listed in the table below (max evade = 11+2*vehicle agility, max bonus to ramming attack d20+2*vehicle agility). The Juggernaut is capable of ramming into objects or creatures with a roll to hit based on the pilot's Pilot land (or sea skill if in water) and agility using the effective strength for base damage. This maneuver may only be done once per round. Against a single target the vehicle needs to accelerate and maneuver properly, and against groups of enemies make one roll to hit and apply it to all creatures in the path of the Juggernauts movement (misses mean the targets dodged aside). Women love this thing. Loggers also love it. The Juggernaut is also seaworthy. A standard supply of fuel can keep a Juggernaut cruising for several days (about a week) or sprinting speed (x3) for about a day. Magic power sources allow for unlimited travelling. The cost to construct such a marvel is 2500 AP which is one quarter of the base market price of 10,000 AP. The Base construction time for the Juggernaut is 6 months. The price of a magic power source for one of these devices could be very high, 1000AP.
 
-Juggernaut Stats
+# Juggernaut Stats
 
-Maximum Length
+| Attribute | Value |
+| --- | --- |
+| Maximum Length | Engineering Skill * 5 feet |
+| Maximum Height & Width | Engineering Skill * 2 feet |
+| Max Vehicle Agility | 3 + (Engineering Skill/2) (round up) |
+| Base Speed | Engineering Skill yards/sec |
+| Effective Strength | 13 + Engineering Skill |
+| Damage Resistance (DR) | 7 + (Engineering Skill/2) (round down) |
+| Hit Points (HP) | 10 * Engineering Skill |
 
-Engineering Skill*5 feet
-
-Maximum Height & Width
-
-Engineering Skill*2 feet
-
-Max Vehicle Agility
-
-3 + (Engineering Skill/2) (rnd up)
-
-Base Speed
-
-Engineering Skill yards/sec
-
-Effective Strength
-
-13 + Engineering Skill
-
-DR
-
-7 + (Engineering Skill/2) (round down)
-
-HP
-
-10 * Engineering Skill
-
-  *  
   * Dirigible Titanicus: You can construct a massive airship, although most often blimp power keeps the vehicle aloft, and steam/wood/coal/oil are used as common fuels, even mystic engines have been constructed for such vessels (no blimp necessary). While not as resistant to attacks as the ground pounding Juggernaut the Dirigible Titanicus can be quite hardy. The Dirigible Titanicus is capable of hauling at least 60tons aloft (25 effective strength). Smaller variants have been known to exist, as well as hardier variants. Given a mystic/magic power source much sturdier constructions can allow for a higher base DR. A standard supply of fuel can keep a Dirigible Titanicus cruising for several days (about a week) or sprinting for a day. Magic power sources allow for unlimited travelling. Favorable winds can even allow no or very low power consumption. The cost to construct such a marvel is 2500 AP which is one quarter of the base market price of 10,000 AP. The Base construction time for the Dirigible Titanicus is 6 months. The price of a magic power source for one of these devices could be very high, 1000AP.
 
-Dirigible Titanicus Stats
+# Dirigible Titanicus Stats
 
-Maximum Length
-
-Engineering Skill*30 feet
-
-Maximum Height & Width
-
-Engineering Skill*10 feet
-
-Max Vehicle Agility
-
-3 + (Engineering Skill/2) (rnd up)
-
-Base Speed
-
-Engineering Skill yards/sec
-
-Effective Strength
-
-15 + Engineering Skill
-
-DR
-
-1 (7 if magic design) + (Engineering Skill/2) (round down)
-
-HP
-
-10 * Engineering Skill
-
+| Attribute | Value |
+| --- | --- |
+| Maximum Length | Engineering Skill * 30 feet |
+| Maximum Height & Width | Engineering Skill * 10 feet |
+| Max Vehicle Agility | 3 + (Engineering Skill/2) (round up) |
+| Base Speed | Engineering Skill yards/sec |
+| Effective Strength | 15 + Engineering Skill |
+| Damage Resistance (DR) | 1 (7 if magic design) + (Engineering Skill/2) (round down) |
+| Hit Points (HP) | 10 * Engineering Skill |  
   * Find/Remove Trap/Lock Picking: Finding Traps is Will based (perception), all others are (Agility)
   * EagleEye: Traps are auto-detected no roll is necessary.
   * CatBurgler: You have the ability to bypass any security lock, passing through while leaving no trace.
@@ -1647,19 +1317,19 @@ HP
   * Wood Working: (Agility) Make figures, toys, wooden weapons. Can make a living as a carpenter.
   * Carver: Can craft masterpiece wooden items like the slave elves do for Santa, complete with decorative carvings. ( i.e. masterwork quarterstaffs +2 to hit, elaborate furnitue, masterwork wooden armor for tree huggers +2DR, etc).
 
-#  Game Rules
+# Game Rules
 
-##  Basics of The Victus Gaming System
+## Basics of The Victus Gaming System
 
-###  Experience Points
+### Experience Points
 
-####  How Much XP Should Be Given
+#### How Much XP Should Be Given
 
 GMs should give out 10xp (standard game) to 15+xp (extraordinary game) per
 game session, depending on how much was accomplished. NPCs (Non-player
 characters, such as hirelings and companions to the PCs) get 5 XP per game.
 
-####  Spending XP
+#### Spending XP
 
 In general, to raise an attribute, skill, or magic skill to the next level, it
 costs the value of the next level in XP. For example, raising a 3 to a 4 costs
@@ -1675,7 +1345,7 @@ value).
 Raising Grit or a Legendary Power is more expensive - it costs twice the next
 level in XP. So, to raise a power from 4 to 5, it will cost 10XP.
 
-###  Attributes, Powers, and Skills
+### Attributes, Powers, and Skills
 
 Attributes: Basic inherent character abilities.
 
@@ -1686,11 +1356,11 @@ customize your Legend.
 
 Skills: Learned abilities.
 
-####  How to Make Power Checks
+#### How to Make Power Checks
 
 Power + d20 vs. ATT + SKILL + 11
 
-####  How to Make Skill Checks
+#### How to Make Skill Checks
 
 Having a skill at Level 1 means that you are a novice in that skill. (In the
 case of trade skills, such as smithing, this means that you can hold down a
@@ -1735,37 +1405,17 @@ are possible. A roll of 20 is an automatic success except in the case of a
 crack trip difficulty (in which case you roll again and add on and compare to
 the difficulty number).
 
-Skill /Action Check
+# Skill /Action Check
 
-Difficulty Number
-
-Easy
-
-8
-
-Sub-Par
-
-14
-
-Average
-
-18
-
-Tough
-
-22
-
-Very Difficult
-
-26
-
-Damn-Near Impossible
-
-30
-
-Crack-Trip (Need skill 10+ to attempt)
-
-34+
+| Difficulty Level | Difficulty Number |
+| --- | --- |
+| Easy | 8 |
+| Sub-Par | 14 |
+| Average | 18 |
+| Tough | 22 |
+| Very Difficult | 26 |
+| Damn-Near Impossible | 30 |
+| Crack-Trip (Need skill 10+ to attempt) | 34+ |
 
 For example, Bob Rica wants to leap off a moving wagon traveling at 10 yards
 per second and grab onto a cart during an ice storm, open the passenger flap
@@ -1796,7 +1446,7 @@ and rope use to level 10 and with his 5 agility he’d need a roll of 19 ( 5 +
 Very powerful legends can do this sort of thing much more successfully, for
 they have fantastic journeys to learn new skills and master old ones.
 
-##  Combat
+## Combat
 
 Combat is fast and vicious in the Victus Game system. Rounds are 1 second
 long, which means that many battles are over in just a few seconds; it doesnt
@@ -1817,7 +1467,7 @@ harpoon gun at the first target through the door”. Or they may delay all their
 actions until after an event happens, “I delay my initiative until the first
 guy comes into the room”.
 
-###  Attacking
+### Attacking
 
 An attack succeeds if the attackers HIT value is equal to or greater than the
 opposing characters TARGET value (which can be determined by their EVADE or
@@ -1828,7 +1478,7 @@ Agi + SKL + d20
 
 SKL refers to the Skill level (usually melee or missile, in the case of
 combat). If the character doesnt have an appropriate skill, then they have a
-penalty of 2 to the roll (giving them Agi + d20 - 2). If a character isnt
+penalty of 2 to the roll (giving them Agi + d20 - 2). If a character isn't
 caught unawares, and tries to dodge the enemy's attack (default), their EVADE
 value is what determines the target difficulty number for the attack. The
 EVADE value of the target is determined by the following:
@@ -1836,8 +1486,8 @@ EVADE value of the target is determined by the following:
 Agi + SKL + 11
 
 In this particular case, the SKL level used would be based on the Acrobatica
-skill. If the character is trying to parry (which can only be done against a
-melee attack), the skill is Melee. Note that Melee parry can only be done if
+skill. If the character is trying to parry (which can only be done against
+melee attacks), the skill is Melee. Note that Melee parry can only be done if
 the weapon damage of the attacking weapon is less than 5 greater than the
 weapon damage of the parrying weapon. Finally shields, some items, and skill
 masteries add a Deflection bonus that is added to both parry and evade
@@ -1887,7 +1537,7 @@ for a battery of 4 of such weapons it'd be 4 points of damage).
 Underwater or foriegn environment gives attackers a -4 to hit roll, and -4 to
 base damage.
 
-###  DR Damage Resistance
+### DR Damage Resistance
 
 Damage can be absorbed by DR (which stands for Damage Resistance). Characters
 may have DR to two types of damage in Legends, Physical and Mental.
@@ -1910,29 +1560,10 @@ Pact: Fury (+2 skin DR), Divine Power: Holy Aura (+2 skin DR), Ice Armor (4
 Armor DR), Dense Air 2 (cast at 4th lvl for 4 Armor DR), Earth Armor (2 Armor
 DR), & Lesser Obsidian Sheath (+2 skin DR)
 
-DR Type
-
-Base DR
-
-Bonuses
-
-Total
-
-Body/Skin
-
-3 (9 Durability)
-
-Thick Skinned +2, Fury +2, Holy Aura +2, Lesser Obsidian Sheath +2
-
-11
-
-Armor
-
-4 (Dense Air 2 or Ice Armor are both superior to Earth Armor)
-
-0
-
-4
+| DR Type   | Base DR | Bonuses | Total |
+|-----------|---------|---------|-------|
+| Body/Skin | 3 (9 Durability) | Thick Skinned +2, Fury +2, Holy Aura +2, Lesser Obsidian Sheath +2 | 11 |
+| Armor     | 4 (Dense Air 2 or Ice Armor are both superior to Earth Armor) | 0 | 4 |
 
 This Legends has a total DR of 15 against physical attacks making him nearly
 impervious to most physical attacks that inflict less than 8 damage (critical
@@ -1941,29 +1572,10 @@ hits always deal 1 point of damage).
 Now this same Legend's Mental DR is given by his Will 8, Dark Pact: Fury (+2
 Mental DR), Divine Power: Holy Aura (+2 Mental DR)
 
-DR Type
-
-Base DR
-
-Bonuses
-
-Total
-
-Body/Skin
-
-2 (8 Will)
-
-Fury +2, Holy Aura +2
-
-6
-
-Armor
-
-0 (No mental armor)
-
-0
-
-0
+| DR Type   | Base DR | Bonuses | Total |
+|-----------|---------|---------|-------|
+| Body/Skin | 2 (8 Will) | Fury +2, Holy Aura +2 | 6 |
+| Armor     | 0 (No mental armor) | 0 | 0 |
 
 With a Mental DR 6 even this juggernaut Legend has to fear mental attacks as
 they can quickly overwhelm his defenses.
@@ -1972,7 +1584,7 @@ Drowning or suffocation damage is d6 per round bypassing all DR. Falling
 damage is 1 point per 10ft fallen, maximized at 20 points for terminal
 velocity.
 
-###  Effects of Damage
+### Effects of Damage
 
 When a character is damaged to 0 hit points or lower they are normally
 unconscious. When a character is damaged past their negative Durability they
@@ -1985,7 +1597,7 @@ damaged past it's maximum hitpoints it is utterly annhilated (i.e. if a Golem
 with 24 maximum hit points is damaged to -25HP or lower it is annhilated,
 simple repair won't work it'll need to be rebuilt from scratch).
 
-###  Grapple Rules
+### Grapple Rules
 
 An attacker can attempt to grapple a single opponent effectively grabbing them
 and holding them in place. With a single action first roll to hit the target,
@@ -2000,22 +1612,19 @@ per action without the 10 penalty), the grappler must use all their actions to
 hold the grapple. After the grapple has been successfully applied the grappler
 may squeeze the target once per round for double their strength in damage.
 
-###  Legend Points
+### Legend Points
 
 These are what separate vicious mercenaries and book-bound mages from the
-Legends. For those familiar with cinematic actoin films, these are the slow
+Legends. For those familiar with cinematic action films, these are the slow
 motion, “Holy Crap!” moments. All characters start with one Legend Point, and
 may gain them in game from accomplishing important goals or doing amazing
 things. Legend Points may be spent on any action (offensive, defensive, etc).
 The effects are wonderous, and should be described in detail by the game
-master of player. An example of blowing a legend point might be the following:
+master or player. An example of blowing a legend point might be the following:
 
   * Saving a character/the party’s life from a lethal attack, this also protects the character for the entire round they spend the Legend point and should likely remove them from an ongoing death situation (i.e. swimming in lava, somehow they get out; being crushed and drowned in a devious trip, they miraculously escape). The more bizzare and entertaining the Legend point description the better.
   * Convincing a king to go off rampaging on a crusade against his beloved and only son.
-  * Shouting with such force that you shatter the heads of the harpy tribe that were about to
-
-scream and devour you.
-
+  * Shouting with such force that you shatter the heads of the harpy tribe that were about to scream and devour you.
   * Creating a work of art the likes of which the world has never seen.
 
 Keeping that in mind, there are a few rules for situations where Legend Points
@@ -2038,7 +1647,7 @@ preferable to spend Legend Points to taking any little bit of damage or
 inconvenience in the game. Legend points should be cherished things that give
 the game that extra touch of wonder, making it that much better to play.
 
-###  Combat Movement
+### Combat Movement
 
 A target can move its normal base move (agility) in yards/second and attack
 normally with a melee, missile weapon, spell, etc. A target can move its
@@ -2053,33 +1662,29 @@ Movement occurs in initiative order unless the initiative winner forces his
 opponents to move first (usually a good idea unless your racing for a doorway
 etc.) and occurs before attacks.
 
-#  Money & Equipment
+# Money & Equipment
 
-##  Money
+## Money
 
-Iron Piece(ip) = today’s $.1
+| Currency | Value |
+| --- | --- |
+| Iron Piece(ip) | today’s $.1 |
+| Copper Piece (cp) | today’s $1 |
+| Silver Piece(sp) | today’s $10 |
+| Gold Piece(gp) | today’s $100 |
+| Adamantite Piece(ap) | today’s $1,000 |
 
-Copper Piece (cp) = today’s $1
+## Quality Modifier
 
-Silver Piece(sp) = today’s $10
+The descriptive qualities are:
 
-Gold Piece(gp) = today’s $100
-
-Adamantite Piece(ap) = today’s $1,000
-
-Quality Modifier:
-
-The descriptive qualities are
-
-Crappy: with a 1/3 cost multiplier
-
-Standard with a times 1 multiplier
-
-Good with a times 3 multiplier and
-
-Fine with a times 10 multiplier
-
-Master Piece with a times 100 multiplier
+| Quality | Cost Multiplier |
+| --- | --- |
+| Crappy | 1/3 |
+| Standard | 1 |
+| Good | 3 |
+| Fine | 10 |
+| Master Piece | 100 |
 
 They may be applied to most items. No weapon or armor modifiers are given
 unless the item is a masterpiece. In order to make a masterpiece simpl
@@ -2087,7 +1692,7 @@ unless the item is a masterpiece. In order to make a masterpiece simpl
 y apply skill crafting masteries to any created objects, no additional time or
 materials are needed.
 
-##  Equipment
+## Equipment
 
 Note about transport vehicles: Vehicles and Golems generally have a HP rating.
 When a vehicle is reduced to zero hitpoints it is no longer functional. When
@@ -2096,104 +1701,55 @@ annhilated.
 
 Generic Equipment
 
-Dragons Blood: Pint: 1 ap
-
-Grappling Hook: Price: 3 sp
-
-Rope: Negates no rope penalty ( without a rope a –2 modifier is applied to the
-climbing check) Price: 1 sp / 50ft
-
-Climbing Spikes: These are attached to the hands and feet to get a better grip
-on things; +2 to climbing checks: 2 sp
-
-Back Pack/Sling Sack: Price: 15 cp
-
-Eli Sacks: Price: 2 sp (huge sacks with a small face sewn on)
-
-Clothing: Breeches/Shirt: 1 sp
-
-Boots: 1 sp
-
-Traveling Cloak/Robe: 1 sp
-
-Lantern: 25 cp
-
-Flask of oil: 1 cp
-
-Flint & Steel: 5 ip
-
-Harsh Whiskey: 1 cp
-
-Keg of Cider/Ale: 5 cp
-
-Paper: 1 cp
-
-Chalk: 10/ip
-
-Slate Board: 5sp
-
-Candle: 5 / cp
-
-Soap: 1cp
-
-Deck of Cards: 1sp
-
-Glass Bottle: 1sp
-
-Wineskin: 1sp
-
-Mug: 1cp
-
-Corrective Glasses: 4 gp
-
-Lock: 15cp
-
-Covered Wagon: 4gp
-
-Cart Wheel: 3sp
-
-Cart: 15 sp
-
-Axle: 5sp
-
-Rations: 4sp/week
-
-Smokes: Rolling leaves 1cp /20, tobacco 1 sp/lb
-
-Pipe 5cp
-
-Standard Prices:
-
-One night’s stay at an inn: 2 sp
-
-A meal: 1 sp
-
-Single day’s coach ride: 2 sp (includes some protection)
-
-Single day’s ship ride: 2 sp (includes some protection)
-
-Animals/Hirelings: (Quality on these purchases can greatly affect their
-skills/attributes)
-
-Ox: 1gp
-
-Horse: 4 gp
-
-Mule: 7sp
-
-Giant Cockroach (trained): 4ap
-
-Servant: 1 sp / day
-
-Wagon Driver: 2 sp / day
-
-Bodyguard: 2 sp / day
-
-Cook: 2 sp /day
-
-Archer: 6 sp /day
-
-Blacksmith: 1 gp / day + materials (1/2 of the price of the item made)
+| Item                           | Price         |
+|--------------------------------|---------------|
+| Dragons Blood (Pint)           | 1 ap          |
+| Grappling Hook                 | 3 sp          |
+| Rope (50ft)                    | 1 sp          |
+| Climbing Spikes                | 2 sp          |
+| Back Pack/Sling Sack           | 15 cp         |
+| ESacks                         | 2 sp          |
+| Clothing: Breeches/Shirt       | 1 sp          |
+| Boots                          | 1 sp          |
+| Traveling Cloak/Robe           | 1 sp          |
+| Lantern                        | 25 cp         |
+| Flask of oil                   | 1 cp          |
+| Flint & Steel                  | 5 ip          |
+| Harsh Whiskey                  | 1 cp          |
+| Keg of Cider/Ale               | 5 cp          |
+| Paper                          | 1 cp          |
+| Chalk                          | 10/ip         |
+| Slate Board                    | 5 sp          |
+| Candle                         | 5 / cp        |
+| Soap                           | 1 cp          |
+| Deck of Cards                  | 1 sp          |
+| Glass Bottle                   | 1 sp          |
+| Wineskin                       | 1 sp          |
+| Mug                            | 1 cp          |
+| Corrective Glasses             | 4 gp          |
+| Lock                           | 15 cp         |
+| Covered Wagon                  | 4 gp          |
+| Cart Wheel                     | 3 sp          |
+| Cart                           | 15 sp         |
+| Axle                           | 5 sp          |
+| Rations                        | 4 sp / week   |
+| Smokes (Rolling leaves, 20)    | 1 cp          |
+| Smokes (Tobacco, 1 lb)         | 1 sp          |
+| Pipe                           | 5 cp          |
+| One night’s stay at an inn     | 2 sp          |
+| A meal                         | 1 sp          |
+| Single day’s coach ride        | 2 sp          |
+| Single day’s ship ride         | 2 sp          |
+| Ox                             | 1 gp          |
+| Horse                          | 4 gp          |
+| Mule                           | 7 sp          |
+| Giant Cockroach (trained)      | 4 ap          |
+| Servant                        | 1 sp / day    |
+| Wagon Driver                   | 2 sp / day    |
+| Bodyguard                      | 2 sp / day    |
+| Cook                           | 2 sp / day    |
+| Archer                         | 6 sp / day    |
+| Blacksmith                     | 1 gp / day + materials (1/2 of the price of the item made) |
 
 Weapons:
 
@@ -2202,128 +1758,41 @@ Special materials may be used for masterpiece weapons,
 The cost can be great ( cost multiplier * 100) but the effect can be well
 worth it, see the effects of Crafting Masteries.
 
-Arrows:
-
-  * 10 / 3 cp wooden (Strength +1 dam)
-  * 10 / 1 sp metal tipped (Strength + 2 dam)
-
-Bullets: 1 sp for 10 bullets (Strength +1 dam)
-
-Bolts: Price: 2,4,6,8 and 10 sp for 10 bolts (damage based on xbow)
-
-Bastard Sword: 3gp (Strength +2 dam (one handed)/+3 dam (two handed). Can be
-wielded one or two handed)
-
-Battle Axe: 3gp (Strength +2 one handed)
-
-Bow: 2gp, Range 200yrds+10yrds/strength, Bow's are purchased with a base range
-of 4 STR (a character can get full damage and range for STR from 4-8 or 5-9 or
-16-20. Masterwork bows have a strength range of 8 (full damage and range for
-STR 4-12 or 8-16). Magical bows work optimally for any strength. Certain
-extreme STR bows may require special materials and higher costs (up to GM).
-
-Bow string: 4 / sp
-
-Black Jack: 2 sp (Str + 2 dam) counts as stun damage
-
-Claymore: 6 gp (Str + 4 dam) Minimum strength (6)
-
-Crossbows: (reloading takes one action) Both spring and Iron bow types are
-commonly used. The spring types use a small amount of adamantium.
-
-Type
-
-Effective Damage
-
-Minimum Strength Required
-
-Price
-
-Range
-
-Miniature
-
-8
-
-1
-
-2gp
-
-80yrds
-
-Light
-
-8
-
-2
-
-1gp
-
-130yrds
-
-Heavy
-
-10
-
-4
-
-7gp
-
-150yrds
-
-Mini-Ballista
-
-12
-
-6
-
-2ap
-
-160yrds
-
-Repeating variants may be designed and constructed but not normally for sale.
-Building them requires an engineering check, difficulty = 11 + Xbow damage. If
-successfully built, repeating xbows allow six shots without the need to
-replace bolt clips (one action).
-
-Dagger: 1gp (Str dam)
-
-Staff: 5sp (Str + 2 dam) two-handed
-
-Sword: 2 gp (Str + 2 dam) Minimum strength (4)
-
-(Str +2 dam for single-handed use, Str + 4 dam for two-handed variants)
-
-Lance: 2 sp (wooden with metal tip- single use, or steel- multi-use) on foot
-Str +2 dam but can only be used in a charge mounted for Str + 8 dam. When
-charging on a mount, make a riding check. Every point above 18 is a plus 1 to
-hit. Every point below 14 is minus 1 to hit. Lance wielders always have a –4
-parry penalty (huge burdensome weapon)
-
-Armor: damage resistance adds to toughness when an attack or physical spell
-has landed.
-
-Leather: + 2 DR (damage resistance) 2gp
-
-Chain, Ring, or Scale mail: + 4 DR 2ap
-
-Plate: +6 DR 5ap
-
-Small Shield: Buckler sized shield, allows objects to be held in shield hand.
-Gives a base of +1 to deflection Wooden 4 sp, Metal 1 gp
-
-Large Shield: Large shield is all that can be held in shield hand. Gives a
-base of +2 to deflection Wooden 4 sp, Metal 2 gp
-
-Sling: 1 sp (stones may be used with a –1 damage modifier), Range
-10yrds+10yrds/strength
-
+| Item                                     | Price         | Description                                                                                                      |
+|------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------|
+| Arrows (Wooden, 10)                      | 3 cp          | Strength +1 dam                                                                                                  |
+| Arrows (Metal tipped, 10)                | 1 sp          | Strength +2 dam                                                                                                  |
+| Bullets (10)                             | 1 sp          | Strength +1 dam                                                                                                  |
+| Bolts (10)                               | 2, 4, 6, 8, 10 sp | Damage based on crossbow                                                                                          |
+| Bastard Sword                            | 3 gp          | Strength +2 dam (one handed) / +3 dam (two handed), can be wielded one or two handed                             |
+| Battle Axe                               | 3 gp          | Strength +2 one handed                                                                                           |
+| Bow                                      | 2 gp          | Range 200 yards + 10 yards/strength, base range of 4 STR (4-8, 5-9, 16-20), Masterwork bows range of 8 STR (4-12, 8-16) |
+| Bow string                               | 4 sp          | -                                                                                                                |
+| Black Jack                               | 2 sp          | Strength +2 dam, counts as stun damage                                                                            |
+| Claymore                                 | 6 gp          | Strength +4 dam, Minimum strength (6)                                                                             |
+| Crossbows                                | -             | -                                                                                                                |
+| - Miniature                              | 2 gp          | Effective Damage: 8, Minimum Strength Required: 1, Range: 80 yards                                               |
+| - Light                                  | 1 gp          | Effective Damage: 8, Minimum Strength Required: 2, Range: 130 yards                                              |
+| - Heavy                                  | 7 gp          | Effective Damage: 10, Minimum Strength Required: 4, Range: 150 yards                                             |
+| - Mini-Ballista                          | 2 ap          | Effective Damage: 12, Minimum Strength Required: 6, Range: 160 yards                                             |
+| Dagger                                   | 1 gp          | Strength dam                                                                                                      |
+| Staff                                    | 5 sp          | Strength +2 dam, two-handed                                                                                       |
+| Sword                                    | 2 gp          | Strength +2 dam, Minimum strength (4)                                                                             |
+| Lance                                    | 2 sp          | Strength +2 dam on foot, Strength +8 dam when charging mounted                                                   |
+| Leather Armor                            | 2 gp          | +2 DR                                                                                                            |
+| Chain, Ring, or Scale mail               | 2 ap          | +4 DR                                                                                                            |
+| Plate Armor                              | 5 ap          | +6 DR                                                                                                            |
+| Small Shield (Wooden)                    | 4 sp          | +1 to deflection                                                                                                  |
+| Small Shield (Metal)                     | 1 gp          | +1 to deflection                                                                                                  |
+| Large Shield (Wooden)                    | 4 sp          | +2 to deflection                                                                                                  |
+| Large Shield (Metal)                     | 2 gp          | +2 to deflection                                                                                                  |
+| Sling                                    | 1 sp          | Range 10 yards + 10 yards/strength                                                                               |
 All armors (aside from leather) give a penalty of their DR to stealth checks.
 
 Metal armors also give a penalty of their DR – ½ character strength (rounded
 down, but not negative) to movement.
 
-##  Magic Items
+## Magic Items
 
 Magic variants of most normal weapons and armor can be found, the rarest
 giving +3 bonus to DR or to hit and damage. Rings, amulets, belts, boots, etc.
@@ -2484,5892 +1953,1876 @@ Pseudo Table Guideline for monsters/Soft Caps. Only some of the most
 mythically powerful creatures will go beyond Level 5. In this category is
 Elder Dragons and Gods.
 
-Level
-
-Max Attribute
-
-Max Skill
-
-Total Attributes
-
-Special Attacks(mimic Legendary power/spell)
-
-Special Abilities (mimic legendary power)
-
-1
-
-7
-
-8
-
-33
-
--
-
--
-
-2
-
-12
-
-8
-
-42
-
-2
-
-2
-
-3
-
-16
-
-10
-
-54
-
-4
-
-4
-
-4
-
-20
-
-14
-
-80
-
-6
-
-6
-
-5
-
-24
-
-16
-
-100
-
-10
-
-10
-
-6
-
-28
-
-18
-
-120
-
-12
-
-12
-
-7
-
-32
-
-20
-
-140
-
-14
-
-14
-
-8
-
-36
-
-22
-
-160
-
-16
-
-16
-
-9
-
-40
-
-24
-
-180
-
-18
-
-18
-
-10
-
-44
-
-26
-
-200
-
-20
-
-20
+| Level | Max Attribute | Max Skill | Total Attributes | Special Attacks (mimic Legendary power/spell) | Special Abilities (mimic legendary power) |
+|-------|---------------|-----------|------------------|----------------------------------------------|-------------------------------------------|
+| 1     | 7             | 8         | 33               | -                                            | -                                         |
+| 2     | 12            | 8         | 42               | 2                                            | 2                                         |
+| 3     | 16            | 10        | 54               | 4                                            | 4                                         |
+| 4     | 20            | 14        | 80               | 6                                            | 6                                         |
+| 5     | 24            | 16        | 100              | 10                                           | 10                                        |
+| 6     | 28            | 18        | 120              | 12                                           | 12                                        |
+| 7     | 32            | 20        | 140              | 14                                           | 14                                        |
+| 8     | 36            | 22        | 160              | 16                                           | 16                                        |
+| 9     | 40            | 24        | 180              | 18                                           | 18                                        |
+| 10    | 44            | 26        | 200              | 20                                           | 20                                        |
 
 As far as special abilities go, use powers appropriate for that monster level
 (save the most impressive special abilities for level 5+ monsters).
 
 * * *
 
-Elementals: (Lvl 1-5) These animated pure elemental forces may originate from
-their home planes (the planes of Fire, Earth, Air and Water). They may appear
-as humanoids or any other physical manifestation they choose. Larger
-elementals are more powerful (+3 to attributes, +2 to all skills, +1 to
-monster level, resistance to magic/supernatural Will + 11 (see resistance to
-arcane subpower), and +4 DR per size/level.
-
-Elemental Level:
-
-Size
-
-Elemental Weapon Base Damage
-
-Bonus Skin DR
-
-Grit
-
-1
-
-2ft
-
-+2
-
--
-
-0
-
-2
-
-6ft
-
-+4
-
--
-
-1
-
-3
-
-10ft
-
-+6
-
-2
-
-2
-
-4
-
-20ft
-
-+8
-
-4
-
-4
-
-5
-
-40ft
-
-+10
-
-8
-
-5
-
-Elementals may develop varied interests so each of them may have one or more
-other skills at the an appropriate level chosen by the GM. Elementals have a
-blast attack that may be done instead of its normal attacks with a base damage
-equal to their melee base damage (use missile skill). Once per round in lieu
-of standard attacks they may also blast an area with elemental damage (Fire,
-Rocks, Lightning, Ice) in a 20foot radius. Once masteries become available
-(level 10+ skill Elementals usually take the masteries listed in order).
-
-Movement powers:
-
-  * Earth elementals may tunnel at their standard movement rate through any rock or stone, as well as leaving no tunnel behind if they so wish.
-  * Water may swim at double their normal speed.
-  * Air elementals may fly at double their normal land speed.
-  * Fire may teleport at double their normal land sprint speed (in distance) once per action.
-
-Attributes for Size 1
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-6
-
-6
-
-1
-
-1
-
-1
-
-Skills (all)
-
-Melee,Missile,Alertness,Acrobatica,Climbing,Swimming,Flight,+1 miscellaneous:6
-
-Masteries (all)
-
-Melee(Lethal Targeting,Reflexive Deflection),Missile(Lethal Targeting,Gun
-Kata)
-
-Masteries (all)
-
-Alertness (Panoramic Vision,Danger Sense), Acrobatica (Anime Leap, Arboreal
-Movement)
-
-Masteries (fire)
-
-Masteries (water)
-
-Swimming (Aquaman)
-
-Masteries (air)
-
-Flight (Defensive Maneuvering,Windrider)
-
-Masteries (earth)
-
-Climbing (SpiderClimb)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-12/12
-
-23/23(possibly +4 from masteries)
-
-Str+Elemental Weapon(possibly +3 Lethal Targeting
-
-1+
-
-6+/DUR*(Grit+1)
-
-Single target blast, or AOE
-
-Sustained,Form Shape (may select any form for equivelant size)
-
-6+(12+ flight)
-
-* * *
-
-Giant Cockroach: (Lvl 2) Big ass Cockroach ( 5-6 feet long, 3 feet high and 2
-feet wide). Giant Cockroaches may eat anything for nourishment but they
-certainly aren’t motivated for evil intent, in fact some of these strange
-creatures have been trained and are great workers.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-10
-
-8
-
-8
-
-1
-
-1
-
-0
-
-Skills
-
-Melee:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-16
-
-27/19
-
-12
-
-2
-
-2Dur+6Skin=8/16
-
--
-
-Heightened Senses + 5
-
-4
-
-* * *
-
-Giant Pigeon: (Lvl 1) Giant pigeons are very friendly, but they are easily
-offended ( though they don’t often hold grudges). A bucket of worms is usually
-enough to buy their friendship ( & possibly a fun flight), though they are
-extremely loyal to their masters. Giant pigeons can wear leather armor and
-still fly. They attack with their beak. “Bakaaaaawh!”
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-8
-
-8
-
-1
-
-1
-
-2
-
-Skills
-
-Melee:2, Acrobatica: 2, Pilot Air: 8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-10
-
-19/19
-
-8
-
-2
-
-2Dur/8
-
--
-
--
-
-8(16 air)
-
-* * *
-
-Peck: (Lvl 1) The foulest of foul critters. These midget smoke skinned
-humanoids reside on roofs and castle walls (much like vermin). They breed
-incredibly fast and are impishly evil. They are intelligent and can even speak
-the common language although they rarely listen to other humanoids.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-4
-
-8
-
-8
-
-3
-
-4
-
-1
-
-Skills
-
-Stealth,Climbing,Swimming,Melee,Missile,Acrobatica:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-12
-
-23/23
-
-8+Weapon
-
-2
-
-2Dur+Armor/8
-
--
-
-Night Vision,Poison Resistance +4 (to Durability tests)
-
-8
-
-* * *
-
-Ogres: (Lvl 2) These 7-8 feet tall humanoids are nearly full giants and are
-nearly as dangerous. Their powerful strength and durability make them
-ferocious warriors. A wise saying about them is, “don’t piss an ogre off if
-you aren’t fond of pain”. Ogre's can wield large sized weapons that do their
-equivelant normal sized weapon damage + 1.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-12
-
-6
-
-12
-
-2
-
-2
-
-2
-
-Skills
-
-Melee:6,Missile:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-12/10
-
-23/21
-
-12+Weapon
-
-1
-
-4Dur+2Skin+Armor/24
-
--
-
--
-
-6
-
-* * *
-
-Trolls: (Lvl 3) Vicious green regenerating monstrosities that stand 9 feet
-tall. They are not very intelligent but have incredible senses of smell and
-can easily hunt and track their prey with this sense. Troll's can wield large
-sized weapons that do their equivelant normal sized weapon damage + 2.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-8
-
-16
-
-2
-
-6
-
-2
-
-Skills
-
-Melee,Acrobatica:8, Missile:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-16
-
-27/27
-
-16 or 14+Weapon
-
-2
-
-5Dur+4Skin/48
-
--
-
-Regeneration:5hp/rnd
-
-8
-
-* * *
-
-Demonling: (Lvl 2) These are the lowest of the shadowy creatures that reside
-in a dimension parallel to the land of legends. They are for the most part
-evil (although many may be simply selfish) but subservient to their masters.
-These winged humanoids stand between 6 and 7 feet tall, are lightly covered
-with red scales, spiked horns and boney ridges and are decently muscled. Horns
-may appear at the elbows or head or shoulders depending on their lineage.
-Their weapon of choice is a whicked looking two-handed sword.
-
-Once per round instead of making their normal attacks Demonlings may launch a
-single fire bolt at a target, Base Damage:10, Range:200yards.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-8
-
-10
-
-4
-
-8
-
-4
-
-Skills
-
-Climbing,Swimming,Melee,Missile,Acrobatica,Pilot Air:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-14
-
-25/25
-
-12
-
-2
-
-3Dur+5Skin=8/20
-
--
-
--
-
-8(16 Air)
-
-* * *
-
-Paladin: (Lvl 2) These are humanoids that have dedicated their lives to
-removing the land of legends from evil and corruption. The are adorned with
-shining full plate armor and wicked two handed swords or warhammers and
-shields. Often times are associated with warhorses their favorite mount of
-choice.
-
-Once per round instead of making their normal attacks they may focus their
-powers on healing one target for, d6+WIL, Range:touch
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-10
-
-8
-
-4
-
-8
-
-4
-
-Skills
-
-Climbing,Swimming,Melee,Missile,Acrobatica,Riding Land:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-16
-
-27/27
-
-12
-
-2
-
-2Dur+6Plate=8/16
-
--
-
--
-
-10
-
-* * *
-
-Giants: (Lvl 4) These are massive humanoids of legend. They stand 12+ feet
-tall and have powerful builds. They are rarely seen among the human lands and
-travel in small groups when necessary.
-
-  * Ice Giants
-  * Fire Giants
-  * Forest Giants
-  * Rock Giants
-
-Giant's Elemental attacks consist of a cone missile blast of their type: Ice,
-Fire, Trees, Rocks respectively. The base damage is equal to the Giants
-strength + 4. They may only do this powerful attack 5 times per day, and doing
-so takes up their full round of actions (may move and breath attack, but not
-make other attacks/actions). The area of effect is a cone reaching out 60 feet
-from the giant, and 40feet wide at its maximum. Giant's elemental immunity is
-complete immunity to their element type: Ice, Fire, - ,
-Earth/Stone(Magic/Weapons). Forest Giants don't have a specific immunity per
-se, but they do have incredible healing abilities and regenerate 5hp per round
-and per action spent concentrated on healing.
-
-Giant weapons do the equivelant damage for normal sized weapons +4 (giant two
-handed sword is Str+8).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-16
-
-12
-
-16
-
-6
-
-10
-
-8
-
-Skills
-
-Alertness,Acrobatica:8,Running:10,Melee:14,Missile:10 (Quickshot)
-
-Masteries
-
-Melee(Reflexive Deflection,Lethal Targeting),Missile(QuickShot)
-
-Masteries
-
-Running(Speed of Fury)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-16
-
-26/22
-
-43/35
-
-STR+Weapon(+3 Melee)/16+Weapon
-
-2
-
-5Dur+8Skin+Armor/80
-
-Elemental Attack: Dam 20 (missile)
-
-Immune to Element Type
-
-16
-
-* * *
-
-Dragons: (Lvl 5+) Vicious in the extreme, these winged, arm like fore clawed
-and legged lizards can wreak havoc on a good-sized army. An elder dragon would
-eat the same army for breakfast. Although their base color remains constants,
-their scale color can vary with moods. Almost all are intelligent and some
-even have spell casting abilities (designated by the game master). When reared
-on their hind legs an age 1 dragon stands over 12 feet tall at it's head
-(these are the most common type). Elder dragons can be much, much larger.
-Rumors say they are over 200 feet long. Larger dragons are more powerful (+3
-to attributes, +1 to all skills, +1 to monster level, Resistance to Arcane
-Will+11, and +4 DR per size larger than 1).
-
-Dragon Age:
-
-Size
-
-Claw Base Damage
-
-Bite Base Damage
-
-Skin DR
-
-1
-
-12ft
-
-+2
-
-+4
-
-12
-
-2
-
-18ft
-
-+3
-
-+5
-
-16
-
-3
-
-40ft
-
-+4
-
-+6
-
-20
-
-4
-
-60ft
-
-+5
-
-+7
-
-24
-
-5
-
-90ft
-
-+6
-
-+8
-
-28
-
-6
-
-120ft
-
-+7
-
-+9
-
-32
-
-7
-
-150ft
-
-+8
-
-+10
-
-36
-
-8
-
-200ft
-
-+8
-
-+11
-
-40
-
-Dragons develop varied interests so each of them has one other skill at the
-grand mastery level (14+size modifier) chosen by the GM. Dragons breath
-attacks may be done instead of its normal attacks (in any round) with a base
-damage of its Str+8 to all targets in a cone (use missile skill) 80 feet long
-and 60 feet wide.
-
-Attributes for Size 1
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-16
-
-16
-
-16
-
-16
-
-16
-
-16
-
-Skills
-
-Melee,Missile,Alertness,Acrobatica,Climbing,Swimming,Flight,+1
-miscellaneous:14
-
-Masteries
-
-Melee(Lethal Targeting,Reflexive Deflection),Missile(Gun Kata,Lethal
-Targeting)
-
-Masteries
-
-Alertness (Panoramic Vision,Danger Sense), Acrobatica (Anime Leap, Arboreal
-Movement)
-
-Masteries
-
-Climbing (SpiderClimb), Swimming (Aquaman), Flight (Windrider, Defensive
-Maneuvering)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-16
-
-30/30
-
-45/45(49 Air)
-
-(Str+Claw/Bite/Weapon)(+3 Melee/Missile)
-
-4+
-
-5Dur+12Skin=17+/6xDur
-
-Breath/Death from Above
-
-Sustained,Resistance to Arcane:2+,Major Shape Change:mimic any lvl 1-4 monster
-(keep better attributes)
-
-16+(64+ flight)
-
-Skeletons: (Lvl 2) Humanoid animated bones that can have a human intelligence.
-They tend to jealously hate the living although some of them have been known
-to associate with mages or priests.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-8
-
-8
-
-4
-
-6
-
-4
-
-Skills
-
-Melee,Missile,Acrobatica,Alertness:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-16
-
-27/27
-
-8+Weapon
-
-2
-
-2Dur+Armor/24
-
--
-
-Against Piercing Weapons:+10DR,Slashing:+4DR
-
-8
-
-* * *
-
-Human Soldiers: (Lvl 1) Standard human warriors, guardsmen, pirates, bandits,
-archers etc.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-7
-
-7
-
-7
-
-4
-
-4
-
-4
-
-Skills
-
-Melee,Missile,Acrobatica,Alertness:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-13
-
-24/24
-
-7+Weapon
-
-1
-
-2Dur+Armor/7+
-
--
-
-Some may have Grit:1
-
-7
-
-* * *
-
-Carnivorous Trees: (Lvl 3) Think weeping willows with an appetite. Have a
-hollow at their base where they try to stuff you. Incredibly stout Legends
-have been known to frequent this spot for it has been rumored to be quite cozy
-and usually a safe place to rest. The Chew special attack: While in the maw of
-the Carnivorous Tree victims take 14 damage per round until they are
-killed/digested. Those with 14+ total DR can remain in the maw safely.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-8
-
-14
-
-1
-
-8
-
-1
-
-Skills
-
-Melee:8,Stealth:10
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-16
-
-27/19
-
-16
-
-2
-
-4Dur+6Skin=10/42
-
-Chew
-
-appears to be a normal tree
-
-8
-
-* * *
-
-Harpies: (Lvl 2) Dark winged clawed feet female monsters. They have a sonic
-attack which can stun an opponent who hears the screech. A harpy makes a
-single check of Pre+d20 vs. opponents will, if effective their victims are
-penalized 6 to hit and defense class.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-6
-
-7
-
-8
-
-4
-
-6
-
-6
-
-Skills
-
-Melee,Missile,Acrobatica,Flight:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-15
-
-26/26
-
-8 (Talons or Dropped Rocks)
-
-1
-
-2Dur+2Skin=4/16
-
-Screech
-
--
-
-7(14 air)
-
-* * *
-
-Medusas: (Lvl 4) Gazing upon a medusa can turn a victim to stone. These
-hideous women have snakes for hair. Once per round anyone gazing at a medusa
-(alive or dead) must make will check vs. 18 or be turned to stone.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-16
-
-12
-
-10
-
-10
-
-1
-
-Skills
-
-Melee,Missile,Acrobatica: 12
-
-Masteries
-
-Melee(Lethal Targeting),Missile(QuickShot)
-
-Masteries
-
-Acrobatica(Anime Leap)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-22
-
-28
-
-39/39
-
-STR+Weapon(+3 Melee)
-
-4
-
-4Dur+2Skin+Armor/60
-
-Stone
-
-Immunity to Poison,RA:7
-
-16(Leap 26y (78'))
-
-* * *
-
-Gargoyles: (Lvl 3) Stone creatures who have been cursed to their current
-existence as a Gargoyle. Gargoyles tend to gather in groups or hierarchies.
-These groups have been known to make peace with nearby human settlements.
-Gargoyles tend to find secluded mountain caves or other such locations that
-provide them with a safe haven.
-
-  * Stone Lords – Land based ones.
-  * Aerophants – Flying ones.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-12
-
-10
-
-16
-
-4
-
-4
-
-2
-
-Skills
-
-Melee,Acrobatica:8, Missile,Flight:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-18
-
-29/29
-
-14(claws)
-
-2
-
-5Dur+7Skin=12/48
-
--
-
-Stone
-
-10 (20 flight)
-
-* * *
-
-Giant Rodents: (Lvl 1) These rodents of unusually large size exist in the
-sewer systems of large human towns. Their bite can induce disease into their
-victims. When a Giant Rodent bites a target and causes damage they make a
-single check of Str vs. Target Durability, if successful the target becomes
-infected with a terrible disease with lowers the characters Strength and
-Durability by 1 point per month, d6 months or until cured. Stats are regained
-at the rate of 1 point per month in both strength and durability after the
-disease is finished.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-4
-
-4
-
-4
-
-1
-
-1
-
-1
-
-Skills
-
-Melee:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-8
-
-19/15
-
-5
-
-1
-
-1Dur/4
-
-Disease
-
--
-
-4
-
-* * *
-
-Golems: (Lvl 4) Powerful flesh, stone, iron or bone creatures that have been
-created by powerful mages. They are immune to direct magical attacks (can
-still be harmed by summoned creatures/objects etc.). They vary in size but are
-usually 7 feet tall or larger and some even have sarcophagi capable of
-protecting a passenger. They attack with Great Maul-like appendages inflicting
-two handed weapon damage with each punch/smash/boot.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-18
-
-12
-
-16
-
-10
-
-10
-
-1
-
-Skills
-
-Melee,Missile,Acrobatica: 12
-
-Masteries
-
-Melee(Lethal Targeting),Missile(Reflexive Deflection)
-
-Masteries
-
-Acrobatica(Anime Leap)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-10
-
-24
-
-37/37
-
-STR+4(or weapon)(+3 Melee)
-
-3
-
-5Dur+13Skin=18/80
-
--
-
-RA:10
-
-12(28y or 84 =18str+66feetAnimeLeap)
-
-* * *
-
-Assassins: (Lvl 3) Trained killers these cut-throat mercenaries are hired to
-kill other humans (nobles and lords are their standard victims as the enemies
-of such high standing people can afford to pay the Assassins expensive fees).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-10
-
-12
-
-10
-
-8
-
-8
-
-4
-
-Skills
-
-Melee,Missile:10,Acrobatica:8,Stealth:10,Alertness:8
-
-Masteries
-
-Melee(Lethal Targeting), Missile(Quickshot), Stealth(Ambush)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-18
-
-22
-
-33/31
-
-STR+Weapon(+3 Melee)/Weapon
-
-3
-
-3Dur+2Skin+Armor/30
-
-Ambush(+10Damage)
-
--
-
-12
-
-* * *
-
-Ramshackles: (Lvl 3) Undead. Half-skeleton, half shackles and chains. These
-solitary creatures are greater undead and delight in the pain of others. They
-usually wield a wicked chain that does Str + 5 damage. Once per round, instead
-of their normal attacks, they may launch spiked chains at all targets within
-30feet. Make a single to hit roll and apply their normal melee attack damage
-(opponents may parry if they choose instead of evading).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-16
-
-10
-
-12
-
-4
-
-8
-
-1
-
-Skills
-
-Melee,Acrobatica: 8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-18/10
-
-29/29
-
-21(16+Weapon)
-
-2
-
-4Dur+2Skin+4Armor=10/36
-
-Spiked Chains
-
-Sustained,Immune to Poison/Disease
-
-10
-
-* * *
-
-Giant Man-Eating Nectarines: (Lvl 2) WTF? These scare me.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-10
-
-6
-
-10
-
-1
-
-1
-
-1
-
-Skills
-
-Melee:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-12/6
-
-23/17
-
-12
-
-1
-
-3Dur+2Skin=5/20
-
--
-
-Taste Delicious
-
-6
-
-* * *
-
-Bone Beserkers: (Lvl 2) A tribe of barbarians that live in graveyards of large
-elephants. They used to be human, but they have changed over time, becoming
-part Elephant Skeleton/Part Human.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-8
-
-8
-
-3
-
-4
-
-2
-
-Skills
-
-Melee,Missile,Acrobatica,Stealth,Alertness:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-3
-
-14/14
-
-25/25
-
-8+Weapon
-
-2
-
-2Dur+2Skin+Armor/16
-
--
-
-Against Piercing Weapons:+5DR,Slashing:+2DR
-
-8
-
-* * *
-
-BattleCube: (Lvl 3) Think a small floating golem like creature with spikes and
-stuff that extend and shoot out at will. Often made up of remnants of old
-weapons. (Undead? Phantasm? The world may never know). They may missile attack
-at Base Damage +2 with their malformed weaponry.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-12
-
-16
-
-12
-
-4
-
-8
-
-2
-
-Skills
-
-Missile,Acrobatica,Flight:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-16/24
-
-35/35
-
-14
-
-4
-
-4Dur+6Skin/36
-
--
-
-Regen:1hp/round
-
-16(Flight 32)
-
-* * *
-
-Animated Armor: (Lvl 5) These accursed suits are all that remains of once
-great knights that turned from their righteous path and descended into the
-bowels of demonic evil. Dark ceremonies and rituals known of only by a few,
-and practiced by even fewer allow a warrior to transcend death into a suit of
-armor. They can exist this way eternally. The Animated Armor regenerates 3 hit
-points / round and is highly resistant to magic RA: 7. Animated Armor are
-composed of +3 Platemail armor.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-20
-
-16
-
-20
-
-6
-
-14
-
-6
-
-Skills
-
-Melee,Missile,Acrobatica,Alertness,Climbing:16
-
-Masteries
-
-Melee(Lethal Targeting,Reflexive Deflection),Missile(Lethal Targeting, Gun
-Kata)
-
-Masteries
-
-Acrobatica (Anime Leap, Arboreal Movement),Alertness:16 (Panoramic Vision,
-Danger Sense)
-
-Masteries
-
-Climbing (Spiderclimb)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-6
-
-32/32
-
-47/47
-
-20+Weapon(+3 Melee)/20+Weapon(+3 Missile)
-
-4
-
-6Dur+4Skin+9Armor=19/120
-
--
-
-Sustained, Immune to Poison,Disease
-
-16
-
-* * *
-
-Evil Cheese: (Lvl 1) No one wants to mess with this. Found in dungeons and
-dairy farms. It is a strange creature that can morph into standard wheels of
-cheese. This limited shape change power allows the creature to attack others
-by surprise suffocated the life out of their would be eaters. Their special
-suffocate attack is made at a check of d20+Evil Cheese Strength vs. Target's
-Durability. If successful the target is left gagging and clawing at the cheese
-and unable to act that round, make an additional check next round after
-applying Cheese damage.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-4
-
-4
-
-4
-
-1
-
-1
-
-1
-
-Skills
-
-Melee:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-8/8
-
-15/15
-
-5
-
-1
-
-1Dur/4
-
-Suffocate
-
--
-
-4
-
-* * *
-
-Blobs – Giant amoeba: (Lvl 3) These oozing masses absorb all life around them.
-A rare few among their kind are intelligent and can be trained. On any
-succesful pseudopod strike they may envelop a target (smaller than their own
-size), the target receives the following penalties while enveloped, -4 to base
-damage and half actions (minimum one).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-8
-
-16
-
-0-1
-
-6
-
-0
-
-Skills
-
-Melee:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-0-1
-
-16/8
-
-27/19
-
-15
-
-2
-
-5Dur+5Skin/48
-
-Envelop
-
--
-
-8
-
-* * *
-
-Ghosts: (Lvl 2) These incorporeal creatures cannot be harmed by physical
-objects (magic weapons don’t affect ghosts). Magic attacks are their only
-weakness (fire bolt, ice blast, mind scythe). They can make a touch attack
-(cannot be parried, use evade) to cause their target to lose d6+4 hit points.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
--
-
-8
-
-8
-
-6
-
-10
-
-4
-
-Skills
-
-Melee,Acrobatica,Flight:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-6
-
-14/8
-
-25/25
-
-d6+4
-
-2
-
-2/12
-
-ignore armor
-
-immune to physical attacks
-
-8(16 flight)
-
-* * *
-
-Dread Mages: (Lvl 5) Undead mages with full knowledge of all schools of magic
-(All Mages Level 9). These master wizards are shrouded in mystery and
-darkness. They have surpassed the limits of their lives and work towards their
-own ends. Regeneration/Shapeshift:10 = 10 hit point/ round, doesn't die till
-double negative durability and remains conscious until destroyed. These
-creatures are also highly resistant to magic, RA 7. Dread Mages have Spell
-Mastery in Blazing Episode Ender (4d6+28), Fantastic Mount (Attrib = 20),
-Obsidian Sheath (skin DR + 7), Dense Air 3 (Armor DR = 9).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-20
-
-14
-
-14
-
-20
-
-16
-
-Skills
-
-Melee,Missile,Acrobatica,Alertness:14
-
-Masteries
-
-Melee(Quick Draw,Reflexive Deflection),Missile(Lethal Targeting, Gun Kata)
-
-Masteries
-
-Acrobatica(Anime Leap,Arboreal Movement),Alertness(Panoramic Vision,Danger
-Sense)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-28
-
-34/34
-
-49/49
-
-(8+Weapon) or by Spell (+3 Missile)
-
-5
-
-6+9Armor+7Skin=22/84
-
--
-
-Magic:Lvl 9 in all areas, Sustained, Immune to Poison/Disease,
-Regeneration:10hp/round
-
-20
-
-* * *
-
-Dogs of War: (Lvl 4) These gigantic hounds are vicious hunters and killers.
-They normally travel in multiples of three and are vicously strong as well.
-Vicious monsters that can hunt you down, kill you, and eat you. They have a
-heat based attack (missle breath attack Damage Base:20, ignores non-magical
-armor DR) which they may use once per round instead of bite attacks. If you
-kill one, one of the others will try to get away and come back with it’s
-brethren to hunt you down. They can run on any surface including walls and
-ceilings making them even more dangerous hunters.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-14
-
-14
-
-6
-
-10
-
-6
-
-Skills
-
-Melee,Acrobatica:12 Climbing,Alertness,Stealth:10
-
-Masteries
-
-Melee(Lethal Targeting),Acrobatica(Anime Leap)
-
-Masteries
-
-Alertness(Panoramic Vision),Climbing(SpiderClimb),Stealth(Ambush)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-6
-
-26/12
-
-39/39
-
-STR+4(Bite)(+3 Melee)=21
-
-3
-
-12/70
-
-Heat blast
-
--
-
--
-
-* * *
-
-Dragonites: (Lvl 4) Half men, half-dragon; full blown ass kickers. Golden
-scaled, these creatures can fire energy projectiles from mystical glands on
-their forearms. The energy bolt base damage is 18 and can be used at will.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-16
-
-15
-
-8
-
-10
-
-8
-
-Skills
-
-Melee,Missile,Acrobatica:12 Climbing,Alertness,Stealth,Flight:10
-
-Masteries
-
-Missile(Gun Kata),Acrobatica(Anime Leap)
-
-Masteries
-
-Melee(Lethal Targeting),Flight(Defensive Manuvering)
-
-Masteries
-
-Alertness(Panoramic Vision),Climbing(SpiderClimb),Stealth(Ambush)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-8
-
-28/28
-
-41/41 (45 Air)
-
-STR+Weapon(+3 Melee) or STR+2Claw,Bite(+3 Melee)/18 EnergyBolt
-
-3
-
-9+Armor/75
-
-Energy Bolt
-
--
-
-16(32 flight)
-
-* * *
-
-Fallen Angels: (Lvl 6) They kick ass, but not for the Lord. These fallen
-dimensional creatures have taken their own path away from whatever plan the
-higher power that they were spawned from had for them initially.
-Regeneration/Shapeshift:6. All Magic level 10. Spell mastery Obsidian
-Sheath,Dense Air 3, & Ultimate Power (already included in their attributes,
-Permanence). Immune to Magic/Supernatural attacks. Action Man: Level 6, Divine
-Power abilities lvl 10.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-24
-
-24
-
-24
-
-12
-
-16
-
-14
-
-Skills
-
-Melee,Missile,Acrobatica:18, Alertness:16
-
-Skills
-
-Fire,Air,Earth,Spirit,Water,Flight:10
-
-Masteries
-
-Missile(Lethal Targeting,Gun Kata,Death Blossom),Acrobatica(Anime
-Leap,Arboreal Movement)
-
-Masteries
-
-Melee(Lethal Targeting,CounterAttack,Reflexive Deflection),Flight(Defensive
-Manuvering)
-
-Masteries
-
-Alertness(Panoramic Vision,Danger Sense)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-12
-
-42/42
-
-57/57 (61air)
-
-STR+Weapon(+3 Melee) or by spell(+3 Missile)
-
-8
-
-8+4(powers)+7Skin(spell)+9Armor(spell)=28/144
-
--
-
--
-
-24(48 flight)
-
-* * *
-
-Cravens: (Lvl 1) Small humanoid blood-sucking creatures with wings. They have
-a special sharp feeding tube bonelike projection they can extend from their
-mouths with incredible force. They usually attack in swarms, certain herbs and
-alchemical brews have been known to drive and keep them away in areas where
-they are known to feed (bogs/swamps).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-4
-
-6
-
-4
-
-1
-
-2
-
-1
-
-Skills
-
-Melee,Flight:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-10
-
-21/17
-
-8
-
-1
-
-1/4
-
-bone mouth tube
-
--
-
-6(12 flight)
-
-* * *
-
-Money Leeches: (Lvl 1) They actually feed off precious metals like adamantium
-and gold. They are small parasites that can disguise themselves as coins and
-feed and multiply when placed in a large enough supply of it. They can lay
-dormant for years so that even if you discover one, it’s difficult to cleanse
-a treasury of them. Mages have made a pretty coin using their divine magic to
-identify the Leeches.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-2
-
-2
-
-6
-
-0
-
-0
-
-0
-
-Skills
-
-Stealth:10
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-0
-
-2/2
-
-13/13
-
-2
-
-1
-
-2/6
-
-consume metals
-
-mimic coins
-
-2
-
-* * *
-
-Rain of Frogs: (Lvl 3)(Mark needs to stop eating bad Chinese food). They
-appear initially as dark storm clouds bunched together covering a circular
-area of 50 ft radius circle. Once the clouds have discovered a large enough
-creature to attack they begin showering down thousands of frogs which bite and
-tongue their victims doing 2d6 points of damage per round – the victims DR.
-The cloud itself usually floats about 200 feet up or more and fairly
-resistance to damage.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-0
-
-12
-
-16
-
-4
-
-8
-
-2
-
-Skills
-
-Missile,Melee,Acrobatica,Flight:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-20/20
-
-31/31
-
-2d6
-
-3
-
-5Dur+8Skin=13/48
-
-frog rain
-
--
-
-12(24 flight)
-
-* * *
-
-Demon Cats: (Lvl 3) Spawned hellcats from the feral gods Boeing and Tempest.
-These creatures look like large black and red, or white and black tigers.
-Their evil intellect sets them apart from normal large predators. They prefer
-to hunt alone and prefer the taste of human flesh. They can turn invisible at
-will (this invisibility only lasts for the first 6 rounds of combat- +4 to
-evade, cannot be targeted by missile attacks unless an alertness check defeats
-their stealth).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-10
-
-16
-
-12
-
-6
-
-9
-
-4
-
-Skills
-
-Melee,Acrobatica,Climbing,Stealth:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-6
-
-24/16
-
-35/35
-
-12
-
-4
-
-4Dur+4Skin=8/36
-
--
-
--
-
-16
-
-* * *
-
-Vampires/Succubi/Incubus: (Lvl 4-5) These are the most powerful of the
-creatures of the night that feed off of living creatures blood or life essence
-(in the case of Succubi/Incubus). They are unaging so their plans can
-generally go well beyond the scope of a human lifetime. They are social
-creatures often well integrated into human societies. They are also quite
-willing to ally with others of their kind to further their own ends. They
-regenerate 2 hit points / round, and may focus this healing to regenerate 2hp
-per action. If they drain a victim they gain 2d6hp per action spent draining,
-and may inflict bite damage on the target. They can shapeshift into the
-following forms, wolf, bat, vermin. Level 5 vampires have the higher
-attributes/skills and the additional masteries. To get attributes/stats for
-lesser vampire spawn, use human soldiers with the Vampire subpower (boosted
-STR + AGI).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14-16
-
-14-18
-
-14-16
-
-10-14
-
-10-14
-
-10-14
-
-Skills
-
-Melee,Missile,Acrobatica,Climbing,Stealth,Alertness,Flight:10-14
-
-Masteries
-
-Missile(Quickdraw,Lethal Targeting),Acrobatica(Anime Leap,Arboreal Movement)
-
-Masteries
-
-Melee(Lethal Targeting,Reflexive Deflection),Flight(Defensive Manuvering)
-
-Masteries
-
-Alertness(Panoramic Vision,Danger Sense),Climbing(SpiderClimb)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-20-28
-
-24-32/24-32
-
-35-45/35-45(35-49Air)
-
-STR+Weapon(+3 Melee) (Bite/Punch do str damage)
-
-3-4
-
-4-5Dur+4-6Skin + Armor/DurX5-6
-
-Drain
-
--
-
-14-18(28-36 Flight)
-
-* * *
-
-Phantasms: (Lvl 2) These quasi-physical creatures attack the minds of their
-unsuspecting victims. They feed off the emotions of sentient creatures. They
-often attempt to inspire horrific fear or extraordinary pleasure in order to
-satiate their hunger (similar to Succubi/Incubi). They cannot be affected by
-physical attacks although magical spells and spell like effects can harm them.
-They have Spirit magic Lvl 6.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-0
-
-8
-
-8
-
-8
-
-10
-
-6
-
-Skills
-
-Missile,Acrobatica,Flight:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-8
-
-8/14
-
-19/25
-
-9(Mental)
-
-2
-
-2/16
-
-Illusions
-
-Immune to Physical attacks
-
-8(16 flight)
-
-* * *
-
-Horrors from the Deep: (Lvl 4) These vicious reptilian fishlike humanoids live
-at the bottom of oceans or seas. They have been known to inhabit smaller water
-sources though. Horrors have no extraordinary racial abilities, but many of
-their kind are known to use magic. Horrors can breath water or air.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-14
-
-14
-
-8
-
-16
-
-4
-
-Skills
-
-Melee,Acrobatica,Swimming:12 Alertness:10 Water Magic:9
-
-Masteries
-
-Melee(Lethal Targeting),Acrobatica(Arboreal Movement)
-
-Masteries
-
-Alertness(Panoramic Vision,Swimming(Aquaman)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-8
-
-26/14
-
-37/37
-
-14+Weapon(+3Melee) or 16(Claw)(+3Melee)
-
-3
-
-4Dur+6Skin+4Chain=14DR/70
-
--
-
--
-
-14
-
-* * *
-
-Mermaids: (Lvl 1) These beautiful sea women have been known to enchant sailors
-or pirates. Unfortunately although good natured they are incredible foolish
-and draw land based humanoids to a watery grave. Their only special power is
-their supernatural presence ( 12 ) and passive abilty to enthrall onlookers.
-In order to resist the charms of the mermaid anyone encountering them must
-make a WIL check vs. the Mermaid's presence or follow the mermaid under the
-surface.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-4
-
-4
-
-3
-
-4
-
-4
-
-12
-
-Skills
-
-Swimming,Acrobatica:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-4/4
-
-21/21
-
-5 (dagger)
-
-1
-
-1/4
-
-Enthrall
-
--
-
-4
-
-* * *
-
-Hell Lords: (Lvl 6) Major demons. Come in all sorts, with all sorts of
-abilities. Dark Pact lvl 10, Regeneration lvl 6, Hell lords are masters of
-fire magic ( level 10 ability). They are also physical juggernauts. The adorn
-Large brimstone based, +2 Masterwork plate armor.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-28
-
-20
-
-24
-
-12
-
-16
-
-14
-
-Skills
-
-Melee,Missile,Acrobatica:18, Alertness:16
-
-Skills
-
-Fire,Air,Earth,Spirit,Water,Flight:10
-
-Masteries
-
-Missile(Lethal Targeting,Gun Kata,Death Blossom),Acrobatica(Anime
-Leap,Arboreal Movement)
-
-Masteries
-
-Melee(Lethal Targeting,CounterAttack,Reflexive Deflection),Flight(Defensive
-Manuvering)
-
-Masteries
-
-Alertness(Panoramic Vision,Danger Sense)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-12
-
-38/38
-
-53/53(57air)
-
-STR+Weapon(+3 Melee) or by spell(+3 Missile)
-
-8
-
-8Dur+10Skin+10Armor(spell)=28/144
-
--
-
--
-
-20(40 flight)
-
-* * *
-
-Yeti: (Lvl 3) Abominable snowmen. Found in artic terrains and mountain tops
-(although a few foolhardy ones have been known to wander into the desert “for
-thrills and chills”).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-16
-
-8
-
-12
-
-2
-
-6
-
-2
-
-Skills
-
-Melee,Acrobatica,Alertness:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-16/8
-
-27/27
-
-18
-
-2
-
-4Dur+6Skin=10/36
-
--
-
--
-
-8
-
-* * *
-
-Dopplegangers: (Lvl 2) These humanoid creatures can morph their physical form
-to appear as friends or allies. They have minor telepathic abilities and can
-choose to appear as a trusted friend. Regeneration/Shapeshift lvl 6, they have
-spirit magic level 4.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-10
-
-8
-
-8
-
-8
-
-8
-
-Skills
-
-Melee,Missile,Acrobatica:8,Stealth,Alertness:6,Storytelling:10
-
-Masteries
-
-Storytelling(Enthrall)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-8
-
-18/18
-
-29/29
-
-8+Weapon
-
-2
-
-2Dur+2Skin+Armor/16
-
-Mimic
-
-Spirit Magic
-
-10
-
-* * *
-
-Ringworms: (Lvl 1) Unfortunately these creatures are ever prevalent in many
-food sources. Most of the time these parasites are destroyed by the digestion
-and antibody system of the host. Anyone who eats a ringworm egg ridden meal
-must make a durability check difficulty 13 or become sick. The ringworms can
-be purged by surgery or a foul tasting bitter nectar (can be made by
-alchemists). The ringworms cause abdominal cramps and diarrhea. In a given
-tense situation ( combat, climbing into a keep, etc.), if a will check 18 is
-not made a penalty of 2 to hit, evade, parry and other physical skills
-(climbing, blacksmithing, etc.) is applied (not cumulative, lasts for
-10minutes).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-0
-
-1
-
-1
-
-0
-
-0
-
-0
-
-Skills
-
-None
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-0
-
-1/1
-
-12/12
-
-0
-
-1
-
-0/1
-
-Parasite
-
--
-
-1
-
-* * *
-
-Griffins: (Lvl 4) These eagle/lion crossbreeds are vicious hunters but can
-make well trained mounts. They are fairly intelligent ( thought 1) but do not
-have the ability to speak. There are secondary only to dragons in the aerial
-combat. They are lethal at picking up large objects and dropping them
-precisely on ground based targets in bombing runs.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-15
-
-12
-
-15
-
-2
-
-10
-
-10
-
-Skills
-
-Melee,Missile,Acrobatica:14,Flight:10
-
-Masteries
-
-Melee(Lethal Targeting,Counterattack),Acrobatica(Anime Leap,Arboreal Movement)
-
-Masteries
-
-Missile(Lethal Targeting,Gun Kata),Flight(Defensive Maneuvering)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-26/26
-
-39/39(43 air)
-
-STR+4(Beak or Razor Claw)(+3 Melee)/STR+4(Heavy object)(+3 Missile)
-
-3
-
-5Dur+6Skin+Armor/75
-
--
-
--
-
-12(24 flight)
-
-* * *
-
-Unholy Warriors: (Lvl 4) Powerful zombie warriors. They are often fairly
-intelligent and even a little bit honorable (but not always).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-16
-
-10
-
-18
-
-6
-
-10
-
-4
-
-Skills
-
-Melee:14,Missile,Acrobatica:10
-
-Masteries
-
-Melee(Lethal Targeting,Reflexive Deflection),Acrobatica(Anime Leap)
-
-Masteries
-
-Missile(Quickshot)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-16
-
-24/20
-
-37/35
-
-STR+Weapon(+3 Melee)
-
-2
-
-6Dur+8Skin+Armor/90
-
--
-
-Sustained,Immune to Poison & Disease
-
-10
-
-* * *
-
-Unicorns: (Lvl 4) These majestic horses with a single horn on their heads are
-kind natured and good willed for the most part. Some rare few have been known
-to commit terrible atrocities (the goring of a fair princess now and then).
-The creatures have water magic level 10 and all other magic areas up to level
-6. One of their greatest defensive spells, Teleport, allows them to escape
-dangerous situations. Unicorns have a communal memory and once one of them has
-been ill-treated by a human, no others will deal with that person again.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-14
-
-14
-
-8
-
-10
-
-10
-
-Skills
-
-Melee,Acrobatica:14,Missile:10,Water Magic:10,Fire,Earth,Air,Spirit
-Magic:6,All Magic:6
-
-Masteries
-
-Melee(Reflexive Deflection,Lethal Targeting),Acrobatica(Anime Leap,Arboreal
-Movement)
-
-Masteries
-
-Missile(Lethal Targeting)
-
-Total Mana
-
-168
-
-Available Mana
-
-160
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-8
-
-28/24
-
-41/41
-
-STR+4 Horn(+3 Melee) or by spell(+3 Missile)
-
-3
-
-4Dur+4Skin+2Skin(spell)+4Armor(spell)=14/75
-
--
-
--
-
-14+Teleport
-
-* * *
-
-Dryads: (Lvl 3) Woodland creatures that have Water magic at Lvl 5. They can
-shapechange into a tree at will. They tend to live in small communities (20 to
-30 dryads) deep in the heart of large forests. Dryads do not age, but have no
-long term memories… they live a day to day existence. Whether or not they will
-deal with other creatures is fairly random. They are Attuned:4 (can summon
-level 2 monsters to help them)
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-14
-
-12
-
-8
-
-10
-
-9
-
-Skills
-
-Missile,Melee,Acrobatica:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-10
-
-24/24
-
-35/35
-
-8+Weapon
-
-3
-
-4Dur+4Skin=8/36
-
--
-
-Mimic Tree
-
-14 (Nature Walk)
-
-* * *
-
-Leprechauns: (Lvl 4) Leprechauns have All Magic 7. In addition, once per month
-they have the ability to grant a minor wish to anyone who catches them (often
-time this is a nice amount of money = 100 AP). Besides some defensive magic
-and Greater Power (which they have permanently enhanced some of their
-attributes with), their favorite spells are Blessing of War, Teleport, Summon
-Greater Monster and Wrath of God. The have spell mastery in Wrath of God (base
-damage=22), Obsidian Sheath (+6 skin DR) and Dense Air 3 (8 Armor DR).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-9(12)
-
-13(16)
-
-9(12)
-
-8(11)
-
-8(11)
-
-8
-
-Skills
-
-Missile,Acrobatica:14,Melee:10,Fire,Air,Earth,Water,Spirit,All Magic:7
-
-Masteries
-
-Melee(Reflexive Deflection),Acrobatica(Anime Leap,Arboreal Movement)
-
-Masteries
-
-Missile(Lethal Targeting,Gun Kata)
-
-Total Mana
-
-179
-
-Available Mana
-
-135
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-11
-
-26/30
-
-45/45
-
-STR+Weapon or by spell (+3 Missile)
-
-4
-
-4Dur+6Skin(spell)+8Armor(spell)=18/60
-
--
-
--
-
-16 (Teleport)
-
-* * *
-
-Pixies & Sprites: (Lvl 2) Mischevious inch-high mystical creatures. Exist in
-all natural environments. Have minor (cantrip-like) magical abilities, except
-for the leaders (Level 7 All Magic, stats as a leprauchaun, lvl 4 monster).
-Tend to have communities in unusually striking and breathtakingly beautiful
-natural surroundings (ancient trees, pristine lakes, mountain ravine, desert
-oasis, etc). Communities can be quite large up to several hundred members.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-2
-
-8
-
-6
-
-6
-
-6
-
-8
-
-Skills
-
-Missile:6,Acrobatica:9,Storytelling:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-6
-
-8/14
-
-19/28
-
-2+Weapon
-
-2
-
-1/6
-
-Sleep Arrows
-
--
-
-8 (some can fly 16)
-
-* * *
-
-Scarlet Fog: (Lvl 4) A reddish mist made up of bacteria. They start dissolving
-the skin with an acidic attack. The acid also damages armor, dissolving 1 DR a
-round (can be repaired if not totally destroyed). The mist does 3d6+6 points
-of damage per action minus skin and Durability DR to any creatures within it.
-Though this is not a disease, the Cure Disease spell with harm the mist, as
-will any fire or water based attack although it is immune to other physical
-attacks.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-0
-
-15
-
-12
-
-2
-
-8
-
-0
-
-Skills
-
-Acrobatica:12,Flight:10
-
-Masteries
-
-Acrobatica(Anime Leap,Arboreal Movement)
-
-Masteries
-
-Flight(Defensive Maneuvering)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-15/15
-
-38/38(42 air)
-
-3d6+6 (only Skin & Dur DR effective)
-
-3
-
-4Dur+6Skin=10/75
-
--
-
--
-
-15(30 flight)
-
-* * *
-
-Giant Insects: (Lvl 2-4) For every level above 2 the insect gets +3 to
-attributes, +2 to all skills. The base stats are listed. Different insects
-have different special abilities.
-
-Insect
-
-Special Attack & Natural Mobility
-
-Locusts
-
-Flight, Eats Crops
-
-Mosquitoes
-
-Flight, Blood drain: their attacks heal them d6+1 when they inflict damage
-
-Bees
-
-Flight, Sting: causes intense pain in the target, giving them -4 to all skill
-checks on a successful hit for damage
-
-Praying Mantis
-
-Very Strong:Str+4
-
-Ants
-
-Very Strong:Str+4
-
-Spiders
-
-Web: missile attack against one target, if successful that target must break
-free if they wish to move, the break check is the target's STR vs. the
-Spider's STR + 4
-
-Giant Insect Level:
-
-Size
-
-Natural Weapon Base Damage
-
-Bonus Skin DR
-
-Grit
-
-2
-
-6ft
-
-+2
-
-8
-
-1
-
-3
-
-10ft
-
-+4
-
-12
-
-2
-
-4
-
-20ft
-
-+6
-
-16
-
-4
-
-Base Stats for a level 2 Giant Insect are below:
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-10
-
-8
-
-10
-
-1
-
-1
-
-1
-
-Skills
-
-Melee,Acrobatica:8,Flight(if applicable):8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-16/8
-
-27/27
-
-10+Weapon(+3 Melee)
-
-2
-
-3Dur+8Skin=11/20
-
--
-
--
-
-8(16 flight if applicable)
-
-Applicable Masteries for lvl 3-4 Giant Insects
-
-Masteries
-
-Melee(Lethal Targeting),Acrobatica(Anime Leap)
-
-Masteries
-
-Flight(Defensive Maneuvering)
-
-* * *
-
-LandWorms: (Lvl 3-4) Enormous simple minded worms, and they may burrow through
-any terrain (including stone). Tend to range in length from 20 to 50 feet.
-Landworms may burrow at their full normal movement. Landworms prefer moist
-environments and often times can be used in desert terrains to locate a
-nearbye oasis.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-12-16
-
-8-12
-
-12-16
-
-2
-
-6-10
-
-2
-
-Skills
-
-Melee,Acrobatica:8-12
-
-Masteries
-
-Melee(Lethal Targeting),Acrobatica(Anime Leap)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-16-24/8-12
-
-27-35/27-35
-
-STR+2(bludgeon)(+3 Melee)
-
-2-3
-
-4-5Dur+6-8Skin=10-13/36-80
-
--
-
--
-
-8-12
-
-* * *
-
-War Pygmies: (Lvl 4) Midget weapon masters decked out with tatoos and wearing
-minimal animal skins. The prefer to use small two handed axes Str+2 damage, or
-blowguns Strength + 1 damage.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-16
-
-12
-
-6
-
-8
-
-6
-
-Skills
-
-Melee,Missile:14,Acrobatica:10
-
-Masteries
-
-Melee(Lethal Targeting,Reflexive Deflection),Acrobatica(Arboreal Movement)
-
-Masteries
-
-Missile(Lethal Targeting,Gun Kata)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-6
-
-30/30
-
-41/41
-
-STr+Weapon(+3 Melee)
-
-4
-
-4Dur+2Skin=6/60
-
--
-
--
-
-16(32 Arboreal Move)
-
-* * *
-
-Cave Crawlers: (Lvl 4) Long spindly things, extremely jointed and flexible,
-with lots of claws on various appendages. They look like a cross between a
-preying mantis and spider. The can climb any surface and can burrow their
-normal movement.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-16
-
-12
-
-16
-
-1
-
-10
-
-10
-
-Skills
-
-Melee:14,Acrobatica:10,Climbing:10
-
-Masteries
-
-Melee(Lethal Targeting,Counterattack),Acrobatica(Anime Leap)
-
-Masteries
-
-Climbing(SpiderClimb)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-26/12
-
-37/33
-
-STR+3(claw/bite)(+3 Melee)
-
-3
-
-5Dur+8Skin=13/80
-
--
-
--
-
-12(25y leap,76')
-
-* * *
-
-Goblins: (Lvl 1) Yum yums! Tasty treats for the whole family! Little ugly
-humanoids with a penchant for evil.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-3
-
-4
-
-3
-
-4
-
-3
-
-3
-
-Skills
-
-Melee,Missile,Acrobatica:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-3
-
-8/8
-
-19/19
-
-3+Weapon
-
-1
-
-1/3
-
--
-
--
-
-4
-
-* * *
-
-Orcs: (Lvl 2) An intelligent scholarly race, that revels in the finer aspects
-of culture. They have a great love for music and their pointed ears give them
-excellent hearing (+4 to WIL checks involving listening). They are fine
-engineers and craftsmen. They have a racial bonus of +2 to any skill rolls
-involving these areas. Often times, humans will seek out an Orcish blacksmith,
-or Orcish architect to do a grand job. They are a rare few orcs who have been
-banished from their original homes, these wandering barbaric orcs often attack
-and attempt to kill/rob weakly defended humanoids.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-8
-
-8
-
-6
-
-6
-
-6
-
-Skills
-
-Lore,Acrobatica,Melee,Missile,Blacksmith,Profession:Architecture:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-8
-
-16/16
-
-27/27
-
-8+Weapon
-
-2
-
-2+2skin+Armor/16
-
--
-
--
-
-8
-
-* * *
-
-Manifest Evil: (Poltergeist) (Lvl 5) Takes over people/creatures/animates
-objects. This evil force can only be harmed by magical attacks when not
-possessing a creature and truly enchanted weapons (magic weapons not spell
-boosted items). Otherwise it has the defenses of the host. If the host is
-killed the evil is temporarily banished until the next midnight when it
-returns with a vengeance. If destroyed in it’s natural form it is banished
-until the next full moon. These creatures are immortal. In order for a
-Poltergeist to possess a target, it must roll a check of it's Presence vs. the
-Targets WIL. If successful the Poltergeist can retain control of the creature
-for 1 round + 1round for ever success. The Poltergeist may possess as many
-targets per day as it wishes although only one such target at a time, and it's
-very obvious that the creature is being possessed (think original Ghostbusters
-Rick Moranis). If a Poltergeist is exorcised it is unable to possess any
-objects or creatures for 10minutes.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-16
-
-16
-
-16
-
-16
-
-16
-
-16
-
-Skills
-
-Melee,Missile,Acrobatica:14,Flight:10
-
-Masteries
-
-Melee(Lethal Targeting,Reflexive Deflection),Acrobatica(Anime Leap,Arboreal
-Movement)
-
-Masteries
-
-Missile(Lethal Targeting,Death Blossom)
-
-Masteries
-
-Flight(Defensive Maneuvering)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-16
-
-30/30
-
-43/43(47 air)
-
-16 (Telekinetic blast) or hurled objects 18
-
-4
-
-5Dur+6Skin=11/96
-
--
-
--
-
-16(32 flight)
-
-* * *
-
-Singing Bush: (Lvl 1) These magical bushes can wriggle and dance to their own
-melodic tunes. They lure people over with enchanting music and have been known
-to capture audiences until exhaustion forces the victim to pass unconscious.
-Once unconcious the Bushes will invariable loot the victim of any shiny
-objects and their shoes, and leave them with a strange smelling chloroform
-based candy before uprooting and wandering away.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-4
-
-4
-
-4
-
-3
-
-3
-
-10
-
-Skills
-
-Acrobatica:6, Profession Dance:6,Profession Singer:6,Storytelling:10
-
-Mastery
-
-Storytelling(Enthrall)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-3
-
-4/4
-
-21/21
-
-4
-
-1
-
-1Dur/4
-
-Enthrall
-
--
-
-4
-
-* * *
-
-Progeny of the Dark: (Lvl 2) These onyx skinned humanoids stand roughly 5 ft
-tall. They have average builds and appear to be humans from a distance. The
-Progeny have completely black eyes that are very sensitive to light. They can
-also see in complete darkness up to their normal line of sight. The Progeny
-live underground in colonies and have been known to trade with other
-humanoids.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-8
-
-8
-
-4
-
-4
-
-4
-
-Skills
-
-Melee,Missile,Acrobatica:8, Climbing:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-4
-
-16/16
-
-27/27
-
-8+Weapon
-
-2
-
-2Dur+Armor/16
-
--
-
--
-
-8
-
-* * *
-
-Field Hands: (Lvl 1) (Undead) Formed from the bodies of peasants. They cluster
-around fields, trying to steal food and destroy crops. These creatures
-mysteriously appear and will rise up against oppressing farm owners. They will
-often be wearing their Sunday finest.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-6
-
-4
-
-6
-
-2
-
-2
-
-1
-
-Skills
-
-Melee,Acrobatica:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-8/4
-
-19/19
-
-6+Weapon
-
-1
-
-2Dur/6
-
--
-
-Sustained,Immune to Poison&Disease
-
-4
-
-* * *
-
-Missing Links: Lvl 3 (More Undead) – These creatures are giant animated
-sausage links back to get their vengeance upon mankind. Their animated by the
-animal spirits that were butchered to make sausages.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-8
-
-12
-
-2
-
-7
-
-1
-
-Skills
-
-Melee,Acrobatica:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-16/8
-
-27/27
-
-16 (bludgeon)
-
-2
-
-4Dur+4Skin=8/36
-
--
-
-Taste Delicious Grilled
-
-8
-
-* * *
-
-The Raisinoids: Lvl 3. Look like little California Raisin people. They move
-extremely fast (look like a blur). They have the Action Man Power level 4.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-4
-
-12
-
-12
-
-4
-
-4
-
-4
-
-Skills
-
-Melee,Missile,Acrobatica:8, Climbing,Swimmming:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-8
-
-20/20
-
-35/35
-
-4+Weapon
-
-5
-
-4Dur+2Skin+Armor/36
-
--
-
-Also Taste Delicious
-
-12
-
-* * *
-
-BogWumps: (Lvl 3) Creatures that live in marshes and swamps (mostly under the
-water). Like giant potato-shaped bodies with lots of tentacles and mouths,
-they tend to pull victims under and shake them vigorously.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-8
-
-16
-
-2
-
-6
-
-2
-
-Skills
-
-Melee,Acrobatica:8, Missile:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-16
-
-27/27
-
-16
-
-2
-
-5Dur+6Skin=11/48
-
--
-
-Sustained
-
-8
-
-—-
-
-BookWorms: (Lvl 1) Eat books/leather. Especially like the magical stuff. They
-are the result of a master wizard’s punishment for his failing students. These
-creatures have a chance of appearing when a magic items creation attempt
-fails. They will attempt to eat any papers/leather the mage has.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-2
-
-4
-
-2
-
-0
-
-1
-
-0
-
-Skills
-
-Stealth:7
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-0
-
-4/4
-
-15/15
-
-2
-
-1
-
-0/2
-
-Eat books
-
--
-
-4
-
-* * *
-
-FireBats: (Lvl 1) Bats that are weird blood-red colors with wings fading to
-orange and yellow. Breathe fire, base damage 7, range 15feet.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-5
-
-4
-
-4
-
-1
-
-1
-
-1
-
-Skills
-
-Missile,Melee,Flight,AcroBATica:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-1
-
-8/8
-
-19/19
-
-5/7Breath
-
-1
-
-1Dur/4
-
-Firebreath
-
--
-
-4(8 Flight)
-
-* * *
-
-Phoenix: (Lvl 2-5) These fiery eagles can fire a blast of flame (Fire Bolt
-cast at Phoenix Level + 7) or make a fiery clawed attack. If their bodies are
-put into a hot enough fire after death they are resurrected. Larger phoenix
-have been known to resurrect without a fire source. For every level above 2
-they gain +3 to attributes, +2 to all skills, +4 DR per size/level.
-
-Phoenix Level:
-
-Size
-
-Phoenix Weapon Base Damage
-
-Bonus Skin DR
-
-Grit
-
-2
-
-6ft
-
-+2
-
-4
-
-1
-
-3
-
-12ft
-
-+4
-
-8
-
-2
-
-4
-
-18ft
-
-+6
-
-12
-
-4
-
-5
-
-30ft
-
-+8
-
-16
-
-5
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-8
-
-8
-
-8
-
-2
-
-4
-
-4
-
-Skills
-
-Melee,Missile,Acrobatica,Flight,Alertness:8
-
-Masteries
-
-Melee(Lethal Targeting,Reflexive Deflection),Missile(Gun Kata,Lethal
-Targeting)
-
-Masteries
-
-Alertness (Panoramic Vision,Danger Sense), Acrobatica (Anime Leap, Arboreal
-Movement)
-
-Masteries
-
-Flight (Windrider, Defensive Maneuvering)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-16+/16+
-
-27+/27+
-
-STR+2(Beak,Claws)+
-
-2+
-
-2Dur+4Skin=6+/(Grit+1)xDUR
-
-Firebolt
-
-Self Ressurection
-
-8+(16+ flight)
-
-* * *
-
-Gores: (Lvl 2) (Undead) – Bloody wound-ridden bodies. Looks strikingly
-familiar to a former steward to the king. Clusters around cities, trying to
-tear them down and restore the environment. Once every other round in lieu of
-their standard attacks the Gores can breathe out the infamous “Boring Gore
-Wind”, make a check of Gores' PRE vs. all target's WIL within a 20' radius
-about the Gore. Each target affected loses 1 + number of successes earned in the
-check, actions.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-6
-
-8
-
-8
-
-3
-
-8
-
-6
-
-Skills
-
-Melee,Acrobatica,Climbing:6
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-3
-
-14/8
-
-25/25
-
-6+Weapon
-
-2
-
-2Dur+2Skin/16
-
-Boring Wind
-
--
-
-8
-
-* * *
-
-The Maggotons: (Lvl 3) Huge humanoid creatures made up of thousands and
-thousands of maggots. These writhing masses will attempt to consume raw flesh
-and increase their numbers. Rumor has it that the Maggotons were summoned by
-mages after a great war centuries ago to clean up the dead (must have been a
-lot of dead).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-8
-
-14
-
-1
-
-6
-
-2
-
-Skills
-
-Melee,Acrobatica:8, Missile:8
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-16
-
-27/27
-
-16
-
-2
-
-4Dur+4Skin=8/42
-
--
-
-Regeneration:2hp/rnd
-
-8
-
-* * *
-
-Sphynx: (Lvl 4) This mythical creature has the head of the woman, the claws of
-a lion and a the wings of an eagle. Sphynx are rumored to always be looking
-for a great new riddles.
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-12
-
-14
-
-12
-
-10
-
-8
-
-Skills
-
-Missile,Flight,Alertness,Acrobatica:10,Melee:14
-
-Masteries
-
-Melee(Reflexive Deflection,Lethal Targeting),Missile(QuickShot)
-
-Masteries
-
-Alertness(Danger Sense),Acrobatica(Anime Leap)
-
-Masteries
-
-Flight(Defensive Maneuvering)
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-22
-
-26/22
-
-35/35 (39 Air)
-
-STR+Weapon or +3Claw(+3Melee)
-
-3
-
-4Dur+7Skin=11/70
-
--
-
--
-
-12(24
-
-* * *
-
-Shrublings: (Lvl 1) Small (fist-sized) creatures that look like furry balls
-(tribbles). Cluster in tribes under large forest shrubs. (Think Secret of
-Nymph).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-1
-
-4
-
-4
-
-2
-
-2
-
-2
-
-Skills
-
-Melee,Acrobatica:4
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-2
-
-8/4
-
-19/19
-
-1
-
-1
-
-1Dur/4
-
--
-
--
-
-4
-
-* * *
-
-The Monster Under the Bed: (Lvl 3) These nefarious boogie men, found in city
-type environments (especially inns in which PC’s sleep).
-
-Str
-
-Agi
-
-Dur
-
-Tht
-
-Wil
-
-Pre
-
-14
-
-8
-
-14
-
-6
-
-8
-
-1
-
-Skills
-
-Melee,Acrobatica:10,Stealth:10
-
-Initiative
-
-Hit
-
-Parry/Evade
-
-Damage
-
-number of actions
-
-DR/HP
-
-Special Attacks
-
-Special Abilities
-
-Move
-
-6
-
-18/8
-
-29/29
-
-16
-
-2
-
-4Dur+6Skin=10/42
-
--
-
--
-
-8
+### Elementals (Lvl 1-5)
+
+These animated pure elemental forces may originate from their home planes (the planes of Fire, Earth, Air, and Water). They may appear as humanoids or any other physical manifestation they choose. Larger elementals are more powerful (+3 to attributes, +2 to all skills, +1 to monster level, resistance to magic/supernatural Will + 11, and +4 DR per size/level).
+
+| Elemental Level | Size | Elemental Weapon Base Damage | Bonus Skin DR | Grit |
+|------------------|------|------------------------------|---------------|------|
+| 1                | 2ft  | +2                          | -             | 0    |
+| 2                | 6ft  | +4                          | -             | 1    |
+| 3                | 10ft | +6                          | 2             | 2    |
+| 4                | 20ft | +8                          | 4             | 4    |
+| 5                | 40ft | +10                         | 8             | 5    |
+
+Elementals may develop varied interests so each of them may have one or more other skills at an appropriate level chosen by the GM. Elementals have a blast attack that may be done instead of its normal attacks with a base damage equal to their melee base damage (use missile skill). Once per round in lieu of standard attacks they may also blast an area with elemental damage (Fire, Rocks, Lightning, Ice) in a 20-foot radius. Once masteries become available (level 10+ skill), Elementals usually take the masteries listed in order.
+
+**Movement powers:**
+
+- Earth elementals may tunnel at their standard movement rate through any rock or stone, as well as leaving no tunnel behind if they so wish.
+- Water may swim at double their normal speed.
+- Air elementals may fly at double their normal land speed.
+- Fire may teleport at double their normal land sprint speed (in distance) once per action.
+
+| Attributes for Size 1  | Value |
+|------------------------|-------|
+| Str                    | 8     |
+| Agi                    | 6     |
+| Dur                    | 6     |
+| Tht                    | 1     |
+| Wil                    | 1     |
+| Pre                    | 1     |
+| Skills (all)           | Melee, Missile, Alertness, Acrobatics, Climbing, Swimming, Flight, +1 miscellaneous: 6 |
+| Masteries (all)        | Melee (Lethal Targeting, Reflexive Deflection), Missile (Lethal Targeting, Gun Kata) |
+| Masteries (all)        | Alertness (Panoramic Vision, Danger Sense), Acrobatics (Anime Leap, Arboreal Movement) |
+| Masteries (fire)       | -     |
+| Masteries (water)      | Swimming (Aquaman) |
+| Masteries (air)        | Flight (Defensive Maneuvering, Windrider) |
+| Masteries (earth)      | Climbing (SpiderClimb) |
+| Initiative             | 1     |
+| Hit                    | 12/12 |
+| Parry/Evade            | 23/23 (possibly +4 from masteries) |
+| Damage                 | Str + Elemental Weapon (possibly +3 Lethal Targeting) |
+| Number of actions      | 1+    |
+| DR/HP                  | 6+ / DUR * (Grit + 1) |
+| Special Attacks        | Single target blast, or AOE |
+| Special Abilities      | Sustained, Form Shape (may select any form for equivalent size) |
+| Move                   | 6 + (12+ flight) |
+
+* * *
+
+### Giant Cockroach (Lvl 2)
+
+Big ass Cockroach (5-6 feet long, 3 feet high, and 2 feet wide). Giant Cockroaches may eat anything for nourishment but they certainly aren’t motivated for evil intent, in fact some of these strange creatures have been trained and are great workers.
+
+| Attribute   | Value |
+|-------------|-------|
+| Str         | 10    |
+| Agi         | 8     |
+| Dur         | 8     |
+| Tht         | 1     |
+| Wil         | 1     |
+| Pre         | 0     |
+| Skills      | Melee: 8 |
+| Initiative  | 1     |
+| Hit         | 16    |
+| Parry/Evade | 27/19 |
+| Damage      | 12    |
+| Actions     | 2     |
+| DR/HP       | 2 Dur + 6 Skin = 8 / 16 |
+| Special Attacks | - |
+| Special Abilities | Heightened Senses + 5 |
+| Move        | 4     |
+
+### Giant Pigeon (Lvl 1)
+
+Giant pigeons are very friendly, but they are easily offended (though they don’t often hold grudges). A bucket of worms is usually enough to buy their friendship (and possibly a fun flight), though they are extremely loyal to their masters. Giant pigeons can wear leather armor and still fly. They attack with their beak. “Bakaaaaawh!”
+
+| Attribute   | Value |
+|-------------|-------|
+| Str         | 8     |
+| Agi         | 8     |
+| Dur         | 8     |
+| Tht         | 1     |
+| Wil         | 1     |
+| Pre         | 2     |
+| Skills      | Melee: 2, Acrobatics: 2, Pilot Air: 8 |
+| Initiative  | 1     |
+| Hit         | 10    |
+| Parry/Evade | 19/19 |
+| Damage      | 8     |
+| Actions     | 2     |
+| DR/HP       | 2 Dur / 8 |
+| Special Attacks | - |
+| Special Abilities | - |
+| Move        | 8 (16 air) |
+
+### Peck (Lvl 1)
+
+The foulest of foul critters. These midget smoke-skinned humanoids reside on roofs and castle walls (much like vermin). They breed incredibly fast and are impishly evil. They are intelligent and can even speak the common language although they rarely listen to other humanoids.
+
+| Attribute   | Value |
+|-------------|-------|
+| Str         | 4     |
+| Agi         | 8     |
+| Dur         | 8     |
+| Tht         | 3     |
+| Wil         | 4     |
+| Pre         | 1     |
+| Skills      | Stealth, Climbing, Swimming, Melee, Missile, Acrobatics: 4 |
+| Initiative  | 4     |
+| Hit         | 12    |
+| Parry/Evade | 23/23 |
+| Damage      | 8 + Weapon |
+| Actions     | 2     |
+| DR/HP       | 2 Dur + Armor / 8 |
+| Special Attacks | - |
+| Special Abilities | Night Vision, Poison Resistance +4 (to Durability tests) |
+| Move        | 8     |
+
+* * *
+
+# Ogres (Level 2)
+
+These 7-8 feet tall humanoids are nearly full giants and are nearly as dangerous. Their powerful strength and durability make them ferocious warriors. A wise saying about them is, “don’t piss an ogre off if you aren’t fond of pain”. Ogre's can wield large sized weapons that do their equivalent normal sized weapon damage + 1.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 12 |
+| Agility (Agi) | 6 |
+| Durability (Dur) | 12 |
+| Thought (Tht) | 2 |
+| Will (Wil) | 2 |
+| Presence (Pre) | 2 |
+| Skills | Melee: 6, Missile: 4 |
+| Initiative | 2 |
+| Hit | 12/10 |
+| Parry/Evade | 23/21 |
+| Damage | 12 + Weapon |
+| Number of Actions | 1 |
+| Damage Resistance (DR) / Hit Points (HP) | 4Dur + 2Skin + Armor / 24 |
+| Special Attacks | - |
+| Special Abilities | - |
+| Move | 6 |
+
+* * *
+
+# Trolls (Level 3)
+
+Vicious green regenerating monstrosities that stand 9 feet tall. They are not very intelligent but have incredible senses of smell and can easily hunt and track their prey with this sense. Troll's can wield large sized weapons that do their equivalent normal sized weapon damage + 2.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 14 |
+| Agility (Agi) | 8 |
+| Durability (Dur) | 16 |
+| Thought (Tht) | 2 |
+| Will (Wil) | 6 |
+| Presence (Pre) | 2 |
+| Skills | Melee, Acrobatica: 8, Missile: 8 |
+| Initiative | 2 |
+| Hit | 16 |
+| Parry/Evade | 27/27 |
+| Damage | 16 or 14 + Weapon |
+| Number of Actions | 2 |
+| Damage Resistance (DR) / Hit Points (HP) | 5Dur + 4Skin / 48 |
+| Special Attacks | - |
+| Special Abilities | Regeneration: 5hp/rnd |
+| Move | 8 |
+
+* * *
+
+# Demonling (Level 2)
+
+These are the lowest of the shadowy creatures that reside in a dimension parallel to the land of legends. They are for the most part evil (although many may be simply selfish) but subservient to their masters. These winged humanoids stand between 6 and 7 feet tall, are lightly covered with red scales, spiked horns and boney ridges and are decently muscled. Horns may appear at the elbows or head or shoulders depending on their lineage. Their weapon of choice is a wicked looking two-handed sword.
+
+Once per round instead of making their normal attacks Demonlings may launch a single fire bolt at a target, Base Damage:10, Range:200yards.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 8 |
+| Agility (Agi) | 8 |
+| Durability (Dur) | 10 |
+| Thought (Tht) | 4 |
+| Will (Wil) | 8 |
+| Presence (Pre) | 4 |
+| Skills | Climbing, Swimming, Melee, Missile, Acrobatica, Pilot Air: 6 |
+| Initiative | 4 |
+| Hit | 14 |
+| Parry/Evade | 25/25 |
+| Damage | 12 |
+| Number of Actions | 2 |
+| Damage Resistance (DR) / Hit Points (HP) | 3Dur + 5Skin = 8 / 20 |
+| Special Attacks | - |
+| Special Abilities | - |
+| Move | 8 (16 Air) |
+
+* * *
+
+# Paladin (Level 2)
+
+These are humanoids that have dedicated their lives to removing the land of legends from evil and corruption. They are adorned with shining full plate armor and wicked two-handed swords or warhammers and shields. Often times are associated with warhorses their favorite mount of choice.
+
+Once per round instead of making their normal attacks they may focus their powers on healing one target for, d6+WIL, Range:touch.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 8 |
+| Agility (Agi) | 10 |
+| Durability (Dur) | 8 |
+| Thought (Tht) | 4 |
+| Will (Wil) | 8 |
+| Presence (Pre) | 4 |
+| Skills | Climbing, Swimming, Melee, Missile, Acrobatica, Riding Land: 6 |
+| Initiative | 4 |
+| Hit | 16 |
+| Parry/Evade | 27/27 |
+| Damage | 12 |
+| Number of Actions | 2 |
+| Damage Resistance (DR) / Hit Points (HP) | 2Dur + 6Plate = 8 / 16 |
+| Special Attacks | - |
+| Special Abilities | see above |
+| Move | 10 |
+
+* * *
+
+# Giants (Lvl 4)
+
+These are massive humanoids of legend. They stand 12+ feet tall and have powerful builds. They are rarely seen among the human lands and travel in small groups when necessary.
+
+#### Types of Giants
+- Ice Giants
+- Fire Giants
+- Forest Giants
+- Rock Giants
+
+#### Elemental Attacks
+Giant's elemental attacks consist of a cone missile blast of their type: Ice, Fire, Trees, Rocks respectively. The base damage is equal to the Giant's strength + 4. They may only do this powerful attack 5 times per day, and doing so takes up their full round of actions (may move and breath attack, but not make other attacks/actions). The area of effect is a cone reaching out 60 feet from the giant, and 40 feet wide at its maximum.
+
+#### Elemental Immunity
+- Ice Giants: Complete immunity to Ice
+- Fire Giants: Complete immunity to Fire
+- Forest Giants: Regenerate 5hp per round and per action spent concentrating on healing
+- Rock Giants: Complete immunity to Earth/Stone (Magic/Weapons)
+
+#### Giant Weapons
+Giant weapons do the equivalent damage for normal-sized weapons +4 (giant two-handed sword is Str+8).
+
+| Attribute     | Value                                                                                          |
+|---------------|------------------------------------------------------------------------------------------------|
+| **Str**       | 16                                                                                             |
+| **Agi**       | 12                                                                                             |
+| **Dur**       | 16                                                                                             |
+| **Tht**       | 6                                                                                              |
+| **Wil**       | 10                                                                                             |
+| **Pre**       | 8                                                                                              |
+| **Skills**    | Alertness, Acrobatics: 8, Running: 10, Melee: 14, Missile: 10 (Quickshot)                      |
+| **Masteries** | Melee (Reflexive Deflection, Lethal Targeting), Missile (QuickShot), Running (Speed of Fury)    |
+| **Initiative**| 16                                                                                             |
+| **Hit**       | 26/22                                                                                          |
+| **Parry/Evade** | 43/35                                                                                        |
+| **Damage**    | STR + Weapon (+3 Melee) / 16 + Weapon                                                          |
+| **Number of Actions** | 2                                                                                      |
+| **DR/HP**     | 5 Dur + 8 Skin + Armor / 80                                                                    |
+| **Special Attacks** | Elemental Attack: Damage 20 (missile)                                                    |
+| **Special Abilities** | Immune to Element Type                                                                 |
+| **Move**      | 16                                                                                            |
+
+
+* * *
+
+### Dragons (Lvl 5+)
+
+Vicious in the extreme, these winged, arm-like fore-clawed and legged lizards can wreak havoc on a good-sized army. An elder dragon would eat the same army for breakfast. Although their base color remains constant, their scale color can vary with moods. Almost all are intelligent and some even have spell-casting abilities (designated by the game master). When reared on their hind legs an age 1 dragon stands over 12 feet tall at its head (these are the most common type). Elder dragons can be much, much larger. Rumors say they are over 200 feet long. Larger dragons are more powerful (+3 to attributes, +1 to all skills, +1 to monster level, Resistance to Arcane Will+11, and +4 DR per size larger than 1).
+
+#### Dragon Age
+
+| Age | Size   | Claw Base Damage | Bite Base Damage | Skin DR |
+|-----|--------|------------------|------------------|---------|
+| 1   | 12 ft  | +2               | +4               | 12      |
+| 2   | 18 ft  | +3               | +5               | 16      |
+| 3   | 40 ft  | +4               | +6               | 20      |
+| 4   | 60 ft  | +5               | +7               | 24      |
+| 5   | 90 ft  | +6               | +8               | 28      |
+| 6   | 120 ft | +7               | +9               | 32      |
+| 7   | 150 ft | +8               | +10              | 36      |
+| 8   | 200 ft | +8               | +11              | 40      |
+
+Dragons develop varied interests so each of them has one other skill at the grand mastery level (14 + size modifier) chosen by the GM. Dragon breath attacks may be done instead of its normal attacks (in any round) with a base damage of its Str + 8 to all targets in a cone (use missile skill) 80 feet long and 60 feet wide.
+
+#### Attributes for Size 1
+
+| Attribute     | Value                                                                                      |
+|---------------|--------------------------------------------------------------------------------------------|
+| **Str**       | 16                                                                                         |
+| **Agi**       | 16                                                                                         |
+| **Dur**       | 16                                                                                         |
+| **Tht**       | 16                                                                                         |
+| **Wil**       | 16                                                                                         |
+| **Pre**       | 16                                                                                         |
+| **Skills**    | Melee, Missile, Alertness, Acrobatics, Climbing, Swimming, Flight, +1 miscellaneous: 14    |
+| **Masteries** | Melee (Lethal Targeting, Reflexive Deflection), Missile (Gun Kata, Lethal Targeting)       |
+| **Masteries** | Alertness (Panoramic Vision, Danger Sense), Acrobatics (Anime Leap, Arboreal Movement)     |
+| **Masteries** | Climbing (SpiderClimb), Swimming (Aquaman), Flight (Windrider, Defensive Maneuvering)      |
+| **Initiative**| 16                                                                                         |
+| **Hit**       | 30/30                                                                                      |
+| **Parry/Evade** | 45/45 (49 Air)                                                                           |
+| **Damage**    | (Str + Claw/Bite/Weapon) (+3 Melee/Missile)                                                |
+| **Number of Actions** | 4+                                                                                 |
+| **DR/HP**     | 5 Dur + 12 Skin = 17+ / 6xDur                                                              |
+| **Special Attacks** | Breath/Death from Above                                                              |
+| **Special Abilities** | Sustained, Resistance to Arcane: 2+, Major Shape Change: mimic any lvl 1-4 monster (keep better attributes) |
+| **Move**      | 16+ (64+ flight)                                                                           |
+
+
+### Skeletons (Lvl 2)
+
+Humanoid animated bones that can have a human intelligence. They tend to jealously hate the living although some of them have been known to associate with mages or priests.
+
+| Attribute         | Value                           |
+|-------------------|---------------------------------|
+| **Str**           | 8                               |
+| **Agi**           | 8                               |
+| **Dur**           | 8                               |
+| **Tht**           | 4                               |
+| **Wil**           | 6                               |
+| **Pre**           | 4                               |
+| **Skills**        | Melee, Missile, Acrobatics, Alertness: 8 |
+| **Initiative**    | 4                               |
+| **Hit**           | 16                              |
+| **Parry/Evade**   | 27/27                           |
+| **Damage**        | 8 + Weapon                      |
+| **Number of Actions** | 2                           |
+| **DR/HP**         | 2 Dur + Armor / 24              |
+| **Special Attacks** | -                             |
+| **Special Abilities** | Against Piercing Weapons: +10 DR, Slashing: +4 DR |
+| **Move**          | 8                               |
+
+* * *
+
+### Human Soldiers (Lvl 1)
+
+Standard human warriors, guardsmen, pirates, bandits, archers, etc.
+
+| Attribute         | Value                                 |
+|-------------------|---------------------------------------|
+| **Str**           | 7                                     |
+| **Agi**           | 7                                     |
+| **Dur**           | 7                                     |
+| **Tht**           | 4                                     |
+| **Wil**           | 4                                     |
+| **Pre**           | 4                                     |
+| **Skills**        | Melee, Missile, Acrobatics, Alertness: 6 |
+| **Initiative**    | 4                                     |
+| **Hit**           | 13                                    |
+| **Parry/Evade**   | 24/24                                 |
+| **Damage**        | 7 + Weapon                            |
+| **Number of Actions** | 1                                 |
+| **DR/HP**         | 2 Dur + Armor / 7+                    |
+| **Special Attacks** | -                                   |
+| **Special Abilities** | Some may have Grit: 1             |
+| **Move**          | 7                                     |
+
+* * *
+
+### Carnivorous Trees (Lvl 3)
+
+Think weeping willows with an appetite. They have a hollow at their base where they try to stuff you. Incredibly stout Legends have been known to frequent this spot, as it has been rumored to be quite cozy and usually a safe place to rest. 
+
+#### Special Attack
+- **Chew:** While in the maw of the Carnivorous Tree, victims take 14 damage per round until they are killed/digested. Those with 14+ total DR can remain in the maw safely.
+
+| Attribute         | Value                           |
+|-------------------|---------------------------------|
+| **Str**           | 14                              |
+| **Agi**           | 8                               |
+| **Dur**           | 14                              |
+| **Tht**           | 1                               |
+| **Wil**           | 8                               |
+| **Pre**           | 1                               |
+| **Skills**        | Melee: 8, Stealth: 10           |
+| **Initiative**    | 1                               |
+| **Hit**           | 16                              |
+| **Parry/Evade**   | 27/19                           |
+| **Damage**        | 16                              |
+| **Number of Actions** | 2                           |
+| **DR/HP**         | 4 Dur + 6 Skin = 10 / 42        |
+| **Special Attacks** | Chew                          |
+| **Special Abilities** | Appears to be a normal tree |
+| **Move**          | 8                               |
+
+* * *
+
+# Harpies (Level 2)
+
+Dark winged clawed feet female monsters. They have a sonic attack which can stun an opponent who hears the screech. A harpy makes a single check of Pre+d20 vs. opponents will, if effective their victims are penalized 6 to hit and defense class.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 6 |
+| Agility (Agi) | 7 |
+| Durability (Dur) | 8 |
+| Thought (Tht) | 4 |
+| Will (Wil) | 6 |
+| Presence (Pre) | 6 |
+| Skills | Melee, Missile, Acrobatica, Flight: 8 |
+| Initiative | 4 |
+| Hit | 15 |
+| Parry/Evade | 26/26 |
+| Damage | 8 (Talons or Dropped Rocks) |
+| Number of Actions | 1 |
+| Damage Resistance (DR) / Hit Points (HP) | 2Dur + 2Skin = 4 / 16 |
+| Special Attacks | Screech |
+| Special Abilities | - |
+| Move | 7 (14 Air) |
+* * *
+
+### Medusas (Lvl 4)
+
+Gazing upon a medusa can turn a victim to stone. These hideous women have snakes for hair. Once per round, anyone gazing at a medusa (alive or dead) must make a will check vs. 18 or be turned to stone.
+
+| Attribute         | Value                                  |
+|-------------------|----------------------------------------|
+| **Str**           | 14                                     |
+| **Agi**           | 16                                     |
+| **Dur**           | 12                                     |
+| **Tht**           | 10                                     |
+| **Wil**           | 10                                     |
+| **Pre**           | 1                                      |
+| **Skills**        | Melee, Missile, Acrobatics: 12         |
+| **Masteries**     | Melee (Lethal Targeting), Missile (QuickShot) |
+| **Masteries**     | Acrobatics (Anime Leap)                |
+| **Initiative**    | 22                                     |
+| **Hit**           | 28                                     |
+| **Parry/Evade**   | 39/39                                  |
+| **Damage**        | STR + Weapon (+3 Melee)                |
+| **Number of Actions** | 4                                  |
+| **DR/HP**         | 4 Dur + 2 Skin + Armor / 60            |
+| **Special Attacks** | Stone                                 |
+| **Special Abilities** | Immunity to Poison, RA: 7           |
+| **Move**          | 16 (Leap 26 yds / 78 ft)               |
+
+* * *
+
+### Gargoyles (Lvl 3)
+
+Stone creatures who have been cursed to their current existence as Gargoyles. Gargoyles tend to gather in groups or hierarchies. These groups have been known to make peace with nearby human settlements. Gargoyles tend to find secluded mountain caves or other such locations that provide them with a safe haven.
+
+#### Types
+- **Stone Lords** – Land based ones.
+- **Aerophants** – Flying ones.
+
+| Attribute         | Value                           |
+|-------------------|---------------------------------|
+| **Str**           | 12                              |
+| **Agi**           | 10                              |
+| **Dur**           | 16                              |
+| **Tht**           | 4                               |
+| **Wil**           | 4                               |
+| **Pre**           | 2                               |
+| **Skills**        | Melee, Acrobatics: 8, Missile, Flight: 8 |
+| **Initiative**    | 4                               |
+| **Hit**           | 18                              |
+| **Parry/Evade**   | 29/29                           |
+| **Damage**        | 14 (claws)                      |
+| **Number of Actions** | 2                           |
+| **DR/HP**         | 5 Dur + 7 Skin = 12 / 48        |
+| **Special Attacks** | -                             |
+| **Special Abilities** | Stone                       |
+| **Move**          | 10 (20 flight)                  |
+
+* * *
+
+### Giant Rodents (Level 1)
+
+These rodents of unusually large size exist in the sewer systems of large human towns. Their bite can induce disease into their victims. When a Giant Rodent bites a target and causes damage they make a single check of Str vs. Target Durability, if successful the target becomes infected with a terrible disease with lowers the characters Strength and Durability by 1 point per month, d6 months or until cured. Stats are regained at the rate of 1 point per month in both strength and durability after the disease is finished.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 4 |
+| Agility (Agi) | 4 |
+| Durability (Dur) | 4 |
+| Thought (Tht) | 1 |
+| Will (Wil) | 1 |
+| Presence (Pre) | 1 |
+| Skills | Melee: 4 |
+| Initiative | 1 |
+| Hit | 8 |
+| Parry/Evade | 19/15 |
+| Damage | 5 |
+| Number of Actions | 1 |
+| Damage Resistance (DR) / Hit Points (HP) | 1Dur / 4 |
+| Special Attacks | Disease |
+| Special Abilities | - |
+| Move | 4 |
+
+* * *
+
+# Golems (Level 4)
+
+Powerful flesh, stone, iron or bone creatures that have been created by powerful mages. They are immune to direct magical attacks (can still be harmed by summoned creatures/objects etc.). They vary in size but are usually 7 feet tall or larger and some even have sarcophagi capable of protecting a passenger. They attack with Great Maul-like appendages inflicting two-handed weapon damage with each punch/smash/boot.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 18 |
+| Agility (Agi) | 12 |
+| Durability (Dur) | 16 |
+| Thought (Tht) | 10 |
+| Will (Wil) | 10 |
+| Presence (Pre) | 1 |
+| Skills | Melee, Missile, Acrobatica: 12 |
+| Masteries | Melee(Lethal Targeting), Missile(Reflexive Deflection), Acrobatica(Anime Leap) |
+| Initiative | 10 |
+| Hit | 24 |
+| Parry/Evade | 37/37 |
+| Damage | STR+4(or weapon)(+3 Melee) |
+| Number of Actions | 3 |
+| Damage Resistance (DR) / Hit Points (HP) | 5Dur + 13Skin = 18 / 80 |
+| Special Attacks | - |
+| Special Abilities | RA:10 |
+| Move | 12 (28y or 84 =18str+66feetAnimeLeap) |
+
+* * *
+
+# Assassins (Level 3)
+
+Trained killers these cut-throat mercenaries are hired to kill other humans (nobles and lords are their standard victims as the enemies of such high standing people can afford to pay the Assassins expensive fees).
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 10 |
+| Agility (Agi) | 12 |
+| Durability (Dur) | 10 |
+| Thought (Tht) | 8 |
+| Will (Wil) | 8 |
+| Presence (Pre) | 4 |
+| Skills | Melee, Missile: 10, Acrobatica: 8, Stealth: 10, Alertness: 8 |
+| Masteries | Melee(Lethal Targeting), Missile(Quickshot), Stealth(Ambush) |
+| Initiative | 18 |
+| Hit | 22 |
+| Parry/Evade | 33/31 |
+| Damage | STR+Weapon(+3 Melee)/Weapon |
+| Number of Actions | 3 |
+| Damage Resistance (DR) / Hit Points (HP) | 3Dur + 2Skin + Armor / 30 |
+| Special Attacks | Ambush(+10Damage) |
+| Special Abilities | - |
+| Move | 12 |
+
+* * *
+
+# Ramshackles (Level 3)
+
+Undead. Half-skeleton, half shackles and chains. These solitary creatures are greater undead and delight in the pain of others. They usually wield a wicked chain that does Str + 5 damage. Once per round, instead of their normal attacks, they may launch spiked chains at all targets within 30 feet. Make a single to hit roll and apply their normal melee attack damage (opponents may parry if they choose instead of evading).
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 16 |
+| Agility (Agi) | 10 |
+| Durability (Dur) | 12 |
+| Thought (Tht) | 4 |
+| Will (Wil) | 8 |
+| Presence (Pre) | 1 |
+| Skills | Melee, Acrobatica: 8 |
+| Initiative | 4 |
+| Hit | 18/10 |
+| Parry/Evade | 29/29 |
+| Damage | 21 (16 + Weapon) |
+| Number of Actions | 2 |
+| Damage Resistance (DR) / Hit Points (HP) | 4Dur + 2Skin + 4Armor = 10 / 36 |
+| Special Attacks | Spiked Chains |
+| Special Abilities | Sustained, Immune to Poison/Disease |
+| Move | 10 |
+
+* * *
+
+# Giant Man-Eating Nectarines (Level 2)
+
+WTF? These scare me.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 10 |
+| Agility (Agi) | 6 |
+| Durability (Dur) | 10 |
+| Thought (Tht) | 1 |
+| Will (Wil) | 1 |
+| Presence (Pre) | 1 |
+| Skills | Melee: 6 |
+| Initiative | 1 |
+| Hit | 12/6 |
+| Parry/Evade | 23/17 |
+| Damage | 12 |
+| Number of Actions | 1 |
+| Damage Resistance (DR) / Hit Points (HP) | 3Dur + 2Skin = 5 / 20 |
+| Special Attacks | - |
+| Special Abilities | Taste Delicious |
+| Move | 6 |
+
+* * *
+
+# Bone Beserkers (Level 2)
+
+A tribe of barbarians that live in graveyards of large elephants. They used to be human, but they have changed over time, becoming part Elephant Skeleton/Part Human.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 8 |
+| Agility (Agi) | 8 |
+| Durability (Dur) | 8 |
+| Thought (Tht) | 3 |
+| Will (Wil) | 4 |
+| Presence (Pre) | 2 |
+| Skills | Melee, Missile, Acrobatica, Stealth, Alertness: 6 |
+| Initiative | 3 |
+| Hit | 14/14 |
+| Parry/Evade | 25/25 |
+| Damage | 8 + Weapon |
+| Number of Actions | 2 |
+| Damage Resistance (DR) / Hit Points (HP) | 2Dur + 2Skin + Armor / 16 |
+| Special Attacks | - |
+| Special Abilities | Against Piercing Weapons: +5DR, Slashing: +2DR |
+| Move | 8 |
+
+* * *
+
+# BattleCube (Level 3)
+
+Think a small floating golem like creature with spikes and stuff that extend and shoot out at will. Often made up of remnants of old weapons. (Undead? Phantasm? The world may never know). They may missile attack at Base Damage +2 with their malformed weaponry.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 12 |
+| Agility (Agi) | 16 |
+| Durability (Dur) | 12 |
+| Thought (Tht) | 4 |
+| Will (Wil) | 8 |
+| Presence (Pre) | 2 |
+| Skills | Missile, Acrobatica, Flight: 8 |
+| Initiative | 4 |
+| Hit | 16/24 |
+| Parry/Evade | 35/35 |
+| Damage | 14 |
+| Number of Actions | 4 |
+| Damage Resistance (DR) / Hit Points (HP) | 4Dur + 6Skin = 12 / 36 |
+| Special Attacks | - |
+| Special Abilities | Regen: 1hp/round |
+| Move | 16 (Flight 32) |
+
+* * *
+
+# Animated Armor (Level 5)
+
+These accursed suits are all that remains of once great knights that turned from their righteous path and descended into the bowels of demonic evil. Dark ceremonies and rituals known of only by a few, and practiced by even fewer allow a warrior to transcend death into a suit of armor. They can exist this way eternally. The Animated Armor regenerates 3 hit points / round and is highly resistant to magic RA: 7. Animated Armor are composed of +3 Platemail armor.
+
+| Attribute | Value |
+| --- | --- |
+| Strength (Str) | 20 |
+| Agility (Agi) | 16 |
+| Durability (Dur) | 20 |
+| Thought (Tht) | 6 |
+| Will (Wil) | 14 |
+| Presence (Pre) | 6 |
+| Skills | Melee, Missile, Acrobatica, Alertness, Climbing: 16 |
+| Masteries | Melee(Lethal Targeting, Reflexive Deflection), Missile(Lethal Targeting, Gun Kata), Acrobatica (Anime Leap, Arboreal Movement), Alertness:16 (Panoramic Vision, Danger Sense), Climbing (Spiderclimb) |
+| Initiative | 6 |
+| Hit | 32/32 |
+| Parry/Evade | 47/47 |
+| Damage | 20+Weapon(+3 Melee)/20+Weapon(+3 Missile) |
+| Number of Actions | 4 |
+| Damage Resistance (DR) / Hit Points (HP) | 6Dur+4Skin+9Armor=19/120 |
+| Special Attacks | - |
+| Special Abilities | Sustained, Immune to Poison, Disease |
+| Move | 16 |
+
+* * *
+
+### Evil Cheese (Lvl 1)
+
+No one wants to mess with this. Found in dungeons and dairy farms. It is a strange creature that can morph into standard wheels of cheese. This limited shape change power allows the creature to attack others by surprise suffocated the life out of their would be eaters. Their special suffocate attack is made at a check of d20+Evil Cheese Strength vs. Target's Durability. If successful the target is left gagging and clawing at the cheese and unable to act that round, make an additional check next round after applying Cheese damage.
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 4       |
+| **Agi**               | 4       |
+| **Dur**               | 4       |
+| **Tht**               | 1       |
+| **Wil**               | 1       |
+| **Pre**               | 1       |
+| **Skills**            | Melee: 4|
+| **Initiative**        | 1       |
+| **Hit**               | 8/8     |
+| **Parry/Evade**       | 15/15   |
+| **Damage**            | 5       |
+| **Number of Actions** | 1       |
+| **DR/HP**             | 1 Dur / 4|
+| **Special Attacks**   | Suffocate|
+| **Special Abilities** | -       |
+| **Move**              | 4       |
+
+### Blobs – Giant Amoeba (Lvl 3)
+
+These oozing masses absorb all life around them. A rare few among their kind are intelligent and can be trained. On any successful pseudopod strike, they may envelop a target (smaller than their own size). The target receives the following penalties while enveloped: -4 to base damage and half actions (minimum one).
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 14      |
+| **Agi**               | 8       |
+| **Dur**               | 16      |
+| **Tht**               | 0-1     |
+| **Wil**               | 6       |
+| **Pre**               | 0       |
+| **Skills**            | Melee: 8|
+| **Initiative**        | 0-1     |
+| **Hit**               | 16/8    |
+| **Parry/Evade**       | 27/19   |
+| **Damage**            | 15      |
+| **Number of Actions** | 2       |
+| **DR/HP**             | 5 Dur + 5 Skin / 48 |
+| **Special Attacks**   | Envelop |
+| **Special Abilities** | -       |
+| **Move**              | 8       |
+
+### Ghosts (Lvl 2)
+
+These incorporeal creatures cannot be harmed by physical objects (magic weapons don’t affect ghosts). Magic attacks are their only weakness (fire bolt, ice blast, mind scythe). They can make a touch attack (cannot be parried, use evade) to cause their target to lose d6+4 hit points.
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | -       |
+| **Agi**               | 8       |
+| **Dur**               | 8       |
+| **Tht**               | 6       |
+| **Wil**               | 10      |
+| **Pre**               | 4       |
+| **Skills**            | Melee, Acrobatica, Flight: 6 |
+| **Initiative**        | 6       |
+| **Hit**               | 14/8    |
+| **Parry/Evade**       | 25/25   |
+| **Damage**            | d6+4    |
+| **Number of Actions** | 2       |
+| **DR/HP**             | 2 / 12  |
+| **Special Attacks**   | Ignore armor |
+| **Special Abilities** | Immune to physical attacks |
+| **Move**              | 8 (16 flight) |
+
+### Dread Mages (Lvl 5)
+
+Undead mages with full knowledge of all schools of magic (All Mages Level 9). These master wizards are shrouded in mystery and darkness. They have surpassed the limits of their lives and work towards their own ends. Regeneration/Shapeshift:10 = 10 hit point/round, doesn't die till double negative durability and remains conscious until destroyed. These creatures are also highly resistant to magic, RA 7. Dread Mages have Spell Mastery in Blazing Episode Ender (4d6+28), Fantastic Mount (Attrib = 20), Obsidian Sheath (skin DR + 7), Dense Air 3 (Armor DR = 9).
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 8       |
+| **Agi**               | 20      |
+| **Dur**               | 14      |
+| **Tht**               | 14      |
+| **Wil**               | 20      |
+| **Pre**               | 16      |
+| **Skills**            | Melee, Missile, Acrobatica, Alertness: 14 |
+| **Masteries**         | Melee (Quick Draw, Reflexive Deflection), Missile (Lethal Targeting, Gun Kata) |
+| **Masteries**         | Acrobatica (Anime Leap, Arboreal Movement), Alertness (Panoramic Vision, Danger Sense) |
+| **Initiative**        | 28      |
+| **Hit**               | 34/34   |
+| **Parry/Evade**       | 49/49   |
+| **Damage**            | 8 + Weapon or by Spell (+3 Missile) |
+| **Number of Actions** | 5       |
+| **DR/HP**             | 6 + 9 Armor + 7 Skin = 22 / 84 |
+| **Special Attacks**   | -       |
+| **Special Abilities** | Magic: Lvl 9 in all areas, Sustained, Immune to Poison/Disease, Regeneration: 10hp/round |
+| **Move**              | 20      |
+
+### Dogs of War (Lvl 4)
+
+These gigantic hounds are vicious hunters and killers. They normally travel in multiples of three and are viciously strong as well. Vicious monsters that can hunt you down, kill you, and eat you. They have a heat-based attack (missile breath attack Damage Base: 20, ignores non-magical armor DR) which they may use once per round instead of bite attacks. If you kill one, one of the others will try to get away and come back with its brethren to hunt you down. They can run on any surface including walls and ceilings, making them even more dangerous hunters.
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 14      |
+| **Agi**               | 14      |
+| **Dur**               | 14      |
+| **Tht**               | 6       |
+| **Wil**               | 10      |
+| **Pre**               | 6       |
+| **Skills**            | Melee, Acrobatica: 12, Climbing, Alertness, Stealth: 10 |
+| **Masteries**         | Melee (Lethal Targeting), Acrobatica (Anime Leap) |
+| **Masteries**         | Alertness (Panoramic Vision), Climbing (SpiderClimb), Stealth (Ambush) |
+| **Initiative**        | 6       |
+| **Hit**               | 26/12   |
+| **Parry/Evade**       | 39/39   |
+| **Damage**            | STR+4 (Bite) (+3 Melee) = 21 |
+| **Number of Actions** | 3       |
+| **DR/HP**             | 12 / 70 |
+| **Special Attacks**   | Heat blast |
+| **Special Abilities** | -       |
+| **Move**              | -       |
+
+### Dragonites (Lvl 4)
+
+Half men, half-dragon; full-blown ass kickers. Golden scaled, these creatures can fire energy projectiles from mystical glands on their forearms. The energy bolt base damage is 18 and can be used at will.
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 14      |
+| **Agi**               | 16      |
+| **Dur**               | 15      |
+| **Tht**               | 8       |
+| **Wil**               | 10      |
+| **Pre**               | 8       |
+| **Skills**            | Melee, Missile, Acrobatica: 12, Climbing, Alertness, Stealth, Flight: 10 |
+| **Masteries**         | Missile (Gun Kata), Acrobatica (Anime Leap) |
+| **Masteries**         | Melee (Lethal Targeting), Flight (Defensive Maneuvering) |
+| **Masteries**         | Alertness (Panoramic Vision), Climbing (SpiderClimb), Stealth (Ambush) |
+| **Initiative**        | 8       |
+| **Hit**               | 28/28   |
+| **Parry/Evade**       | 41/41 (45 Air) |
+| **Damage**            | STR + Weapon (+3 Melee) or STR+2 Claw, Bite (+3 Melee) / 18 Energy Bolt |
+| **Number of Actions** | 3       |
+| **DR/HP**             | 9 + Armor / 75 |
+| **Special Attacks**   | Energy Bolt |
+| **Special Abilities** | -       |
+| **Move**              | 16 (32 flight) |
+
+### Fallen Angels (Lvl 6)
+
+They kick ass, but not for the Lord. These fallen dimensional creatures have taken their own path away from whatever plan the higher power that they were spawned from had for them initially. Regeneration/Shapeshift:6. All Magic level 10. Spell mastery Obsidian Sheath, Dense Air 3, & Ultimate Power (already included in their attributes, Permanence). Immune to Magic/Supernatural attacks. Action Man: Level 6, Divine Power abilities lvl 10.
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 24      |
+| **Agi**               | 24      |
+| **Dur**               | 24      |
+| **Tht**               | 12      |
+| **Wil**               | 16      |
+| **Pre**               | 14      |
+| **Skills**            | Melee, Missile, Acrobatica: 18, Alertness: 16 |
+| **Skills**            | Fire, Air, Earth, Spirit, Water, Flight: 10 |
+| **Masteries**         | Missile (Lethal Targeting, Gun Kata, Death Blossom), Acrobatica (Anime Leap, Arboreal Movement) |
+| **Masteries**         | Melee (Lethal Targeting, CounterAttack, Reflexive Deflection), Flight (Defensive Maneuvering) |
+| **Masteries**         | Alertness (Panoramic Vision, Danger Sense) |
+| **Initiative**        | 12      |
+| **Hit**               | 42/42   |
+| **Parry/Evade**       | 57/57 (61 air) |
+| **Damage**            | STR + Weapon (+3 Melee) or by spell (+3 Missile) |
+| **Number of Actions** | 8       |
+| **DR/HP**             | 8 + 4 (powers) + 7 Skin (spell) + 9 Armor (spell) = 28 / 144 |
+| **Special Attacks**   | -       |
+| **Special Abilities** | -       |
+| **Move**              | 24 (48 flight) |
+
+### Cravens (Lvl 1)
+
+Small humanoid blood-sucking creatures with wings. They have a special sharp feeding tube bonelike projection they can extend from their mouths with incredible force. They usually attack in swarms, certain herbs and alchemical brews have been known to drive and keep them away in areas where they are known to feed (bogs/swamps).
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 4       |
+| **Agi**               | 6       |
+| **Dur**               | 4       |
+| **Tht**               | 1       |
+| **Wil**               | 2       |
+| **Pre**               | 1       |
+| **Skills**            | Melee, Flight: 4 |
+| **Initiative**        | 1       |
+| **Hit**               | 10      |
+| **Parry/Evade**       | 21/17   |
+| **Damage**            | 8       |
+| **Number of Actions** | 1       |
+| **DR/HP**             | 1 / 4   |
+| **Special Attacks**   | Bone mouth tube |
+| **Special Abilities** | -       |
+| **Move**              | 6 (12 flight) |
+
+### Money Leeches (Lvl 1)
+
+They actually feed off precious metals like adamantium and gold. They are small parasites that can disguise themselves as coins and feed and multiply when placed in a large enough supply of it. They can lay dormant for years so that even if you discover one, it’s difficult to cleanse a treasury of them. Mages have made a pretty coin using their divine magic to identify the Leeches.
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 2       |
+| **Agi**               | 2       |
+| **Dur**               | 6       |
+| **Tht**               | 0       |
+| **Wil**               | 0       |
+| **Pre**               | 0       |
+| **Skills**            | Stealth: 10 |
+| **Initiative**        | 0       |
+| **Hit**               | 2/2     |
+| **Parry/Evade**       | 13/13   |
+| **Damage**            | 2       |
+| **Number of Actions** | 1       |
+| **DR/HP**             | 2 / 6   |
+| **Special Attacks**   | Consume metals |
+| **Special Abilities** | Mimic coins |
+| **Move**              | 2       |
+
+### Rain of Frogs (Lvl 3)
+
+They appear initially as dark storm clouds bunched together covering a circular area of 50 ft radius circle. Once the clouds have discovered a large enough creature to attack they begin showering down thousands of frogs which bite and tongue their victims doing 2d6 points of damage per round – the victims DR. The cloud itself usually floats about 200 feet up or more and fairly resistant to damage.
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 0       |
+| **Agi**               | 12      |
+| **Dur**               | 16      |
+| **Tht**               | 4       |
+| **Wil**               | 8       |
+| **Pre**               | 2       |
+| **Skills**            | Missile, Melee, Acrobatica, Flight: 8 |
+| **Initiative**        | 4       |
+| **Hit**               | 20/20   |
+| **Parry/Evade**       | 31/31   |
+| **Damage**            | 2d6     |
+| **Number of Actions** | 3       |
+| **DR/HP**             | 5 Dur + 8 Skin = 13 / 48 |
+| **Special Attacks**   | Frog rain |
+| **Special Abilities** | -       |
+| **Move**              | 12 (24 flight) |
+
+### Demon Cats (Lvl 3)
+
+Spawned hellcats from the feral gods Boeing and Tempest. These creatures look like large black and red, or white and black tigers. Their evil intellect sets them apart from normal large predators. They prefer to hunt alone and prefer the taste of human flesh. They can turn invisible at will (this invisibility only lasts for the first 6 rounds of combat- +4 to evade, cannot be targeted by missile attacks unless an alertness check defeats their stealth).
+
+| Attribute             | Value   |
+|-----------------------|---------|
+| **Str**               | 10      |
+| **Agi**               | 16      |
+| **Dur**               | 12      |
+| **Tht**               | 6       |
+| **Wil**               | 9       |
+| **Pre**               | 4       |
+| **Skills**            | Melee, Acrobatica, Climbing, Stealth: 8 |
+| **Initiative**        | 6       |
+| **Hit**               | 24/16   |
+| **Parry/Evade**       | 35/35   |
+| **Damage**            | 12      |
+| **Number of Actions** | 4       |
+| **DR/HP**             | 4 Dur + 4 Skin = 8 / 36 |
+| **Special Attacks**   | -       |
+| **Special Abilities** | -       |
+| **Move**              | 16       |
+
+* * *
+
+### Vampires/Succubi/Incubus (Lvl 4-5)
+
+These are the most powerful of the creatures of the night that feed off of living creatures' blood or life essence (in the case of Succubi/Incubus). They are unaging so their plans can generally go well beyond the scope of a human lifetime. They are social creatures often well integrated into human societies. They are also quite willing to ally with others of their kind to further their own ends. They regenerate 2 hit points/round and may focus this healing to regenerate 2 hp per action. If they drain a victim, they gain 2d6 hp per action spent draining and may inflict bite damage on the target. They can shapeshift into the following forms: wolf, bat, vermin. Level 5 vampires have the higher attributes/skills and the additional masteries. To get attributes/stats for lesser vampire spawn, use human soldiers with the Vampire subpower (boosted STR + AGI).
+
+| Attribute             | Value                       |
+|-----------------------|-----------------------------|
+| **Str**               | 14-16                       |
+| **Agi**               | 14-18                       |
+| **Dur**               | 14-16                       |
+| **Tht**               | 10-14                       |
+| **Wil**               | 10-14                       |
+| **Pre**               | 10-14                       |
+| **Skills**            | Melee, Missile, Acrobatica, Climbing, Stealth, Alertness, Flight: 10-14 |
+| **Masteries**         | Missile (Quickdraw, Lethal Targeting), Acrobatica (Anime Leap, Arboreal Movement) |
+| **Masteries**         | Melee (Lethal Targeting, Reflexive Deflection), Flight (Defensive Maneuvering) |
+| **Masteries**         | Alertness (Panoramic Vision, Danger Sense), Climbing (SpiderClimb) |
+| **Initiative**        | 20-28                       |
+| **Hit**               | 24-32/24-32                 |
+| **Parry/Evade**       | 35-45/35-45 (35-49 Air)     |
+| **Damage**            | STR + Weapon (+3 Melee) (Bite/Punch do STR damage) |
+| **Number of Actions** | 3-4                         |
+| **DR/HP**             | 4-5 Dur + 4-6 Skin + Armor / Dur x 5-6 |
+| **Special Attacks**   | Drain                       |
+| **Special Abilities** | -                           |
+| **Move**              | 14-18 (28-36 Flight)        |
+
+### Phantasms (Lvl 2)
+
+These quasi-physical creatures attack the minds of their unsuspecting victims. They feed off the emotions of sentient creatures. They often attempt to inspire horrific fear or extraordinary pleasure in order to satiate their hunger (similar to Succubi/Incubi). They cannot be affected by physical attacks although magical spells and spell-like effects can harm them. They have Spirit magic Lvl 6.
+
+| Attribute             | Value                       |
+|-----------------------|-----------------------------|
+| **Str**               | 0                           |
+| **Agi**               | 8                           |
+| **Dur**               | 8                           |
+| **Tht**               | 8                           |
+| **Wil**               | 10                          |
+| **Pre**               | 6                           |
+| **Skills**            | Missile, Acrobatica, Flight: 6 |
+| **Initiative**        | 8                           |
+| **Hit**               | 8/14                        |
+| **Parry/Evade**       | 19/25                       |
+| **Damage**            | 9 (Mental)                  |
+| **Number of Actions** | 2                           |
+| **DR/HP**             | 2/16                        |
+| **Special Attacks**   | Illusions                   |
+| **Special Abilities** | Immune to Physical attacks  |
+| **Move**              | 8 (16 flight)               |
+
+### Horrors from the Deep (Lvl 4)
+
+These vicious reptilian fishlike humanoids live at the bottom of oceans or seas. They have been known to inhabit smaller water sources though. Horrors have no extraordinary racial abilities, but many of their kind are known to use magic. Horrors can breathe water or air.
+
+| Attribute             | Value                       |
+|-----------------------|-----------------------------|
+| **Str**               | 14                          |
+| **Agi**               | 14                          |
+| **Dur**               | 14                          |
+| **Tht**               | 8                           |
+| **Wil**               | 16                          |
+| **Pre**               | 4                           |
+| **Skills**            | Melee, Acrobatica, Swimming: 12, Alertness: 10, Water Magic: 9 |
+| **Masteries**         | Melee (Lethal Targeting), Acrobatica (Arboreal Movement) |
+| **Masteries**         | Alertness (Panoramic Vision), Swimming (Aquaman) |
+| **Initiative**        | 8                           |
+| **Hit**               | 26/14                       |
+| **Parry/Evade**       | 37/37                       |
+| **Damage**            | 14 + Weapon (+3 Melee) or 16 (Claw) (+3 Melee) |
+| **Number of Actions** | 3                           |
+| **DR/HP**             | 4 Dur + 6 Skin + 4 Chain = 14 DR / 70 |
+| **Special Attacks**   | -                           |
+| **Special Abilities** | -                           |
+| **Move**              | 14                          |
+
+### Mermaids (Lvl 1)
+
+These beautiful sea women have been known to enchant sailors or pirates. Unfortunately, although good-natured, they are incredibly foolish and draw land-based humanoids to a watery grave. Their only special power is their supernatural presence (12) and passive ability to enthrall onlookers. To resist the charms of the mermaid, anyone encountering them must make a WIL check vs. the Mermaid's presence or follow the mermaid under the surface.
+
+| Attribute             | Value                       |
+|-----------------------|-----------------------------|
+| **Str**               | 4                           |
+| **Agi**               | 4                           |
+| **Dur**               | 3                           |
+| **Tht**               | 4                           |
+| **Wil**               | 4                           |
+| **Pre**               | 12                          |
+| **Skills**            | Swimming, Acrobatica: 6     |
+| **Initiative**        | 4                           |
+| **Hit**               | 4/4                         |
+| **Parry/Evade**       | 21/21                       |
+| **Damage**            | 5 (dagger)                  |
+| **Number of Actions** | 1                           |
+| **DR/HP**             | 1/4                         |
+| **Special Attacks**   | Enthrall                    |
+| **Special Abilities** | -                           |
+| **Move**              | 4                           |
+
+### Hell Lords (Lvl 6)
+
+Major demons. Come in all sorts, with all sorts of abilities. Dark Pact lvl 10, Regeneration lvl 6, Hell lords are masters of fire magic (level 10 ability). They are also physical juggernauts. They adorn Large brimstone-based, +2 Masterwork plate armor.
+
+| Attribute             | Value                       |
+|-----------------------|-----------------------------|
+| **Str**               | 28                          |
+| **Agi**               | 20                          |
+| **Dur**               | 24                          |
+| **Tht**               | 12                          |
+| **Wil**               | 16                          |
+| **Pre**               | 14                          |
+| **Skills**            | Melee, Missile, Acrobatica: 18, Alertness: 16 |
+| **Skills**            | Fire, Air, Earth, Spirit, Water, Flight: 10 |
+| **Masteries**         | Missile (Lethal Targeting, Gun Kata, Death Blossom), Acrobatica (Anime Leap, Arboreal Movement) |
+| **Masteries**         | Melee (Lethal Targeting, CounterAttack, Reflexive Deflection), Flight (Defensive Maneuvering) |
+| **Masteries**         | Alertness (Panoramic Vision, Danger Sense) |
+| **Initiative**        | 12                          |
+| **Hit**               | 38/38                       |
+| **Parry/Evade**       | 53/53 (57 air)              |
+| **Damage**            | STR + Weapon (+3 Melee) or by spell (+3 Missile) |
+| **Number of Actions** | 8                           |
+| **DR/HP**             | 8 Dur + 10 Skin + 10 Armor (spell) = 28 / 144 |
+| **Special Attacks**   | -                           |
+| **Special Abilities** | -                           |
+| **Move**              | 20 (40 flight)              |
+
+### Yeti (Lvl 3)
+
+Abominable snowmen. Found in arctic terrains and mountain tops (although a few foolhardy ones have been known to wander into the desert “for thrills and chills”).
+
+| Attribute             | Value                       |
+|-----------------------|-----------------------------|
+| **Str**               | 16                          |
+| **Agi**               | 8                           |
+| **Dur**               | 12                          |
+| **Tht**               | 2                           |
+| **
+
+Wil**               | 6                           |
+| **Pre**               | 2                           |
+| **Skills**            | Melee, Acrobatica, Alertness: 8 |
+| **Initiative**        | 2                           |
+| **Hit**               | 16/8                        |
+| **Parry/Evade**       | 27/27                       |
+| **Damage**            | 18                          |
+| **Number of Actions** | 2                           |
+| **DR/HP**             | 4 Dur + 6 Skin = 10 / 36    |
+| **Special Attacks**   | -                           |
+| **Special Abilities** | -                           |
+| **Move**              | 8                           |
+
+### Dopplegangers (Lvl 2)
+
+These humanoid creatures can morph their physical form to appear as friends or allies. They have minor telepathic abilities and can choose to appear as a trusted friend. Regeneration/Shapeshift lvl 6, they have spirit magic level 4.
+
+| Attribute             | Value                       |
+|-----------------------|-----------------------------|
+| **Str**               | 8                           |
+| **Agi**               | 10                          |
+| **Dur**               | 8                           |
+| **Tht**               | 8                           |
+| **Wil**               | 8                           |
+| **Pre**               | 8                           |
+| **Skills**            | Melee, Missile, Acrobatica: 8, Stealth, Alertness: 6, Storytelling: 10 |
+| **Masteries**         | Storytelling (Enthrall)     |
+| **Initiative**        | 8                           |
+| **Hit**               | 18/18                       |
+| **Parry/Evade**       | 29/29                       |
+| **Damage**            | 8 + Weapon                  |
+| **Number of Actions** | 2                           |
+| **DR/HP**             | 2 Dur + 2 Skin + Armor / 16 |
+| **Special Attacks**   | Mimic                       |
+| **Special Abilities** | Spirit Magic                |
+| **Move**              | 10                          |
+
+* * *
+
+### Ringworms (Lvl 1)
+
+Unfortunately, these creatures are ever prevalent in many food sources. Most of the time these parasites are destroyed by the digestion and antibody system of the host. Anyone who eats a ringworm egg-ridden meal must make a durability check difficulty 13 or become sick. The ringworms can be purged by surgery or a foul-tasting bitter nectar (can be made by alchemists). The ringworms cause abdominal cramps and diarrhea. In a given tense situation (combat, climbing into a keep, etc.), if a will check 18 is not made a penalty of 2 to hit, evade, parry and other physical skills (climbing, blacksmithing, etc.) is applied (not cumulative, lasts for 10 minutes).
+
+| Attribute             | Value     |
+|-----------------------|-----------|
+| **Str**               | 0         |
+| **Agi**               | 1         |
+| **Dur**               | 1         |
+| **Tht**               | 0         |
+| **Wil**               | 0         |
+| **Pre**               | 0         |
+| **Skills**            | None      |
+| **Initiative**        | 0         |
+| **Hit**               | 1/1       |
+| **Parry/Evade**       | 12/12     |
+| **Damage**            | 0         |
+| **Number of Actions** | 1         |
+| **DR/HP**             | 0/1       |
+| **Special Attacks**   | Parasite  |
+| **Special Abilities** | -         |
+| **Move**              | 1         |
+
+### Griffins (Lvl 4)
+
+These eagle/lion crossbreeds are vicious hunters but can make well-trained mounts. They are fairly intelligent (thought 1) but do not have the ability to speak. There are secondary only to dragons in aerial combat. They are lethal at picking up large objects and dropping them precisely on ground-based targets in bombing runs.
+
+| Attribute             | Value                                 |
+|-----------------------|---------------------------------------|
+| **Str**               | 15                                    |
+| **Agi**               | 12                                    |
+| **Dur**               | 15                                    |
+| **Tht**               | 2                                     |
+| **Wil**               | 10                                    |
+| **Pre**               | 10                                    |
+| **Skills**            | Melee, Missile, Acrobatica: 14, Flight: 10 |
+| **Masteries**         | Melee (Lethal Targeting, Counterattack), Acrobatica (Anime Leap, Arboreal Movement) |
+| **Masteries**         | Missile (Lethal Targeting, Gun Kata), Flight (Defensive Maneuvering) |
+| **Initiative**        | 2                                     |
+| **Hit**               | 26/26                                 |
+| **Parry/Evade**       | 39/39 (43 air)                        |
+| **Damage**            | STR+4 (Beak or Razor Claw) (+3 Melee) / STR+4 (Heavy object) (+3 Missile) |
+| **Number of Actions** | 3                                     |
+| **DR/HP**             | 5 Dur + 6 Skin + Armor / 75           |
+| **Special Attacks**   | -                                     |
+| **Special Abilities** | -                                     |
+| **Move**              | 12 (24 flight)                        |
+
+### Unholy Warriors (Lvl 4)
+
+Powerful zombie warriors. They are often fairly intelligent and even a little bit honorable (but not always).
+
+| Attribute             | Value                                  |
+|-----------------------|----------------------------------------|
+| **Str**               | 16                                     |
+| **Agi**               | 10                                     |
+| **Dur**               | 18                                     |
+| **Tht**               | 6                                      |
+| **Wil**               | 10                                     |
+| **Pre**               | 4                                      |
+| **Skills**            | Melee: 14, Missile, Acrobatica: 10     |
+| **Masteries**         | Melee (Lethal Targeting, Reflexive Deflection), Acrobatica (Anime Leap) |
+| **Masteries**         | Missile (Quickshot)                    |
+| **Initiative**        | 16                                     |
+| **Hit**               | 24/20                                  |
+| **Parry/Evade**       | 37/35                                  |
+| **Damage**            | STR + Weapon (+3 Melee)                |
+| **Number of Actions** | 2                                      |
+| **DR/HP**             | 6 Dur + 8 Skin + Armor / 90            |
+| **Special Attacks**   | -                                      |
+| **Special Abilities** | Sustained, Immune to Poison & Disease  |
+| **Move**              | 10                                     |
+
+### Unicorns (Lvl 4)
+
+These majestic horses with a single horn on their heads are kind-natured and good-willed for the most part. Some rare few have been known to commit terrible atrocities (the goring of a fair princess now and then). The creatures have water magic level 10 and all other magic areas up to level 6. One of their greatest defensive spells, Teleport, allows them to escape dangerous situations. Unicorns have a communal memory and once one of them has been ill-treated by a human, no others will deal with that person again.
+
+| Attribute             | Value                                                         |
+|-----------------------|---------------------------------------------------------------|
+| **Str**               | 14                                                            |
+| **Agi**               | 14                                                            |
+| **Dur**               | 14                                                            |
+| **Tht**               | 8                                                             |
+| **Wil**               | 10                                                            |
+| **Pre**               | 10                                                            |
+| **Skills**            | Melee, Acrobatica: 14, Missile: 10, Water Magic: 10, Fire, Earth, Air, Spirit Magic: 6, All Magic: 6 |
+| **Masteries**         | Melee (Reflexive Deflection, Lethal Targeting), Acrobatica (Anime Leap, Arboreal Movement) |
+| **Masteries**         | Missile (Lethal Targeting)                                    |
+| **Total Mana**        | 168                                                           |
+| **Available Mana**    | 160                                                           |
+| **Initiative**        | 8                                                             |
+| **Hit**               | 28/24                                                         |
+| **Parry/Evade**       | 41/41                                                         |
+| **Damage**            | STR + 4 Horn (+3 Melee) or by spell (+3 Missile)              |
+| **Number of Actions** | 3                                                             |
+| **DR/HP**             | 4 Dur + 4 Skin + 2 Skin (spell) + 4 Armor (spell) = 14 / 75   |
+| **Special Attacks**   | -                                                             |
+| **Special Abilities** | -                                                             |
+| **Move**              | 14 + Teleport                                                 |
+
+### Dryads (Lvl 3)
+
+Woodland creatures that have Water magic at Lvl 5. They can shapechange into a tree at will. They tend to live in small communities (20 to 30 dryads) deep in the heart of large forests. Dryads do not age, but have no long-term memories… they live a day-to-day existence. Whether or not they will deal with other creatures is fairly random. They are Attuned: 4 (can summon level 2 monsters to help them).
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 8                       |
+| **Agi**               | 14                      |
+| **Dur**               | 12                      |
+| **Tht**               | 8                       |
+| **Wil**               | 10                      |
+| **Pre**               | 9                       |
+| **Skills**            | Missile, Melee, Acrobatica: 8 |
+| **Initiative**        | 10                      |
+| **Hit**               | 24/24                   |
+| **Parry/Evade**       | 35/35                   |
+| **Damage**            | 8 + Weapon              |
+| **Number of Actions** | 3                       |
+| **DR/HP**             | 4 Dur + 4 Skin = 8 / 36 |
+| **Special Attacks**   | -                       |
+| **Special Abilities** | Mimic Tree              |
+| **Move**              | 14 (Nature Walk)        |
+
+### Leprechauns (Lvl 4)
+
+Leprechauns have All Magic 7. In addition, once per month they have the ability to grant a minor wish to anyone who catches them (often time this is a nice amount of money = 100 AP). Besides some defensive magic and Greater Power (which they have permanently enhanced some of their attributes with), their favorite spells are Blessing of War, Teleport, Summon Greater Monster and Wrath of God. They have spell mastery in Wrath of God (base damage = 22), Obsidian Sheath (+6 skin DR) and Dense Air 3 (8 Armor DR).
+
+| Attribute             | Value                                     |
+|-----------------------|-------------------------------------------|
+| **Str**               | 9 (12)                                    |
+| **Agi**               | 13 (16)                                   |
+| **Dur**               | 9 (12)                                    |
+| **Tht**               | 8 (11)                                    |
+| **Wil**               | 8 (11)                                    |
+| **Pre**               | 8                                         |
+| **Skills**            | Missile, Acrobatica: 14, Melee: 10, Fire, Air, Earth, Water, Spirit, All Magic: 7 |
+| **Masteries**         | Melee (Reflexive Deflection), Acrobatica (Anime Leap, Arboreal Movement) |
+| **Masteries**         | Missile (Lethal Targeting, Gun Kata)      |
+| **Total Mana**        | 179                                       |
+| **Available Mana**    | 135                                       |
+| **Initiative**        | 11                                        |
+| **Hit**               | 26/30                                     |
+| **Parry/Evade**       | 45/45                                     |
+| **Damage**            | STR + Weapon or by spell (+3 Missile)     |
+| **Number of Actions** | 4                                         |
+| **DR/HP**             | 4 Dur + 6 Skin (spell) + 8 Armor (spell) = 18 / 60 |
+| **Special Attacks**   | -                                         |
+| **Special Abilities** | -                                         |
+| **Move**              | 16 (Teleport)                             |
+
+### Pixies & Sprites (Lvl 2)
+
+Mischievous inch-high mystical creatures. Exist in all natural environments. Have minor (cantrip-like) magical abilities, except for the leaders (Level 7 All Magic, stats as a Leprechaun, lvl 4 monster). Tend to have communities in unusually striking and breathtakingly beautiful natural surroundings (ancient trees, pristine lakes, mountain ravine, desert oasis, etc). Communities can be quite large up to several hundred members.
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 2                       |
+| **Agi**               | 8                       |
+| **Dur**               | 6                       |
+| **Tht**               | 6                       |
+| **Wil**               | 6                       |
+| **Pre**               | 8                       |
+| **Skills**            | Missile: 6, Acrobatica: 9, Storytelling: 8 |
+| **Initiative**        | 6                       |
+| **Hit**               | 8/14                    |
+| **Parry/Evade**       | 19/28                   |
+| **Damage**            | 2 + Weapon              |
+| **Number of Actions** | 2                       |
+| **DR/HP**             | 1/6                     |
+| **Special Attacks**   | Sleep Arrows            |
+| **Special Abilities** | -                       |
+| **Move**              | 8 (some can fly 16)     |
+
+### Scarlet Fog (Lvl 4)
+
+A reddish mist made up of bacteria. They start dissolving the skin with an acidic attack. The acid also damages armor, dissolving 1 DR a round (can be repaired if not totally destroyed). The mist does 3d6+6 points of damage per action minus skin and Durability DR to any creatures within it. Though this is not a disease, the Cure Disease spell will harm the mist, as will any fire or water-based attack although it is immune to other physical attacks.
+
+| Attribute             | Value                           |
+|-----------------------|---------------------------------|
+| **Str**               | 0                               |
+| **Agi**               | 15                              |
+| **Dur**               | 12                              |
+| **Tht**               | 2                               |
+| **Wil**               | 8                               |
+| **Pre**               | 0                               |
+| **Skills**            | Acrobatica: 12, Flight: 10      |
+| **Masteries**         | Acrobatica (Anime Leap, Arboreal Movement) |
+| **Masteries**         | Flight (Defensive Maneuvering)  |
+| **Initiative**        | 2                               |
+| **Hit**               | 15/15                           |
+| **Parry/Evade**       | 38/38 (42 air)                  |
+| **Damage**            | 3d6+6 (only Skin & Dur DR effective) |
+| **Number of Actions** | 3                               |
+| **DR/HP**             | 4 Dur + 6 Skin = 10 / 75        |
+| **Special Attacks**   | -                               |
+| **Special Abilities** | -                               |
+| **Move**              | 15 (30 flight)                  |
+
+### Giant Insects (Lvl 2-4)
+
+For every level above 2 the insect gets +3 to attributes, +2 to all skills. The base stats are listed. Different insects have different special abilities.
+
+**Insect Special Attack & Natural Mobility**
+
+| Insect        | Special Attack & Natural Mobility        |
+|---------------|------------------------------------------|
+| Locusts       | Flight, Eats Crops                       |
+| Mosquitoes    | Flight, Blood drain: their attacks heal them d6+1 when they inflict damage |
+| Bees          | Flight, Sting: causes intense pain in the target, giving them -4 to all skill checks on a successful hit for damage |
+| Praying Mantis| Very Strong: Str +4                      |
+| Ants          | Very Strong: Str +4                      |
+| Spiders       | Web: missile attack against one target, if successful that target must break free if they wish to move, the break check is the target's STR vs. the Spider's STR + 4 |
+
+**Giant Insect Level:**
+
+| Level | Size  | Natural Weapon Base Damage | Bonus Skin DR | Grit |
+|-------|-------|----------------------------|----------------|------|
+| 2     | 6 ft  | +2                         | 8              | 1    |
+| 3     | 10 ft | +4                         | 12             | 2    |
+| 4     | 20 ft | +6                         | 16             | 4    |
+
+**Base Stats for a level 2 Giant Insect are below:**
+
+| Attribute             | Value                        |
+|-----------------------|------------------------------|
+| **Str**               | 10                           |
+| **Agi**               | 8                            |
+| **Dur**               | 10                           |
+| **Tht**               | 1                            |
+| **Wil**               | 1                            |
+| **Pre**               | 1                            |
+| **Skills**            | Melee, Acrobatica: 8, Flight (if applicable): 8 |
+| **Initiative**        | 1                            |
+| **Hit**               | 16/8                         |
+| **Parry/Evade**       | 27/27                        |
+| **Damage**            | 10 + Weapon (+3 Melee)       |
+| **Number of Actions** | 2                            |
+| **DR/HP**             | 3 Dur + 8 Skin = 11 / 20     |
+| **Special Attacks**   | -                            |
+| **Special Abilities** | -                            |
+| **Move**              | 8 (16 flight if applicable)  |
+
+**Applicable Masteries for lvl 3-4 Giant Insects**
+
+| Masteries             | Value                           |
+|-----------------------|---------------------------------|
+| **Masteries**         | Melee (Lethal Targeting), Acrobatica (Anime Leap) |
+| **Masteries**         | Flight (Defensive Maneuvering)  |
+
+* * *
+
+### LandWorms (Lvl 3-4)
+
+Enormous simple-minded worms that may burrow through any terrain (including stone). They range in length from 20 to 50 feet and may burrow at their full normal movement. Landworms prefer moist environments and can be used in desert terrains to locate nearby oases.
+
+| Attribute             | Value                               |
+|-----------------------|-------------------------------------|
+| **Str**               | 12-16                               |
+| **Agi**               | 8-12                                |
+| **Dur**               | 12-16                               |
+| **Tht**               | 2                                   |
+| **Wil**               | 6-10                                |
+| **Pre**               | 2                                   |
+| **Skills**            | Melee, Acrobatica: 8-12             |
+| **Masteries**         | Melee (Lethal Targeting), Acrobatica (Anime Leap) |
+| **Initiative**        | 2                                   |
+| **Hit**               | 16-24 / 8-12                        |
+| **Parry/Evade**       | 27-35 / 27-35                       |
+| **Damage**            | STR+2 (bludgeon) (+3 Melee)         |
+| **Number of Actions** | 2-3                                 |
+| **DR/HP**             | 4-5 Dur + 6-8 Skin = 10-13 / 36-80  |
+| **Special Attacks**   | -                                   |
+| **Special Abilities** | -                                   |
+| **Move**              | 8-12                                |
+
+### War Pygmies (Lvl 4)
+
+Midget weapon masters decked out with tattoos and wearing minimal animal skins. They prefer to use small two-handed axes (Str+2 damage) or blowguns (Strength + 1 damage).
+
+| Attribute             | Value                                            |
+|-----------------------|--------------------------------------------------|
+| **Str**               | 8                                                |
+| **Agi**               | 16                                               |
+| **Dur**               | 12                                               |
+| **Tht**               | 6                                                |
+| **Wil**               | 8                                                |
+| **Pre**               | 6                                                |
+| **Skills**            | Melee, Missile: 14, Acrobatica: 10               |
+| **Masteries**         | Melee (Lethal Targeting, Reflexive Deflection), Acrobatica (Arboreal Movement) |
+| **Masteries**         | Missile (Lethal Targeting, Gun Kata)             |
+| **Initiative**        | 6                                                |
+| **Hit**               | 30/30                                            |
+| **Parry/Evade**       | 41/41                                            |
+| **Damage**            | STR + Weapon (+3 Melee)                          |
+| **Number of Actions** | 4                                                |
+| **DR/HP**             | 4 Dur + 2 Skin = 6 / 60                          |
+| **Special Attacks**   | -                                                |
+| **Special Abilities** | -                                                |
+| **Move**              | 16 (32 Arboreal Move)                            |
+
+### Cave Crawlers (Lvl 4)
+
+Long spindly creatures, extremely jointed and flexible, with lots of claws on various appendages. They look like a cross between a praying mantis and spider. They can climb any surface and can burrow their normal movement.
+
+| Attribute             | Value                               |
+|-----------------------|-------------------------------------|
+| **Str**               | 16                                  |
+| **Agi**               | 12                                  |
+| **Dur**               | 16                                  |
+| **Tht**               | 1                                   |
+| **Wil**               | 10                                  |
+| **Pre**               | 10                                  |
+| **Skills**            | Melee: 14, Acrobatica: 10, Climbing: 10 |
+| **Masteries**         | Melee (Lethal Targeting, Counterattack), Acrobatica (Anime Leap) |
+| **Masteries**         | Climbing (SpiderClimb)              |
+| **Initiative**        | 1                                   |
+| **Hit**               | 26/12                               |
+| **Parry/Evade**       | 37/33                               |
+| **Damage**            | STR+3 (claw/bite) (+3 Melee)        |
+| **Number of Actions** | 3                                   |
+| **DR/HP**             | 5 Dur + 8 Skin = 13 / 80            |
+| **Special Attacks**   | -                                   |
+| **Special Abilities** | -                                   |
+| **Move**              | 12 (25y leap, 76')                  |
+
+### Goblins (Lvl 1)
+
+Yum yums! Tasty treats for the whole family! Little ugly humanoids with a penchant for evil.
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 3                       |
+| **Agi**               | 4                       |
+| **Dur**               | 3                       |
+| **Tht**               | 4                       |
+| **Wil**               | 3                       |
+| **Pre**               | 3                       |
+| **Skills**            | Melee, Missile, Acrobatica: 4 |
+| **Initiative**        | 3                       |
+| **Hit**               | 8/8                     |
+| **Parry/Evade**       | 19/19                   |
+| **Damage**            | 3 + Weapon              |
+| **Number of Actions** | 1                       |
+| **DR/HP**             | 1/3                     |
+| **Special Attacks**   | -                       |
+| **Special Abilities** | -                       |
+| **Move**              | 4                       |
+
+### Orcs (Lvl 2)
+
+An intelligent scholarly race that revels in the finer aspects of culture. They have a great love for music and their pointed ears give them excellent hearing (+4 to WIL checks involving listening). They are fine engineers and craftsmen. They have a racial bonus of +2 to any skill rolls involving these areas. Often times, humans will seek out an Orcish blacksmith or Orcish architect to do a grand job. There are a rare few orcs who have been banished from their original homes, these wandering barbaric orcs often attack and attempt to kill/rob weakly defended humanoids.
+
+| Attribute             | Value                                          |
+|-----------------------|------------------------------------------------|
+| **Str**               | 8                                              |
+| **Agi**               | 8                                              |
+| **Dur**               | 8                                              |
+| **Tht**               | 6                                              |
+| **Wil**               | 6                                              |
+| **Pre**               | 6                                              |
+| **Skills**            | Lore, Acrobatica, Melee, Missile, Blacksmith, Profession: Architecture: 8 |
+| **Initiative**        | 8                                              |
+| **Hit**               | 16/16                                          |
+| **Parry/Evade**       | 27/27                                          |
+| **Damage**            | 8 + Weapon                                     |
+| **Number of Actions** | 2                                              |
+| **DR/HP**             | 2 + 2 Skin + Armor / 16                        |
+| **Special Attacks**   | -                                              |
+| **Special Abilities** | -                                              |
+| **Move**              | 8                                              |
+
+### Manifest Evil: Poltergeist (Lvl 5)
+
+Takes over people/creatures/animates objects. This evil force can only be harmed by magical attacks when not possessing a creature and truly enchanted weapons (magic weapons not spell boosted items). Otherwise, it has the defenses of the host. If the host is killed the evil is temporarily banished until the next midnight when it returns with a vengeance. If destroyed in its natural form it is banished until the next full moon. These creatures are immortal. In order for a Poltergeist to possess a target, it must roll a check of its Presence vs. the target's WIL. If successful, the Poltergeist can retain control of the creature for 1 round + 1 round for every success. The Poltergeist may possess as many targets per day as it wishes although only one such target at a time, and it's very obvious that the creature is being possessed (think original Ghostbusters Rick Moranis). If a Poltergeist is exorcised it is unable to possess any objects or creatures for 10 minutes.
+
+| Attribute             | Value                                                           |
+|-----------------------|-----------------------------------------------------------------|
+| **Str**               | 16                                                              |
+| **Agi**               | 16                                                              |
+| **Dur**               | 16                                                              |
+| **Tht**               | 16                                                              |
+| **Wil**               | 16                                                              |
+| **Pre**               | 16                                                              |
+| **Skills**            | Melee, Missile, Acrobatica: 14, Flight: 10                      |
+| **Masteries**         | Melee (Lethal Targeting, Reflexive Deflection), Acrobatica (Anime Leap, Arboreal Movement) |
+| **Masteries**         | Missile (Lethal Targeting, Death Blossom)                       |
+| **Masteries**         | Flight (Defensive Maneuvering)                                  |
+| **Initiative**        | 16                                                              |
+| **Hit**               | 30/30                                                           |
+| **Parry/Evade**       | 43/43 (47 air)                                                  |
+| **Damage**            | 16 (Telekinetic blast) or hurled objects 18                     |
+| **Number of Actions** | 4                                                               |
+| **DR/HP**             | 
+
+5 Dur + 6 Skin = 11 / 96                                        |
+| **Special Attacks**   | -                                                               |
+| **Special Abilities** | -                                                               |
+| **Move**              | 16 (32 flight)                                                  |
+
+### Singing Bush (Lvl 1)
+
+These magical bushes can wriggle and dance to their own melodic tunes. They lure people over with enchanting music and have been known to capture audiences until exhaustion forces the victim to pass unconscious. Once unconscious, the Bushes will invariably loot the victim of any shiny objects and their shoes, and leave them with a strange-smelling chloroform-based candy before uprooting and wandering away.
+
+| Attribute             | Value                                     |
+|-----------------------|-------------------------------------------|
+| **Str**               | 4                                         |
+| **Agi**               | 4                                         |
+| **Dur**               | 4                                         |
+| **Tht**               | 3                                         |
+| **Wil**               | 3                                         |
+| **Pre**               | 10                                        |
+| **Skills**            | Acrobatica: 6, Profession Dance: 6, Profession Singer: 6, Storytelling: 10 |
+| **Mastery**           | Storytelling (Enthrall)                   |
+| **Initiative**        | 3                                         |
+| **Hit**               | 4/4                                       |
+| **Parry/Evade**       | 21/21                                     |
+| **Damage**            | 4                                         |
+| **Number of Actions** | 1                                         |
+| **DR/HP**             | 1 Dur / 4                                 |
+| **Special Attacks**   | Enthrall                                  |
+| **Special Abilities** | -                                         |
+| **Move**              | 4                                         |
+
+### Progeny of the Dark (Lvl 2)
+
+These onyx-skinned humanoids stand roughly 5 ft tall. They have average builds and appear to be humans from a distance. The Progeny have completely black eyes that are very sensitive to light. They can also see in complete darkness up to their normal line of sight. The Progeny live underground in colonies and have been known to trade with other humanoids.
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 8                       |
+| **Agi**               | 8                       |
+| **Dur**               | 8                       |
+| **Tht**               | 4                       |
+| **Wil**               | 4                       |
+| **Pre**               | 4                       |
+| **Skills**            | Melee, Missile, Acrobatica: 8, Climbing: 8 |
+| **Initiative**        | 4                       |
+| **Hit**               | 16/16                   |
+| **Parry/Evade**       | 27/27                   |
+| **Damage**            | 8 + Weapon              |
+| **Number of Actions** | 2                       |
+| **DR/HP**             | 2 Dur + Armor / 16      |
+| **Special Attacks**   | -                       |
+| **Special Abilities** | -                       |
+| **Move**              | 8                       |
+
+### Field Hands (Lvl 1)
+
+Formed from the bodies of peasants. They cluster around fields, trying to steal food and destroy crops. These creatures mysteriously appear and will rise up against oppressing farm owners. They will often be wearing their Sunday finest.
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 6                       |
+| **Agi**               | 4                       |
+| **Dur**               | 6                       |
+| **Tht**               | 2                       |
+| **Wil**               | 2                       |
+| **Pre**               | 1                       |
+| **Skills**            | Melee, Acrobatica: 4    |
+| **Initiative**        | 2                       |
+| **Hit**               | 8/4                     |
+| **Parry/Evade**       | 19/19                   |
+| **Damage**            | 6 + Weapon              |
+| **Number of Actions** | 1                       |
+| **DR/HP**             | 2 Dur / 6               |
+| **Special Attacks**   | -                       |
+| **Special Abilities** | Sustained, Immune to Poison & Disease |
+| **Move**              | 4                       |
+
+### Missing Links (Lvl 3)
+
+These creatures are giant animated sausage links back to get their vengeance upon mankind. They are animated by the animal spirits that were butchered to make sausages.
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 14                      |
+| **Agi**               | 8                       |
+| **Dur**               | 12                      |
+| **Tht**               | 2                       |
+| **Wil**               | 7                       |
+| **Pre**               | 1                       |
+| **Skills**            | Melee, Acrobatica: 8    |
+| **Initiative**        | 2                       |
+| **Hit**               | 16/8                    |
+| **Parry/Evade**       | 27/27                   |
+| **Damage**            | 16 (bludgeon)           |
+| **Number of Actions** | 2                       |
+| **DR/HP**             | 4 Dur + 4 Skin = 8 / 36 |
+| **Special Attacks**   | -                       |
+| **Special Abilities** | Taste Delicious Grilled |
+| **Move**              | 8                       |
+
+### The Raisinoids (Lvl 3)
+
+Look like little California Raisin people. They move extremely fast (look like a blur). They have the Action Man Power level 4.
+
+| Attribute             | Value                            |
+|-----------------------|----------------------------------|
+| **Str**               | 4                                |
+| **Agi**               | 12                               |
+| **Dur**               | 12                               |
+| **Tht**               | 4                                |
+| **Wil**               | 4                                |
+| **Pre**               | 4                                |
+| **Skills**            | Melee, Missile, Acrobatica: 8, Climbing, Swimming: 6 |
+| **Initiative**        | 8                                |
+| **Hit**               | 20/20                            |
+| **Parry/Evade**       | 35/35                            |
+| **Damage**            | 4 + Weapon                       |
+| **Number of Actions** | 5                                |
+| **DR/HP**             | 4 Dur + 2 Skin + Armor / 36      |
+| **Special Attacks**   | -                                |
+| **Special Abilities** | Also Taste Delicious             |
+| **Move**              | 12                               |
+
+### BogWumps (Lvl 3)
+
+Creatures that live in marshes and swamps (mostly underwater). Like giant potato-shaped bodies with lots of tentacles and mouths, they tend to pull victims under and shake them vigorously.
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 14                      |
+| **Agi**               | 8                       |
+| **Dur**               | 16                      |
+| **Tht**               | 2                       |
+| **Wil**               | 6                       |
+| **Pre**               | 2                       |
+| **Skills**            | Melee, Acrobatica: 8, Missile: 8 |
+| **Initiative**        | 2                       |
+| **Hit**               | 16                      |
+| **Parry/Evade**       | 27/27                   |
+| **Damage**            | 16                      |
+| **Number of Actions** | 2                       |
+| **DR/HP**             | 5 Dur + 6 Skin = 11 / 48 |
+| **Special Attacks**   | -                       |
+| **Special Abilities** | Sustained               |
+| **Move**              | 8                       |
+
+### BookWorms (Lvl 1)
+
+Eat books/leather. Especially like the magical stuff. They are the result of a master wizard’s punishment for his failing students. These creatures have a chance of appearing when a magic item creation attempt fails. They will attempt to eat any papers/leather the mage has.
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 2                       |
+| **Agi**               | 4                       |
+| **Dur**               | 2                       |
+| **Tht**               | 0                       |
+| **Wil**               | 1                       |
+| **Pre**               | 0                       |
+| **Skills**            | Stealth: 7              |
+| **Initiative**        | 0                       |
+| **Hit**               | 4/4                     |
+| **Parry/Evade**       | 15/15                   |
+| **Damage**            | 2                       |
+| **Number of Actions** | 1                       |
+| **DR/HP**             | 0/2                     |
+| **Special Attacks**   | Eat books               |
+| **Special Abilities** | -                       |
+| **Move**              | 4                       |
+
+### FireBats (Lvl 1)
+
+Bats that are weird blood-red colors with wings fading to orange and yellow. Breathe fire, base damage 7, range 15 feet.
+
+| Attribute             | Value                            |
+|-----------------------|----------------------------------|
+| **Str**               | 5                                |
+| **Agi**               | 4                                |
+| **Dur**               | 4                                |
+| **Tht**               | 1                                |
+| **Wil**               | 
+
+1                                |
+| **Pre**               | 1                                |
+| **Skills**            | Missile, Melee, Flight, AcroBATica: 4 |
+| **Initiative**        | 1                                |
+| **Hit**               | 8/8                              |
+| **Parry/Evade**       | 19/19                            |
+| **Damage**            | 5/7 Breath                       |
+| **Number of Actions** | 1                                |
+| **DR/HP**             | 1 Dur / 4                        |
+| **Special Attacks**   | Firebreath                       |
+| **Special Abilities** | -                                |
+| **Move**              | 4 (8 Flight)                     |
+
+* * *
+
+### Phoenix (Lvl 2-5)
+
+These fiery eagles can fire a blast of flame (Fire Bolt cast at Phoenix Level + 7) or make a fiery clawed attack. If their bodies are put into a hot enough fire after death they are resurrected. Larger phoenix have been known to resurrect without a fire source. For every level above 2 they gain +3 to attributes, +2 to all skills, +4 DR per size/level.
+
+#### Phoenix Levels
+
+| Phoenix Level | Size  | Phoenix Weapon Base Damage | Bonus Skin DR | Grit |
+|---------------|-------|-----------------------------|---------------|------|
+| 2             | 6 ft  | +2                         | 4             | 1    |
+| 3             | 12 ft | +4                         | 8             | 2    |
+| 4             | 18 ft | +6                         | 12            | 4    |
+| 5             | 30 ft | +8                         | 16            | 5    |
+
+#### Phoenix Attributes
+
+| Attribute             | Value                          |
+|-----------------------|--------------------------------|
+| **Str**               | 8 + 3/level above 2            |
+| **Agi**               | 8 + 3/level above 2            |
+| **Dur**               | 8 + 3/level above 2            |
+| **Tht**               | 2 + 3/level above 2            |
+| **Wil**               | 4 + 3/level above 2            |
+| **Pre**               | 4 + 3/level above 2            |
+| **Skills**            | Melee, Missile, Acrobatica, Flight, Alertness: 8 + 2/level above 2 |
+| **Masteries**         | Melee (Lethal Targeting, Reflexive Deflection), Missile (Gun Kata, Lethal Targeting), Alertness (Panoramic Vision, Danger Sense), Acrobatica (Anime Leap, Arboreal Movement), Flight (Windrider, Defensive Maneuvering) |
+| **Initiative**        | 2 + 2/level above 2            |
+| **Hit**               | 16+/16+                        |
+| **Parry/Evade**       | 27+/27+                        |
+| **Damage**            | STR + 2 (Beak, Claws) +        |
+| **Number of Actions** | 2+                             |
+| **DR/HP**             | 2 Dur + 4 Skin = 6+/ (Grit + 1) x DUR |
+| **Special Attacks**   | Firebolt                       |
+| **Special Abilities** | Self Resurrection              |
+| **Move**              | 8+ (16+ flight)                |
+
+### Gores (Lvl 2) (Undead)
+
+Bloody wound-ridden bodies. Looks strikingly familiar to a former steward to the king. Clusters around cities, trying to tear them down and restore the environment. Once every other round in lieu of their standard attacks the Gores can breathe out the infamous “Boring Gore Wind”. Make a check of Gores' PRE vs. all targets' WIL within a 20' radius about the Gore. Each target affected loses 1 + number of successes earned in the check, actions.
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 6                       |
+| **Agi**               | 8                       |
+| **Dur**               | 8                       |
+| **Tht**               | 3                       |
+| **Wil**               | 8                       |
+| **Pre**               | 6                       |
+| **Skills**            | Melee, Acrobatica, Climbing: 6 |
+| **Initiative**        | 3                       |
+| **Hit**               | 14/8                    |
+| **Parry/Evade**       | 25/25                   |
+| **Damage**            | 6 + Weapon              |
+| **Number of Actions** | 2                       |
+| **DR/HP**             | 2 Dur + 2 Skin / 16     |
+| **Special Attacks**   | Boring Wind             |
+| **Special Abilities** | -                       |
+| **Move**              | 8                       |
+
+### The Maggotons (Lvl 3)
+
+Huge humanoid creatures made up of thousands and thousands of maggots. These writhing masses will attempt to consume raw flesh and increase their numbers. Rumor has it that the Maggotons were summoned by mages after a great war centuries ago to clean up the dead (must have been a lot of dead).
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 14                      |
+| **Agi**               | 8                       |
+| **Dur**               | 14                      |
+| **Tht**               | 1                       |
+| **Wil**               | 6                       |
+| **Pre**               | 2                       |
+| **Skills**            | Melee, Acrobatica: 8, Missile: 8 |
+| **Initiative**        | 2                       |
+| **Hit**               | 16                      |
+| **Parry/Evade**       | 27/27                   |
+| **Damage**            | 16                      |
+| **Number of Actions** | 2                       |
+| **DR/HP**             | 4 Dur + 4 Skin = 8 / 42 |
+| **Special Attacks**   | -                       |
+| **Special Abilities** | Regeneration: 2 hp/rnd  |
+| **Move**              | 8                       |
+
+### Sphynx (Lvl 4)
+
+This mythical creature has the head of a woman, the claws of a lion, and the wings of an eagle. Sphynx are rumored to always be looking for great new riddles.
+
+| Attribute             | Value                                            |
+|-----------------------|--------------------------------------------------|
+| **Str**               | 14                                               |
+| **Agi**               | 12                                               |
+| **Dur**               | 14                                               |
+| **Tht**               | 12                                               |
+| **Wil**               | 10                                               |
+| **Pre**               | 8                                                |
+| **Skills**            | Missile, Flight, Alertness, Acrobatica: 10, Melee: 14 |
+| **Masteries**         | Melee (Reflexive Deflection, Lethal Targeting), Missile (QuickShot), Alertness (Danger Sense), Acrobatica (Anime Leap), Flight (Defensive Maneuvering) |
+| **Initiative**        | 22                                               |
+| **Hit**               | 26/22                                            |
+| **Parry/Evade**       | 35/35 (39 Air)                                   |
+| **Damage**            | STR + Weapon or +3 Claw (+3 Melee)               |
+| **Number of Actions** | 3                                                |
+| **DR/HP**             | 4 Dur + 7 Skin = 11 / 70                         |
+| **Special Attacks**   | -                                                |
+| **Special Abilities** | -                                                |
+| **Move**              | 12 (24 flight)                                   |
+
+### Shrublings (Lvl 1)
+
+Small (fist-sized) creatures that look like furry balls (tribbles). Cluster in tribes under large forest shrubs. (Think Secret of Nymph).
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 1                       |
+| **Agi**               | 4                       |
+| **Dur**               | 4                       |
+| **Tht**               | 2                       |
+| **Wil**               | 2                       |
+| **Pre**               | 2                       |
+| **Skills**            | Melee, Acrobatica: 4    |
+| **Initiative**        | 2                       |
+| **Hit**               | 8/4                     |
+| **Parry/Evade**       | 19/19                   |
+| **Damage**            | 1                       |
+| **Number of Actions** | 1                       |
+| **DR/HP**             | 1 Dur / 4               |
+| **Special Attacks**   | -                       |
+| **Special Abilities** | -                       |
+| **Move**              | 4                       |
+
+### The Monster Under the Bed (Lvl 3)
+
+These nefarious boogie men, found in city-type environments (especially inns in which PC’s sleep).
+
+| Attribute             | Value                   |
+|-----------------------|-------------------------|
+| **Str**               | 14                      |
+| **Agi**               | 8                       |
+| **Dur**               | 14                      |
+| **Tht**               | 6                       |
+| **Wil**               | 8                       |
+| **Pre**               | 1                       |
+| **Skills**            | Melee, Acrobatica: 10, Stealth: 10 |
+| **Initiative**        | 6                       |
+| **Hit**               | 18/8                    |
+| **Parry/Evade**       | 29/29                   |
+| **Damage**            | 16                      |
+| **Number of Actions** | 2                       |
+| **DR/HP**             | 4 Dur + 6 Skin = 10 / 42 |
+| **Special Attacks**   | -                       |
+| **Special Abilities** | -                       |
+| **Move**              | 8                       |
 
 * * *
 
