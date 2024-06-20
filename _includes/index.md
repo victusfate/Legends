@@ -1763,7 +1763,7 @@ worth it, see the effects of Crafting Masteries.
 | Arrows (Wooden, 10)                      | 3 cp          | Strength +1 dam                                                                                                  |
 | Arrows (Metal tipped, 10)                | 1 sp          | Strength +2 dam                                                                                                  |
 | Bullets (10)                             | 1 sp          | Strength +1 dam                                                                                                  |
-| Bolts (10)                               | 2, 4, 6, 8, 10 sp | Damage based on crossbow                                                                                          |
+| Bolts (10)                               | 2, 4, 6, 8 sp | Damage based on crossbow                                                                                          |
 | Bastard Sword                            | 3 gp          | Strength +2 dam (one handed) / +3 dam (two handed), can be wielded one or two handed                             |
 | Battle Axe                               | 3 gp          | Strength +2 one handed                                                                                           |
 | Bow                                      | 2 gp          | Range 200 yards + 10 yards/strength, base range of 4 STR (4-8, 5-9, 16-20), Masterwork bows range of 8 STR (4-12, 8-16) |
@@ -1787,6 +1787,8 @@ worth it, see the effects of Crafting Masteries.
 | Large Shield (Wooden)                    | 4 sp          | +2 to deflection                                                                                                  |
 | Large Shield (Metal)                     | 2 gp          | +2 to deflection                                                                                                  |
 | Sling                                    | 1 sp          | Range 10 yards + 10 yards/strength                                                                               |
+
+
 All armors (aside from leather) give a penalty of their DR to stealth checks.
 
 Metal armors also give a penalty of their DR – ½ character strength (rounded
